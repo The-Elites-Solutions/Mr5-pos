@@ -1,0 +1,286 @@
+\doxysection{com.\+example.\+app.\+Database\+Connection Class Reference}
+\label{classcom_1_1example_1_1app_1_1_database_connection}\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \textbf{ Change\+Password} (String username, String New\+Password)
+\item 
+void \textbf{ Delete\+User} (String username)
+\item 
+void \textbf{ Change\+Fonction} (String username, String New\+Fonction)
+\item 
+void \textbf{ Change\+Dollar\+Rate} (String currency, double new\+Dollar\+Rate, Date last\+Updated)
+\item 
+void \textbf{ delete\+Dollar\+Rate} (String currency)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \textbf{ start\+Connection} ()
+\item 
+static void \textbf{ stop\+Connection} ()
+\item 
+static Array\+List$<$ \textbf{ Dollar\+Rate} $>$ \textbf{ get\+Dollar\+Rates} ()
+\item 
+static Array\+List$<$ String $>$ \textbf{ get\+Categories} ()
+\item 
+static Array\+List$<$ \textbf{ Expenses} $>$ \textbf{ get\+Expenses} ()
+\item 
+static Array\+List$<$ String $>$ \textbf{ get\+Fonction} ()
+\item 
+static void \textbf{ Load\+Users} ()
+\item 
+static void \textbf{ change\+Password} (String username, String password)
+\item 
+static void \textbf{ change\+Fonction} (String username, String fonction)
+\item 
+static void \textbf{ delete\+User} (String username)
+\item 
+static void \textbf{ delete\+Fonction} (String fonctionname)
+\item 
+static void \textbf{ add\+User} (String username, String password, String fonction)
+\item 
+static Document \textbf{ get\+All\+Users} ()
+\item 
+static void \textbf{ add\+Fonction} (String new\+Fonction, Boolean vieworder\+Panel, Boolean neworder\+Panel, Boolean expenses\+Panel, Boolean settings\+Panel, Boolean reports\+Panel, Boolean menuitems\+Panel)
+\item 
+static void \textbf{ add\+Dollar\+Rate} (String currency, double dollar\+Rate, Date last\+Updated)
+\item 
+static void \textbf{ add\+Expense} (String name, String description, int amount, Date date, String currency)
+\item 
+static void \textbf{ delete\+Expense} (String name)
+\item 
+static void \textbf{ load\+Menu\+Items} ()
+\item 
+static void \textbf{ add\+Menu\+Item} (\textbf{ Menu\+Item} menu\+Item)
+\item 
+static void \textbf{ delete\+Menu\+Item} (String name)
+\item 
+static void \textbf{ change\+Menu\+Item} (String name, String description, String category, double price, Array\+List$<$ String $>$ ingredients)
+\item 
+static void \textbf{ load\+Categories} ()
+\item 
+static void \textbf{ add\+Category} (String category)
+\item 
+static void \textbf{ delete\+Category} (String category)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\label{classcom_1_1example_1_1app_1_1_database_connection_a4af03a9a2e3d530d1869752fba4dcbc1} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addCategory@{addCategory}}
+\index{addCategory@{addCategory}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addCategory()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+Category (\begin{DoxyParamCaption}\item[{String}]{category }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a215373ef0b77273b7d26d83c01a51a58} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addDollarRate@{addDollarRate}}
+\index{addDollarRate@{addDollarRate}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addDollarRate()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+Dollar\+Rate (\begin{DoxyParamCaption}\item[{String}]{currency,  }\item[{double}]{dollar\+Rate,  }\item[{Date}]{last\+Updated }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 0
+\label{classcom_1_1example_1_1app_1_1_database_connection_ae796011b06d70b29b1654958be405e33} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addExpense@{addExpense}}
+\index{addExpense@{addExpense}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addExpense()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+Expense (\begin{DoxyParamCaption}\item[{String}]{name,  }\item[{String}]{description,  }\item[{int}]{amount,  }\item[{Date}]{date,  }\item[{String}]{currency }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a71bcec7b0e72e045109ec0cf0f542df2} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addFonction@{addFonction}}
+\index{addFonction@{addFonction}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addFonction()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+Fonction (\begin{DoxyParamCaption}\item[{String}]{new\+Fonction,  }\item[{Boolean}]{vieworder\+Panel,  }\item[{Boolean}]{neworder\+Panel,  }\item[{Boolean}]{expenses\+Panel,  }\item[{Boolean}]{settings\+Panel,  }\item[{Boolean}]{reports\+Panel,  }\item[{Boolean}]{menuitems\+Panel }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 1
+\label{classcom_1_1example_1_1app_1_1_database_connection_a255a9d41d7d29615c83b3becedee45a4} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addMenuItem@{addMenuItem}}
+\index{addMenuItem@{addMenuItem}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addMenuItem()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+Menu\+Item (\begin{DoxyParamCaption}\item[{\textbf{ Menu\+Item}}]{menu\+Item }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 2
+\label{classcom_1_1example_1_1app_1_1_database_connection_a33430194b41c7561d36192e1d93d473e} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!addUser@{addUser}}
+\index{addUser@{addUser}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{addUser()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+add\+User (\begin{DoxyParamCaption}\item[{String}]{username,  }\item[{String}]{password,  }\item[{String}]{fonction }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 3
+\label{classcom_1_1example_1_1app_1_1_database_connection_a3f318c83ff44b60cf355c722143d5709} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!ChangeDollarRate@{ChangeDollarRate}}
+\index{ChangeDollarRate@{ChangeDollarRate}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{ChangeDollarRate()}
+{\footnotesize\ttfamily void com.\+example.\+app.\+Database\+Connection.\+Change\+Dollar\+Rate (\begin{DoxyParamCaption}\item[{String}]{currency,  }\item[{double}]{new\+Dollar\+Rate,  }\item[{Date}]{last\+Updated }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+% FIG 4
+\label{classcom_1_1example_1_1app_1_1_database_connection_a9e999f09adb2d32f897533d25d8ba999} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!changeFonction@{changeFonction}}
+\index{changeFonction@{changeFonction}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{changeFonction()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+change\+Fonction (\begin{DoxyParamCaption}\item[{String}]{username,  }\item[{String}]{fonction }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 5
+\label{classcom_1_1example_1_1app_1_1_database_connection_a1ad5feb4058cbbc2ea5655297e957885} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!ChangeFonction@{ChangeFonction}}
+\index{ChangeFonction@{ChangeFonction}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{ChangeFonction()}
+{\footnotesize\ttfamily void com.\+example.\+app.\+Database\+Connection.\+Change\+Fonction (\begin{DoxyParamCaption}\item[{String}]{username,  }\item[{String}]{New\+Fonction }\end{DoxyParamCaption})}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a2cd7641bc1ba2b4f7ad3f5c08448d750} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!changeMenuItem@{changeMenuItem}}
+\index{changeMenuItem@{changeMenuItem}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{changeMenuItem()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+change\+Menu\+Item (\begin{DoxyParamCaption}\item[{String}]{name,  }\item[{String}]{description,  }\item[{String}]{category,  }\item[{double}]{price,  }\item[{Array\+List$<$ String $>$}]{ingredients }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 6
+\label{classcom_1_1example_1_1app_1_1_database_connection_a553ba63f0d361a837f09f124b050465f} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!ChangePassword@{ChangePassword}}
+\index{ChangePassword@{ChangePassword}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{ChangePassword()}
+{\footnotesize\ttfamily void com.\+example.\+app.\+Database\+Connection.\+Change\+Password (\begin{DoxyParamCaption}\item[{String}]{username,  }\item[{String}]{New\+Password }\end{DoxyParamCaption})}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_af95984016afe0525cf66d1cb9b6b1024} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!changePassword@{changePassword}}
+\index{changePassword@{changePassword}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{changePassword()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+change\+Password (\begin{DoxyParamCaption}\item[{String}]{username,  }\item[{String}]{password }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 7
+\label{classcom_1_1example_1_1app_1_1_database_connection_a4a9e0d47fb0cf779327bec805ac3aa4e} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteCategory@{deleteCategory}}
+\index{deleteCategory@{deleteCategory}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteCategory()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+delete\+Category (\begin{DoxyParamCaption}\item[{String}]{category }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a561636e28fe53521a33313802bfc9ce5} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteDollarRate@{deleteDollarRate}}
+\index{deleteDollarRate@{deleteDollarRate}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteDollarRate()}
+{\footnotesize\ttfamily void com.\+example.\+app.\+Database\+Connection.\+delete\+Dollar\+Rate (\begin{DoxyParamCaption}\item[{String}]{currency }\end{DoxyParamCaption})}
+
+Here is the caller graph for this function\+:
+% FIG 8
+\label{classcom_1_1example_1_1app_1_1_database_connection_a17176d60c8f4d7cb4413ae8ad4d7d2aa} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteExpense@{deleteExpense}}
+\index{deleteExpense@{deleteExpense}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteExpense()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+delete\+Expense (\begin{DoxyParamCaption}\item[{String}]{name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 9
+\label{classcom_1_1example_1_1app_1_1_database_connection_ad00b30e26bc3efd18941226010d87bb1} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteFonction@{deleteFonction}}
+\index{deleteFonction@{deleteFonction}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteFonction()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+delete\+Fonction (\begin{DoxyParamCaption}\item[{String}]{fonctionname }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 10
+\label{classcom_1_1example_1_1app_1_1_database_connection_a4d13d7e1fd60e81bfea012719f2e39de} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteMenuItem@{deleteMenuItem}}
+\index{deleteMenuItem@{deleteMenuItem}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteMenuItem()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+delete\+Menu\+Item (\begin{DoxyParamCaption}\item[{String}]{name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 11
+\label{classcom_1_1example_1_1app_1_1_database_connection_a23bc9e7f1fe9c435c61a6f5bb5b0aad9} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!deleteUser@{deleteUser}}
+\index{deleteUser@{deleteUser}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{deleteUser()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+delete\+User (\begin{DoxyParamCaption}\item[{String}]{username }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 12
+\label{classcom_1_1example_1_1app_1_1_database_connection_a7c7ff911d6521d939a05f59d4262a00d} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!DeleteUser@{DeleteUser}}
+\index{DeleteUser@{DeleteUser}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{DeleteUser()}
+{\footnotesize\ttfamily void com.\+example.\+app.\+Database\+Connection.\+Delete\+User (\begin{DoxyParamCaption}\item[{String}]{username }\end{DoxyParamCaption})}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a41166f42b3a3575bc3662cd3b2efb3d4} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!getAllUsers@{getAllUsers}}
+\index{getAllUsers@{getAllUsers}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{getAllUsers()}
+{\footnotesize\ttfamily static Document com.\+example.\+app.\+Database\+Connection.\+get\+All\+Users (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_a96bf0457c2f982554dada08d52c589f7} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!getCategories@{getCategories}}
+\index{getCategories@{getCategories}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{getCategories()}
+{\footnotesize\ttfamily static Array\+List$<$ String $>$ com.\+example.\+app.\+Database\+Connection.\+get\+Categories (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_aaef6108d7e9af1fa07961de22cae141f} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!getDollarRates@{getDollarRates}}
+\index{getDollarRates@{getDollarRates}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{getDollarRates()}
+{\footnotesize\ttfamily static Array\+List$<$ \textbf{ Dollar\+Rate} $>$ com.\+example.\+app.\+Database\+Connection.\+get\+Dollar\+Rates (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 13
+\label{classcom_1_1example_1_1app_1_1_database_connection_a9a1802f77f077433078f3abcffe67dc0} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!getExpenses@{getExpenses}}
+\index{getExpenses@{getExpenses}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{getExpenses()}
+{\footnotesize\ttfamily static Array\+List$<$ \textbf{ Expenses} $>$ com.\+example.\+app.\+Database\+Connection.\+get\+Expenses (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 14
+\label{classcom_1_1example_1_1app_1_1_database_connection_a521cd35c1a7c56aef730ceed16e4cf1b} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!getFonction@{getFonction}}
+\index{getFonction@{getFonction}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{getFonction()}
+{\footnotesize\ttfamily static Array\+List$<$ String $>$ com.\+example.\+app.\+Database\+Connection.\+get\+Fonction (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 15
+\label{classcom_1_1example_1_1app_1_1_database_connection_a65de43fa8f8fc9a0e93d89a0e1c07307} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!loadCategories@{loadCategories}}
+\index{loadCategories@{loadCategories}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{loadCategories()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+load\+Categories (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 16
+\label{classcom_1_1example_1_1app_1_1_database_connection_a0a890d8dafd0c41067c5b05e4777338a} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!loadMenuItems@{loadMenuItems}}
+\index{loadMenuItems@{loadMenuItems}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{loadMenuItems()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+load\+Menu\+Items (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 17
+\label{classcom_1_1example_1_1app_1_1_database_connection_ab619544d37dd0c8b693b51dca18fd53e} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!LoadUsers@{LoadUsers}}
+\index{LoadUsers@{LoadUsers}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{LoadUsers()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+Load\+Users (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Here is the caller graph for this function\+:
+% FIG 18
+\label{classcom_1_1example_1_1app_1_1_database_connection_a7b310232c7772b6c664457a1681751ce} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!startConnection@{startConnection}}
+\index{startConnection@{startConnection}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{startConnection()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+start\+Connection (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+\label{classcom_1_1example_1_1app_1_1_database_connection_ae6cef50d8d6fdd3c7fd9695c8ee35d19} 
+\index{com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}!stopConnection@{stopConnection}}
+\index{stopConnection@{stopConnection}!com.example.app.DatabaseConnection@{com.example.app.DatabaseConnection}}
+\doxysubsubsection{stopConnection()}
+{\footnotesize\ttfamily static void com.\+example.\+app.\+Database\+Connection.\+stop\+Connection (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/johnn/\+Documents/\+Universal Script/\+Teams/\+TSF/\+POS/\+TSFApp/\+App/src/main/java/com/example/app/\textbf{ Database\+Connection.\+java}\end{DoxyCompactItemize}

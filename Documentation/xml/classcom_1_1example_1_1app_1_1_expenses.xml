@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_expenses" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::Expenses</compoundname>
+    <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a3d19329c0dd84b15c14a8d3f1bb1b07f" prot="private" static="yes" mutable="no">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_expenses" kindref="compound">Expenses</ref> &gt;</type>
+        <definition>ArrayList&lt;Expenses&gt; com.example.app.Expenses.allExpenses</definition>
+        <argsstring></argsstring>
+        <name>allExpenses</name>
+        <qualifiedname>com.example.app.Expenses.allExpenses</qualifiedname>
+        <initializer>= new ArrayList&lt;<ref refid="classcom_1_1example_1_1app_1_1_expenses" kindref="compound">Expenses</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="8" column="31" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a351f63d19778ed313aa7dc6e3a12027a" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.totalExpenses</definition>
+        <argsstring></argsstring>
+        <name>totalExpenses</name>
+        <qualifiedname>com.example.app.Expenses.totalExpenses</qualifiedname>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="9" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a469acbf27d0b2ebd2dee182524fd6325" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.totalAmount</definition>
+        <argsstring></argsstring>
+        <name>totalAmount</name>
+        <qualifiedname>com.example.app.Expenses.totalAmount</qualifiedname>
+        <initializer>= 0</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="10" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1ace6ac0964b78ebc61ddd89f4bc0a8c28" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.amount</definition>
+        <argsstring></argsstring>
+        <name>amount</name>
+        <qualifiedname>com.example.app.Expenses.amount</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="11" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a076c1e2ed838e137970a766597b7370f" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.description</definition>
+        <argsstring></argsstring>
+        <name>description</name>
+        <qualifiedname>com.example.app.Expenses.description</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="12" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a88b096ee4bd9a534bc1b39493c7f10fd" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <qualifiedname>com.example.app.Expenses.name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="13" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a0a27feb197a9f63cd60063aae83f3dc9" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.id</definition>
+        <argsstring></argsstring>
+        <name>id</name>
+        <qualifiedname>com.example.app.Expenses.id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="14" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a57ed9b567d917c2a946349893fb5b05b" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.date</definition>
+        <argsstring></argsstring>
+        <name>date</name>
+        <qualifiedname>com.example.app.Expenses.date</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="15" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_expenses_1a8c0a016eaaaf2ac2d3cf20b9a3355d0d" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.currency</definition>
+        <argsstring></argsstring>
+        <name>currency</name>
+        <qualifiedname>com.example.app.Expenses.currency</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="17" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="17" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1aa876fa74d3e9f5bf32d051e0318ff256" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.Expenses.Expenses</definition>
+        <argsstring>()</argsstring>
+        <name>Expenses</name>
+        <qualifiedname>com.example.app.Expenses.Expenses</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="19" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="19" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a1c57db11bbb70382f98776fc4c060693" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.Expenses.Expenses</definition>
+        <argsstring>(String name, String description, int amount, Date date, String currency)</argsstring>
+        <name>Expenses</name>
+        <qualifiedname>com.example.app.Expenses.Expenses</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>description</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>amount</declname>
+        </param>
+        <param>
+          <type>Date</type>
+          <declname>date</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>currency</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="22" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="22" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a526cc5696effd06f7e6b3d4f1c37e481" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.getAmount</definition>
+        <argsstring>()</argsstring>
+        <name>getAmount</name>
+        <qualifiedname>com.example.app.Expenses.getAmount</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="73" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="73" bodyend="75"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1af290cca3a359f5941d24e0ec04d11141" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.getDescription</definition>
+        <argsstring>()</argsstring>
+        <name>getDescription</name>
+        <qualifiedname>com.example.app.Expenses.getDescription</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="77" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="77" bodyend="79"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a5be2fec2c6aa58d2e57920cbc7c754ee" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.getName</definition>
+        <argsstring>()</argsstring>
+        <name>getName</name>
+        <qualifiedname>com.example.app.Expenses.getName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="81" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="81" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1abedc643f4c18671ac7fc112d2f9fc4df" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int com.example.app.Expenses.getId</definition>
+        <argsstring>()</argsstring>
+        <name>getId</name>
+        <qualifiedname>com.example.app.Expenses.getId</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="85" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="85" bodyend="87"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1ad3279f8e89faf0dc7d7f3be18df2753b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.getCurrency</definition>
+        <argsstring>()</argsstring>
+        <name>getCurrency</name>
+        <qualifiedname>com.example.app.Expenses.getCurrency</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="89" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="89" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a4f5b355d8574af02d53c67eee78dc1bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Expenses.getDate</definition>
+        <argsstring>()</argsstring>
+        <name>getDate</name>
+        <qualifiedname>com.example.app.Expenses.getDate</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="91" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="91" bodyend="93"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1ab8f1e9cc8fd6e39e2275afa72eec20f9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setAmount</definition>
+        <argsstring>(int amount)</argsstring>
+        <name>setAmount</name>
+        <qualifiedname>com.example.app.Expenses.setAmount</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>amount</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="33" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="33" bodyend="35"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a497a445f7bd0f63e007805fea37885b8" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setDescription</definition>
+        <argsstring>(String description)</argsstring>
+        <name>setDescription</name>
+        <qualifiedname>com.example.app.Expenses.setDescription</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>description</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="37" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="37" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a94400174734740cffdd1b4eaddef74d8" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setName</definition>
+        <argsstring>(String name)</argsstring>
+        <name>setName</name>
+        <qualifiedname>com.example.app.Expenses.setName</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="41" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="41" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1acceb398665ec65707c307cba5011db2e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setId</definition>
+        <argsstring>()</argsstring>
+        <name>setId</name>
+        <qualifiedname>com.example.app.Expenses.setId</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="45" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="45" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1af2402617c3a04cb7aab9012125d64310" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setDate</definition>
+        <argsstring>(Date date)</argsstring>
+        <name>setDate</name>
+        <qualifiedname>com.example.app.Expenses.setDate</qualifiedname>
+        <param>
+          <type>Date</type>
+          <declname>date</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="49" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="49" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a2acd7b891293f72f83ca8e0050689f37" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Expenses.setCurrency</definition>
+        <argsstring>(String currency)</argsstring>
+        <name>setCurrency</name>
+        <qualifiedname>com.example.app.Expenses.setCurrency</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>currency</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="60" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="60" bodyend="60"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a7b5f4a8bb54eb5da7b37c5dff4e32516" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int com.example.app.Expenses.getTotalExpenses</definition>
+        <argsstring>()</argsstring>
+        <name>getTotalExpenses</name>
+        <qualifiedname>com.example.app.Expenses.getTotalExpenses</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="61" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="61" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a0e3d36b3a38952b80c2c091ad60accfc" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int com.example.app.Expenses.getTotalAmount</definition>
+        <argsstring>()</argsstring>
+        <name>getTotalAmount</name>
+        <qualifiedname>com.example.app.Expenses.getTotalAmount</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="65" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="65" bodyend="67"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a3782fac40a53099b0dd0eecb6b50a081" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_expenses" kindref="compound">Expenses</ref> &gt;</type>
+        <definition>static ArrayList&lt; Expenses &gt; com.example.app.Expenses.getAllExpenses</definition>
+        <argsstring>()</argsstring>
+        <name>getAllExpenses</name>
+        <qualifiedname>com.example.app.Expenses.getAllExpenses</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="69" column="30" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="69" bodyend="71"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_expense_1a581f6167c28c8f2d228b4bd13c6e3e38" compoundref="_expense_8java" startline="27" endline="41">com.example.app.Expense.initialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1ad4457bf7ac31d57e1bfc10c0c16909be" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>static ArrayList&lt; String &gt; com.example.app.Expenses.getAllExpensesNames</definition>
+        <argsstring>()</argsstring>
+        <name>getAllExpensesNames</name>
+        <qualifiedname>com.example.app.Expenses.getAllExpensesNames</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="97" column="29" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="97" bodyend="103"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_remove_expense_1ac66d559d7927ded32a65a52db668056d" compoundref="_remove_expense_8java" startline="24" endline="29">com.example.app.RemoveExpense.initialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1aa24b6eac5f0a9766f81ab7e7a07c55df" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.Expenses.removeExpense</definition>
+        <argsstring>(String name)</argsstring>
+        <name>removeExpense</name>
+        <qualifiedname>com.example.app.Expenses.removeExpense</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="104" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="104" bodyend="114"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a17176d60c8f4d7cb4413ae8ad4d7d2aa" compoundref="_database_connection_8java" startline="195" endline="199">com.example.app.DatabaseConnection.deleteExpense</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_remove_expense_1a7f7344061b10f587d8519f468aa71a41" compoundref="_remove_expense_8java" startline="32" endline="51">com.example.app.RemoveExpense.btnRemoveExpenseActionPerformed</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a681092368522b2dd026c593c13973e08" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>static Boolean com.example.app.Expenses.checkExpense</definition>
+        <argsstring>(String name)</argsstring>
+        <name>checkExpense</name>
+        <qualifiedname>com.example.app.Expenses.checkExpense</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="116" column="27" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="116" bodyend="123"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_expenses_1a19493a89e2a56567363bb1215dfbfce2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.Expenses.removeAllExpenses</definition>
+        <argsstring>()</argsstring>
+        <name>removeAllExpenses</name>
+        <qualifiedname>com.example.app.Expenses.removeAllExpenses</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="125" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="125" bodyend="129"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" line="7" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Expenses.java" bodystart="7" bodyend="132"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a3d19329c0dd84b15c14a8d3f1bb1b07f" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>allExpenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1ace6ac0964b78ebc61ddd89f4bc0a8c28" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>amount</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a681092368522b2dd026c593c13973e08" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>checkExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a8c0a016eaaaf2ac2d3cf20b9a3355d0d" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>currency</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a57ed9b567d917c2a946349893fb5b05b" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>date</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a076c1e2ed838e137970a766597b7370f" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>description</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1aa876fa74d3e9f5bf32d051e0318ff256" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>Expenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a1c57db11bbb70382f98776fc4c060693" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>Expenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a3782fac40a53099b0dd0eecb6b50a081" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getAllExpenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1ad4457bf7ac31d57e1bfc10c0c16909be" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getAllExpensesNames</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a526cc5696effd06f7e6b3d4f1c37e481" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getAmount</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1ad3279f8e89faf0dc7d7f3be18df2753b" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getCurrency</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a4f5b355d8574af02d53c67eee78dc1bd" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getDate</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1af290cca3a359f5941d24e0ec04d11141" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getDescription</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1abedc643f4c18671ac7fc112d2f9fc4df" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getId</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a5be2fec2c6aa58d2e57920cbc7c754ee" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getName</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a0e3d36b3a38952b80c2c091ad60accfc" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getTotalAmount</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a7b5f4a8bb54eb5da7b37c5dff4e32516" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>getTotalExpenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a0a27feb197a9f63cd60063aae83f3dc9" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>id</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a88b096ee4bd9a534bc1b39493c7f10fd" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>name</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a19493a89e2a56567363bb1215dfbfce2" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>removeAllExpenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1aa24b6eac5f0a9766f81ab7e7a07c55df" prot="public" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>removeExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1ab8f1e9cc8fd6e39e2275afa72eec20f9" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setAmount</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a2acd7b891293f72f83ca8e0050689f37" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setCurrency</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1af2402617c3a04cb7aab9012125d64310" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setDate</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a497a445f7bd0f63e007805fea37885b8" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setDescription</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1acceb398665ec65707c307cba5011db2e" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setId</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a94400174734740cffdd1b4eaddef74d8" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>setName</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a469acbf27d0b2ebd2dee182524fd6325" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>totalAmount</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_expenses_1a351f63d19778ed313aa7dc6e3a12027a" prot="private" virt="non-virtual"><scope>com::example::app::Expenses</scope><name>totalExpenses</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

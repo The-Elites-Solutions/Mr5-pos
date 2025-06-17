@@ -1,0 +1,36 @@
+This is a log entry written on Thu Jun 27 01:54:16 EEST 2024
+01:54:16.582 [main] INFO org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+01:54:16.597 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+01:54:16.613 [main] INFO org.mongodb.driver.cluster - Cluster description not yet available. Waiting for 30000 ms before timing out
+01:54:16.621 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:1}] to localhost:27017
+01:54:16.633 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] DEBUG org.mongodb.driver.cluster - Checking status of localhost:27017
+01:54:16.637 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "ismaster" : 1, "$db" : "admin" }' with request id 4 to database admin on connection [connectionId{localValue:1}] to server localhost:27017
+01:54:16.638 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 4 completed successfully in 2.65 ms on connection [connectionId{localValue:1}] to server localhost:27017
+01:54:16.638 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] INFO org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[7, 0, 8]}, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5262700}
+01:54:16.639 [cluster-ClusterId{value='667c9c18dd1e3c1de8fbfa08', description='null'}-localhost:27017] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=5.3 ms, state=CONNECTED}]
+01:54:16.644 [main] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:2}] to localhost:27017
+01:54:16.648 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 8 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.648 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 8 completed successfully in 0.89 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Users loaded from the Database Thu Jun 27 01:54:16 EEST 2024
+Users loaded Thu Jun 27 01:54:16 EEST 2024
+01:54:16.652 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 9 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.652 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 9 completed successfully in 0.65 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Fonctions loaded from database Thu Jun 27 01:54:16 EEST 2024
+Fonctions loaded Thu Jun 27 01:54:16 EEST 2024
+01:54:16.657 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "expenses", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 10 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.657 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 10 completed successfully in 0.85 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Expenses loaded from the Database Thu Jun 27 01:54:16 EEST 2024
+Expenses loaded Thu Jun 27 01:54:16 EEST 2024
+01:54:16.658 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "menuitems", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 11 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.659 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 11 completed successfully in 0.72 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Menu Items loaded from the Database Thu Jun 27 01:54:16 EEST 2024
+Menu items loaded Thu Jun 27 01:54:16 EEST 2024
+01:54:16.662 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "categories", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 12 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.662 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 12 completed successfully in 0.76 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Categories loaded from the Database Thu Jun 27 01:54:16 EEST 2024
+Menu items loaded Thu Jun 27 01:54:16 EEST 2024
+01:54:16.663 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "currency", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 13 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+01:54:16.664 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 13 completed successfully in 0.61 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Dollar rates loaded Thu Jun 27 01:54:16 EEST 2024
+Dollar rates loaded Thu Jun 27 01:54:16 EEST 2024
+Everything is loaded Thu Jun 27 01:54:16 EEST 2024

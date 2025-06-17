@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_add_expense" xml:lang="en-US">
+<title>com.example.app.AddExpense Class Reference</title>
+<indexterm><primary>com.example.app.AddExpense</primary></indexterm>
+Collaboration diagram for com.example.app.AddExpense:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_expense__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_add_expense_1ae6d49a63576ddb8a96d5783130c6ef1c">AddExpense</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_expense_1ac5fb6e57364e3cc0133bb1e3f9c3a304">setExpenseRefresher</link> (<link linkend="_interfacecom_1_1example_1_1app_1_1_refreshlist">Refreshlist</link> expenseRefresher)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_expense_1ad546ebc9e8164dce0bd7ae6998d4ae8e">initialize</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_expense_1a91dfe29aac2edc8d72c1e56223c294cf">setBtnAddExpense</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_expense_1adb95a08acbdd20185722042aaf7340c8">CancelBtnOnAction</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_expense_1ae6d49a63576ddb8a96d5783130c6ef1c"/><section>
+    <title>AddExpense()</title>
+<indexterm><primary>AddExpense</primary><secondary>com.example.app.AddExpense</secondary></indexterm>
+<indexterm><primary>com.example.app.AddExpense</primary><secondary>AddExpense</secondary></indexterm>
+<para><computeroutput>com.example.app.AddExpense.AddExpense ( )</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_expense_1adb95a08acbdd20185722042aaf7340c8"/><section>
+    <title>CancelBtnOnAction()</title>
+<indexterm><primary>CancelBtnOnAction</primary><secondary>com.example.app.AddExpense</secondary></indexterm>
+<indexterm><primary>com.example.app.AddExpense</primary><secondary>CancelBtnOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddExpense.CancelBtnOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_expense_1ad546ebc9e8164dce0bd7ae6998d4ae8e"/><section>
+    <title>initialize()</title>
+<indexterm><primary>initialize</primary><secondary>com.example.app.AddExpense</secondary></indexterm>
+<indexterm><primary>com.example.app.AddExpense</primary><secondary>initialize</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddExpense.initialize ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_expense_ad546ebc9e8164dce0bd7ae6998d4ae8e_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_expense_1a91dfe29aac2edc8d72c1e56223c294cf"/><section>
+    <title>setBtnAddExpense()</title>
+<indexterm><primary>setBtnAddExpense</primary><secondary>com.example.app.AddExpense</secondary></indexterm>
+<indexterm><primary>com.example.app.AddExpense</primary><secondary>setBtnAddExpense</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddExpense.setBtnAddExpense ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_expense_a91dfe29aac2edc8d72c1e56223c294cf_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_expense_1ac5fb6e57364e3cc0133bb1e3f9c3a304"/><section>
+    <title>setExpenseRefresher()</title>
+<indexterm><primary>setExpenseRefresher</primary><secondary>com.example.app.AddExpense</secondary></indexterm>
+<indexterm><primary>com.example.app.AddExpense</primary><secondary>setExpenseRefresher</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddExpense.setExpenseRefresher (<link linkend="_interfacecom_1_1example_1_1app_1_1_refreshlist">Refreshlist</link> expenseRefresher)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_expense_ac5fb6e57364e3cc0133bb1e3f9c3a304_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__add_expense_8java">AddExpense.java</link></section>
+</section>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item" xml:lang="en-US">
+<title>com.example.app.AddMenuItem Class Reference</title>
+<indexterm><primary>com.example.app.AddMenuItem</primary></indexterm>
+Collaboration diagram for com.example.app.AddMenuItem:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_menu_item__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3">initialize</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9">btnaddMenuItem</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a5f8630e4c056fc4288dc5d00b518559f">setBtncancel</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a9ea991367f74cd23d22cf3ad3a0c99f2">setBtnaddingredient</link> ()  throws Exception </para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a50db1e546d28339384c7b85186c34f02">setCategorycb</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a8d4b2026d0b5e43b9d9fe771113b7f63">setMenuItemRefresher</link> (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_menulist">RefreshMenulist</link> refreshMenulist)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Public Attributes    </title>
+        <itemizedlist>
+            <listitem><para>ArrayList&lt; String &gt; <link linkend="_classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7">ingredients</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9"/><section>
+    <title>btnaddMenuItem()</title>
+<indexterm><primary>btnaddMenuItem</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>btnaddMenuItem</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.btnaddMenuItem ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_menu_item_af7d22e686e05193bebfb7266d30932e9_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3"/><section>
+    <title>initialize()</title>
+<indexterm><primary>initialize</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>initialize</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.initialize ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_menu_item_a6af72958ca746fefccbc170788a7dce3_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a9ea991367f74cd23d22cf3ad3a0c99f2"/><section>
+    <title>setBtnaddingredient()</title>
+<indexterm><primary>setBtnaddingredient</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>setBtnaddingredient</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.setBtnaddingredient ( ) throws Exception</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a5f8630e4c056fc4288dc5d00b518559f"/><section>
+    <title>setBtncancel()</title>
+<indexterm><primary>setBtncancel</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>setBtncancel</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.setBtncancel ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a50db1e546d28339384c7b85186c34f02"/><section>
+    <title>setCategorycb()</title>
+<indexterm><primary>setCategorycb</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>setCategorycb</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.setCategorycb ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_menu_item_a50db1e546d28339384c7b85186c34f02_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a8d4b2026d0b5e43b9d9fe771113b7f63"/><section>
+    <title>setMenuItemRefresher()</title>
+<indexterm><primary>setMenuItemRefresher</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>setMenuItemRefresher</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddMenuItem.setMenuItemRefresher (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_menulist">RefreshMenulist</link> refreshMenulist)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_menu_item_a8d4b2026d0b5e43b9d9fe771113b7f63_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Data Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7"/><section>
+    <title>ingredients</title>
+<indexterm><primary>ingredients</primary><secondary>com.example.app.AddMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.AddMenuItem</primary><secondary>ingredients</secondary></indexterm>
+<para><computeroutput>ArrayList&lt;String&gt; com.example.app.AddMenuItem.ingredients</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__add_menu_item_8java">AddMenuItem.java</link></section>
+</section>

@@ -1,0 +1,14 @@
+This is a log entry written on Fri Jun 21 17:14:28 EEST 2024
+Users loaded from the Database Fri Jun 21 17:14:28 EEST 2024
+Users loaded Fri Jun 21 17:14:28 EEST 2024
+Fonctions loaded from database Fri Jun 21 17:14:28 EEST 2024
+Fonctions loaded Fri Jun 21 17:14:28 EEST 2024
+Expenses loaded from the Database Fri Jun 21 17:14:28 EEST 2024
+Expenses loaded Fri Jun 21 17:14:28 EEST 2024
+Menu Items loaded from the Database Fri Jun 21 17:14:28 EEST 2024
+Menu items loaded Fri Jun 21 17:14:28 EEST 2024
+Categories loaded from the Database Fri Jun 21 17:14:28 EEST 2024
+Menu items loaded Fri Jun 21 17:14:28 EEST 2024
+Dollar rates loaded Fri Jun 21 17:14:28 EEST 2024
+Dollar rates loaded Fri Jun 21 17:14:28 EEST 2024
+Everything is loaded Fri Jun 21 17:14:28 EEST 2024

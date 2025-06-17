@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_expense" xml:lang="en-US">
+<title>com.example.app.Expense Class Reference</title>
+<indexterm><primary>com.example.app.Expense</primary></indexterm>
+Inheritance diagram for com.example.app.Expense:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for com.example.app.Expense:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1a581f6167c28c8f2d228b4bd13c6e3e38">initialize</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1a888ded78e37bad423c935f1195c2b7ea">addExpense</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1af85aa8b2bd97355dc3e2cbd0dfe90ddd">refreshExpenses</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1abbef728f58e6447bce89f79dc4d8c1c6">btnRemoveExpenseActionPerformed</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1a9cfab62d4b766dbc68760141dbdd427a">setBtnrefresh</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_expense_1ab09aa436fe1321757d5d524ef320c6a6">btnReturnHome</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1a888ded78e37bad423c935f1195c2b7ea"/><section>
+    <title>addExpense()</title>
+<indexterm><primary>addExpense</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>addExpense</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.addExpense ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_a888ded78e37bad423c935f1195c2b7ea_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1abbef728f58e6447bce89f79dc4d8c1c6"/><section>
+    <title>btnRemoveExpenseActionPerformed()</title>
+<indexterm><primary>btnRemoveExpenseActionPerformed</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>btnRemoveExpenseActionPerformed</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.btnRemoveExpenseActionPerformed ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_abbef728f58e6447bce89f79dc4d8c1c6_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1ab09aa436fe1321757d5d524ef320c6a6"/><section>
+    <title>btnReturnHome()</title>
+<indexterm><primary>btnReturnHome</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>btnReturnHome</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.btnReturnHome ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1a581f6167c28c8f2d228b4bd13c6e3e38"/><section>
+    <title>initialize()</title>
+<indexterm><primary>initialize</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>initialize</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.initialize ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_a581f6167c28c8f2d228b4bd13c6e3e38_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_a581f6167c28c8f2d228b4bd13c6e3e38_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1af85aa8b2bd97355dc3e2cbd0dfe90ddd"/><section>
+    <title>refreshExpenses()</title>
+<indexterm><primary>refreshExpenses</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>refreshExpenses</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.refreshExpenses ( )</computeroutput></para><para>
+Implements <link linkend="_interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6">com.example.app.Refreshlist</link>.</para>
+Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_af85aa8b2bd97355dc3e2cbd0dfe90ddd_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expense_1a9cfab62d4b766dbc68760141dbdd427a"/><section>
+    <title>setBtnrefresh()</title>
+<indexterm><primary>setBtnrefresh</primary><secondary>com.example.app.Expense</secondary></indexterm>
+<indexterm><primary>com.example.app.Expense</primary><secondary>setBtnrefresh</secondary></indexterm>
+<para><computeroutput>void com.example.app.Expense.setBtnrefresh ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_a9cfab62d4b766dbc68760141dbdd427a_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expense_a9cfab62d4b766dbc68760141dbdd427a_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__expense_8java">Expense.java</link></section>
+</section>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_reports_panel" xml:lang="en-US">
+<title>com.example.app.ReportsPanel Class Reference</title>
+<indexterm><primary>com.example.app.ReportsPanel</primary></indexterm>
+Collaboration diagram for com.example.app.ReportsPanel:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_reports_panel__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_reports_panel_1ad7e82bcb69e8e5d98870b00fb722db20">btnBackOnAction</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_reports_panel_1ad7e82bcb69e8e5d98870b00fb722db20"/><section>
+    <title>btnBackOnAction()</title>
+<indexterm><primary>btnBackOnAction</primary><secondary>com.example.app.ReportsPanel</secondary></indexterm>
+<indexterm><primary>com.example.app.ReportsPanel</primary><secondary>btnBackOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.ReportsPanel.btnBackOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__reports_panel_8java">ReportsPanel.java</link></section>
+</section>

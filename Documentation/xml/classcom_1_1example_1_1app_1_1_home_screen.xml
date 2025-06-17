@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_home_screen" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::HomeScreen</compoundname>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1adf426cf8706ed821be82e564ed0d7120" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnNewOrder</definition>
+        <argsstring></argsstring>
+        <name>btnNewOrder</name>
+        <qualifiedname>com.example.app.HomeScreen.btnNewOrder</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="16" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1aafcf4c0ebd7aaaaa2ce08d256060e86e" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnViewOrder</definition>
+        <argsstring></argsstring>
+        <name>btnViewOrder</name>
+        <qualifiedname>com.example.app.HomeScreen.btnViewOrder</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="18" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1a656e56a3d2bd8a55cae10a5c88b7f9b8" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnMenuItems</definition>
+        <argsstring></argsstring>
+        <name>btnMenuItems</name>
+        <qualifiedname>com.example.app.HomeScreen.btnMenuItems</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="20" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1a8556d56e40f0aa5a72e6e034ce32d0ca" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnExpenses</definition>
+        <argsstring></argsstring>
+        <name>btnExpenses</name>
+        <qualifiedname>com.example.app.HomeScreen.btnExpenses</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="22" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1a7e1b5c0885770a154e9328f9fb4abf60" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnReports</definition>
+        <argsstring></argsstring>
+        <name>btnReports</name>
+        <qualifiedname>com.example.app.HomeScreen.btnReports</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="24" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1a85b46b3113ec7c1e9c888b785f1cb57d" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnSettings</definition>
+        <argsstring></argsstring>
+        <name>btnSettings</name>
+        <qualifiedname>com.example.app.HomeScreen.btnSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="26" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_home_screen_1a956fa1df7fc94d15dfa68072553c2dca" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.HomeScreen.btnPowerOff</definition>
+        <argsstring></argsstring>
+        <name>btnPowerOff</name>
+        <qualifiedname>com.example.app.HomeScreen.btnPowerOff</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="28" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="28" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1a46e28924909a94c34699329ced7efdcc" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnNewOrderAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnNewOrderAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnNewOrderAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="32" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="32" bodyend="59"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1ae448c472789b2cd83b32591dd1b14a28" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnViewOrderAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnViewOrderAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnViewOrderAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="62" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="62" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1afbf29de8e80eadc1e45e3b8ffa78565a" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnMenuItemsAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnMenuItemsAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnMenuItemsAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="92" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="92" bodyend="119"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1a69a2286cf0f149c0359d2f727be3390b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnExpensesAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnExpensesAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnExpensesAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="122" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="122" bodyend="149"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1a50a695ba033706de112273663434656b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnReportsAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnReportsAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnReportsAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="152" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="152" bodyend="179"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1a00acd00f4855c854fb48ea26de86bf9b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnSettingsAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnSettingsAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnSettingsAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="182" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="182" bodyend="209"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_home_screen_1ad98a59e29e143dff0d9b35c3a59f705e" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.HomeScreen.btnPowerOffAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnPowerOffAction</name>
+        <qualifiedname>com.example.app.HomeScreen.btnPowerOffAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="212" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="212" bodyend="238"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="1">
+        <label>com.example.app.HomeScreen</label>
+        <link refid="classcom_1_1example_1_1app_1_1_home_screen"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>btnExpenses</edgelabel>
+          <edgelabel>btnMenuItems</edgelabel>
+          <edgelabel>btnNewOrder</edgelabel>
+          <edgelabel>btnPowerOff</edgelabel>
+          <edgelabel>btnReports</edgelabel>
+          <edgelabel>btnSettings</edgelabel>
+          <edgelabel>btnViewOrder</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Button</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" line="13" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/HomeScreen.java" bodystart="13" bodyend="239"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a8556d56e40f0aa5a72e6e034ce32d0ca" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnExpenses</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a69a2286cf0f149c0359d2f727be3390b" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnExpensesAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a656e56a3d2bd8a55cae10a5c88b7f9b8" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnMenuItems</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1afbf29de8e80eadc1e45e3b8ffa78565a" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnMenuItemsAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1adf426cf8706ed821be82e564ed0d7120" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnNewOrder</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a46e28924909a94c34699329ced7efdcc" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnNewOrderAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a956fa1df7fc94d15dfa68072553c2dca" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnPowerOff</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1ad98a59e29e143dff0d9b35c3a59f705e" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnPowerOffAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a7e1b5c0885770a154e9328f9fb4abf60" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnReports</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a50a695ba033706de112273663434656b" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnReportsAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a85b46b3113ec7c1e9c888b785f1cb57d" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnSettings</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1a00acd00f4855c854fb48ea26de86bf9b" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnSettingsAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1aafcf4c0ebd7aaaaa2ce08d256060e86e" prot="package" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnViewOrder</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_home_screen_1ae448c472789b2cd83b32591dd1b14a28" prot="protected" virt="non-virtual"><scope>com::example::app::HomeScreen</scope><name>btnViewOrderAction</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

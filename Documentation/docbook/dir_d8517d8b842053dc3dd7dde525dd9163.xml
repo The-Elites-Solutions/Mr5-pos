@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_d8517d8b842053dc3dd7dde525dd9163" xml:lang="en-US">
+<title>C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com Directory Reference</title>
+<indexterm><primary>C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com Directory Reference</primary></indexterm>
+Directory dependency graph for com:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="dir_d8517d8b842053dc3dd7dde525dd9163_dep.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_ada4f439cdb25ec987d0b7526884b52b">example</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

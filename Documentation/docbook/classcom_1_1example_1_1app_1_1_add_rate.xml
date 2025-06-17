@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_add_rate" xml:lang="en-US">
+<title>com.example.app.AddRate Class Reference</title>
+<indexterm><primary>com.example.app.AddRate</primary></indexterm>
+Collaboration diagram for com.example.app.AddRate:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_rate__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_rate_1a26d5ad7814078395e8bbd4f2372ec3fe">setRateRefresher</link> (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_settings">RefreshSettings</link> rateRefresher)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_rate_1a20ed727781a1724626a8ea2dbee38c75">addRateOnAction</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_add_rate_1abb94fe875e3cb4b35a13357c8fa64b24">cancelbtnOnAction</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_rate_1a20ed727781a1724626a8ea2dbee38c75"/><section>
+    <title>addRateOnAction()</title>
+<indexterm><primary>addRateOnAction</primary><secondary>com.example.app.AddRate</secondary></indexterm>
+<indexterm><primary>com.example.app.AddRate</primary><secondary>addRateOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddRate.addRateOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_rate_a20ed727781a1724626a8ea2dbee38c75_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_rate_1abb94fe875e3cb4b35a13357c8fa64b24"/><section>
+    <title>cancelbtnOnAction()</title>
+<indexterm><primary>cancelbtnOnAction</primary><secondary>com.example.app.AddRate</secondary></indexterm>
+<indexterm><primary>com.example.app.AddRate</primary><secondary>cancelbtnOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddRate.cancelbtnOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_add_rate_1a26d5ad7814078395e8bbd4f2372ec3fe"/><section>
+    <title>setRateRefresher()</title>
+<indexterm><primary>setRateRefresher</primary><secondary>com.example.app.AddRate</secondary></indexterm>
+<indexterm><primary>com.example.app.AddRate</primary><secondary>setRateRefresher</secondary></indexterm>
+<para><computeroutput>void com.example.app.AddRate.setRateRefresher (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_settings">RefreshSettings</link> rateRefresher)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_add_rate_a26d5ad7814078395e8bbd4f2372ec3fe_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__add_rate_8java">AddRate.java</link></section>
+</section>

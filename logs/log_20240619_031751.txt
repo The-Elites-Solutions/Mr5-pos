@@ -1,0 +1,66 @@
+This is a log entry written on Wed Jun 19 03:17:51 EEST 2024
+Users loaded from the Database Wed Jun 19 03:17:51 EEST 2024
+Users loaded Wed Jun 19 03:17:51 EEST 2024
+Fonctions loaded from database Wed Jun 19 03:17:51 EEST 2024
+Fonctions loaded Wed Jun 19 03:17:51 EEST 2024
+Expenses loaded from the Database Wed Jun 19 03:17:51 EEST 2024
+Expenses loaded Wed Jun 19 03:17:51 EEST 2024
+Menu Items loaded from the Database Wed Jun 19 03:17:51 EEST 2024
+Menu items loaded Wed Jun 19 03:17:51 EEST 2024
+Categories loaded from the Database Wed Jun 19 03:17:51 EEST 2024
+Menu items loaded Wed Jun 19 03:17:51 EEST 2024
+Dollar rates loaded Wed Jun 19 03:17:51 EEST 2024
+Dollar rates loaded Wed Jun 19 03:17:51 EEST 2024
+Everything is loaded Wed Jun 19 03:17:51 EEST 2024
+Login Button Pressed Wed Jun 19 03:17:53 EEST 2024
+User Logged In: admin
+Login Successful Wed Jun 19 03:17:53 EEST 2024
+Hello admin!!!Wed Jun 19 03:17:53 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:17:53 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:17:53 EEST 2024
+New Order Button Pressed Wed Jun 19 03:17:56 EEST 2024
+New Order Screen Loaded Wed Jun 19 03:17:56 EEST 2024
+Button Pressed: Dine In Wed Jun 19 03:17:57 EEST 2024
+Table is occupied
+Table is available
+Table: 2Loaded Wed Jun 19 03:17:57 EEST 2024
+Table is occupied
+Table is available
+Table: 4Loaded Wed Jun 19 03:17:57 EEST 2024
+Table is occupied
+Table is available
+Table: 6Loaded Wed Jun 19 03:17:57 EEST 2024
+Table is occupied
+Table is available
+Table: 8Loaded Wed Jun 19 03:17:57 EEST 2024
+Table is occupied
+Table is available
+Table: 10Loaded Wed Jun 19 03:17:57 EEST 2024
+Button Pressed: Table 6 Wed Jun 19 03:17:58 EEST 2024
+Button Pressed: Add Client Wed Jun 19 03:17:59 EEST 2024
+Button Pressed: Search Wed Jun 19 03:17:59 EEST 2024
+comboBox assigned: ComboBox@75e7a297[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@7a33d116[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@3ac02118[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@2170b23d[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@5e72b99[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@5f83dc20[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@55a7057b[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@48d22b1e[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@1c2ab32c[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@1136f84d[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@6e1dcc86[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@2e7a3b5[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@4522830a[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@4e935cc2[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@277b1e3c[styleClass=combo-box-base combo-box]
+Selected address: 123 Main St, Springfield, 12345, USA
+Selected address: null
+Button Pressed: Back Wed Jun 19 03:18:04 EEST 2024
+Button Pressed: Back Wed Jun 19 03:18:05 EEST 2024
+Back Button Pressed Wed Jun 19 03:18:05 EEST 2024
+Hello admin!!!Wed Jun 19 03:18:05 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:18:05 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:18:05 EEST 2024
+Power Off Button Pressed Wed Jun 19 03:18:06 EEST 2024
+Exit Button Pressed Wed Jun 19 03:18:07 EEST 2024

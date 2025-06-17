@@ -1,0 +1,48 @@
+This is a log entry written on Wed Jun 19 03:10:13 EEST 2024
+Users loaded from the Database Wed Jun 19 03:10:13 EEST 2024
+Users loaded Wed Jun 19 03:10:13 EEST 2024
+Fonctions loaded from database Wed Jun 19 03:10:13 EEST 2024
+Fonctions loaded Wed Jun 19 03:10:13 EEST 2024
+Expenses loaded from the Database Wed Jun 19 03:10:13 EEST 2024
+Expenses loaded Wed Jun 19 03:10:13 EEST 2024
+Menu Items loaded from the Database Wed Jun 19 03:10:13 EEST 2024
+Menu items loaded Wed Jun 19 03:10:13 EEST 2024
+Categories loaded from the Database Wed Jun 19 03:10:13 EEST 2024
+Menu items loaded Wed Jun 19 03:10:13 EEST 2024
+Dollar rates loaded Wed Jun 19 03:10:13 EEST 2024
+Dollar rates loaded Wed Jun 19 03:10:13 EEST 2024
+Everything is loaded Wed Jun 19 03:10:13 EEST 2024
+Login Button Pressed Wed Jun 19 03:10:16 EEST 2024
+User Logged In: admin
+Login Successful Wed Jun 19 03:10:16 EEST 2024
+Hello admin!!!Wed Jun 19 03:10:16 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:10:16 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:10:16 EEST 2024
+New Order Button Pressed Wed Jun 19 03:10:17 EEST 2024
+New Order Screen Loaded Wed Jun 19 03:10:17 EEST 2024
+Button Pressed: Take Out Wed Jun 19 03:10:18 EEST 2024
+Button Pressed: Search Wed Jun 19 03:10:19 EEST 2024
+comboBox assigned: ComboBox@59fe6965[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@7a2ef785[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@311c82c1[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@b67917a[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@5f51ffc9[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@4ba55563[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@4dc89377[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@7f3ef197[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@40b06101[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@611c9c96[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@3edc1540[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@2b4236[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@8f4ac82[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@36c3122a[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@54868589[styleClass=combo-box-base combo-box]
+Selected address: null
+Button Pressed: Back Wed Jun 19 03:10:24 EEST 2024
+Button Pressed: Back Wed Jun 19 03:10:25 EEST 2024
+Back Button Pressed Wed Jun 19 03:10:25 EEST 2024
+Hello admin!!!Wed Jun 19 03:10:25 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:10:25 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:10:25 EEST 2024
+Power Off Button Pressed Wed Jun 19 03:10:25 EEST 2024
+Exit Button Pressed Wed Jun 19 03:10:26 EEST 2024

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_index" xml:lang="en-US">
+    <info>
+    <title>App</title>
+    </info>
+<chapter>
+    <title>Namespace Documentation</title>
+<xi:include href="namespacecom_1_1example_1_1app.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>Class Documentation</title>
+    <xi:include href="classcom_1_1example_1_1app_1_1_add_expense.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_add_menu_item.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_add_rate.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_category.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_database_connection.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_dollar_rate.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_edit_menu_item.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_expense.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_expenses.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_fonction.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_home_screen.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_login_controller.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_login_screen.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_menu_item.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_menu_item_panel.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1new_order.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_power_off.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="interfacecom_1_1example_1_1app_1_1_refreshlist.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="interfacecom_1_1example_1_1app_1_1_refresh_menulist.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="interfacecom_1_1example_1_1app_1_1_refresh_settings.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_remove_expense.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_remove_rate.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_reports_panel.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_settings.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1_user.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classcom_1_1example_1_1app_1_1view_order.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>File Documentation</title>
+    <xi:include href="_add_expense_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_add_menu_item_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_add_rate_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_category_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_database_connection_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_dollar_rate_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_edit_menu_item_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_expense_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_expenses_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_fonction_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_home_screen_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_login_controller_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_login_screen_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_menu_item_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_menu_item_panel_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="new_order_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_power_off_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_refreshlist_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_refresh_menulist_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_refresh_settings_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_remove_expense_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_remove_rate_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_reports_panel_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_settings_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_user_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="view_order_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<index/>
+</book>

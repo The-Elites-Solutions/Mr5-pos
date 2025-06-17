@@ -1,0 +1,55 @@
+This is a log entry written on Mon Jun 17 04:05:29 EEST 2024
+Users loaded from the Database Mon Jun 17 04:05:30 EEST 2024
+Users loaded Mon Jun 17 04:05:30 EEST 2024
+Fonctions loaded from database Mon Jun 17 04:05:30 EEST 2024
+Fonctions loaded Mon Jun 17 04:05:30 EEST 2024
+Expenses loaded from the Database Mon Jun 17 04:05:30 EEST 2024
+Expenses loaded Mon Jun 17 04:05:30 EEST 2024
+Menu Items loaded from the Database Mon Jun 17 04:05:30 EEST 2024
+Menu items loaded Mon Jun 17 04:05:30 EEST 2024
+Categories loaded from the Database Mon Jun 17 04:05:30 EEST 2024
+Menu items loaded Mon Jun 17 04:05:30 EEST 2024
+Dollar rates loaded Mon Jun 17 04:05:30 EEST 2024
+Dollar rates loaded Mon Jun 17 04:05:30 EEST 2024
+Everything is loaded Mon Jun 17 04:05:30 EEST 2024
+Login Button Pressed Mon Jun 17 04:05:39 EEST 2024
+User Logged In: admin
+Login Successful Mon Jun 17 04:05:39 EEST 2024
+Hello admin!!!Mon Jun 17 04:05:39 EEST 2024
+Access Panel loaded from the Database Mon Jun 17 04:05:39 EEST 2024
+Access Panel loaded from the Database Mon Jun 17 04:05:39 EEST 2024
+New Order Button Pressed Mon Jun 17 04:05:40 EEST 2024
+New Order Screen Loaded Mon Jun 17 04:05:40 EEST 2024
+Button Pressed: Take Out Mon Jun 17 04:05:41 EEST 2024
+Button Pressed: Search Mon Jun 17 04:05:42 EEST 2024
+Button Pressed: Alice Smith Mon Jun 17 04:05:43 EEST 2024
+Category: BurgerLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: PizzaLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: SaladLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: TacosLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: AppetizerLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: PastaLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: DessertLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: BeveragesLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: SandwichLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: SoupLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: SeafoodLoaded Mon Jun 17 04:05:43 EEST 2024
+Category: BreakfastLoaded Mon Jun 17 04:05:43 EEST 2024
+Button Pressed: Salad Mon Jun 17 04:06:01 EEST 2024
+Item: Cobb SaladLoaded Mon Jun 17 04:06:01 EEST 2024
+Item: Greek SaladLoaded Mon Jun 17 04:06:01 EEST 2024
+Item: Caesar SaladLoaded Mon Jun 17 04:06:01 EEST 2024
+Button Pressed: Caesar Salad Mon Jun 17 04:06:02 EEST 2024
+Ingredients loaded from the Database Mon Jun 17 04:06:02 EEST 2024
+Ingredient: romaine lettuceLoaded Mon Jun 17 04:06:02 EEST 2024
+Ingredient: croutonsLoaded Mon Jun 17 04:06:02 EEST 2024
+Ingredient: parmesanLoaded Mon Jun 17 04:06:02 EEST 2024
+Ingredient: Caesar dressingLoaded Mon Jun 17 04:06:02 EEST 2024
+Button Pressed: Caesar dressing Mon Jun 17 04:06:02 EEST 2024
+Ingredient: Caesar dressingAdded Mon Jun 17 04:06:02 EEST 2024
+Button Pressed: parmesan Mon Jun 17 04:06:04 EEST 2024
+Ingredient: parmesanAdded Mon Jun 17 04:06:04 EEST 2024
+Button Pressed: Done Mon Jun 17 04:06:04 EEST 2024
+Order Item ID: OI1718586364720
+Order ID: null
+Database connection successful

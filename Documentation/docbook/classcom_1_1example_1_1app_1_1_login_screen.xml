@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_login_screen" xml:lang="en-US">
+<title>com.example.app.LoginScreen Class Reference</title>
+<indexterm><primary>com.example.app.LoginScreen</primary></indexterm>
+Inheritance diagram for com.example.app.LoginScreen:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_login_screen__inherit__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Collaboration diagram for com.example.app.LoginScreen:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_login_screen__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_login_screen_1aebb149d4b82e904609d89c8b1dbea93b">start</link> (Stage stage)  throws IOException </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_login_screen_1ac6784975d16fde8a98fd5b5eb43d18c2">main</link> (String[] args)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_login_screen_1ac6784975d16fde8a98fd5b5eb43d18c2"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>com.example.app.LoginScreen</secondary></indexterm>
+<indexterm><primary>com.example.app.LoginScreen</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>static void com.example.app.LoginScreen.main (String[] args)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_login_screen_ac6784975d16fde8a98fd5b5eb43d18c2_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_login_screen_1aebb149d4b82e904609d89c8b1dbea93b"/><section>
+    <title>start()</title>
+<indexterm><primary>start</primary><secondary>com.example.app.LoginScreen</secondary></indexterm>
+<indexterm><primary>com.example.app.LoginScreen</primary><secondary>start</secondary></indexterm>
+<para><computeroutput>void com.example.app.LoginScreen.start (Stage stage) throws IOException</computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__login_screen_8java">LoginScreen.java</link></section>
+</section>

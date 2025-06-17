@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_login_controller" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::LoginController</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_login_controller_1a538a1601afa5fb8d223338a6ab79444a" prot="private" static="no" mutable="no">
+        <type>Pane</type>
+        <definition>Pane com.example.app.LoginController.rootPane</definition>
+        <argsstring></argsstring>
+        <name>rootPane</name>
+        <qualifiedname>com.example.app.LoginController.rootPane</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="21" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_login_controller_1a3739c5a1ce085169c00ee77b725f850d" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.LoginController.LoginButton</definition>
+        <argsstring></argsstring>
+        <name>LoginButton</name>
+        <qualifiedname>com.example.app.LoginController.LoginButton</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="24" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_login_controller_1a0316d0a1ec70f50e32e81039b22d83d1" prot="private" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.LoginController.UsernameField</definition>
+        <argsstring></argsstring>
+        <name>UsernameField</name>
+        <qualifiedname>com.example.app.LoginController.UsernameField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="27" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_login_controller_1ae1745ee3c136f5e46f8e1e1ebf0757a2" prot="private" static="no" mutable="no">
+        <type>PasswordField</type>
+        <definition>PasswordField com.example.app.LoginController.PasswordField</definition>
+        <argsstring></argsstring>
+        <name>PasswordField</name>
+        <qualifiedname>com.example.app.LoginController.PasswordField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="30" column="27" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_login_controller_1ac8fb24dfa26d980210961e6dbdb31b72" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label com.example.app.LoginController.ErrLabel</definition>
+        <argsstring></argsstring>
+        <name>ErrLabel</name>
+        <qualifiedname>com.example.app.LoginController.ErrLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="33" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="33" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_login_controller_1a27be7e5c834e79929bc3c1a10f367c87" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.LoginController.initialize</definition>
+        <argsstring>()</argsstring>
+        <name>initialize</name>
+        <qualifiedname>com.example.app.LoginController.initialize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="36" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="36" bodyend="46"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_login_controller_1a4d4abdbd7e927d4a8351f8f2b49bab87" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.LoginController.setupKeyEvents</definition>
+        <argsstring>()</argsstring>
+        <name>setupKeyEvents</name>
+        <qualifiedname>com.example.app.LoginController.setupKeyEvents</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="48" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="48" bodyend="62"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_login_controller_1a5025d6f33c0598602420ea4bf6cbac1b" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.LoginController.LoginButtonAction</definition>
+        <argsstring>()</argsstring>
+        <name>LoginButtonAction</name>
+        <qualifiedname>com.example.app.LoginController.LoginButtonAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="66" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="66" bodyend="178"/>
+        <references refid="classcom_1_1example_1_1app_1_1_user_1aec2385efe843bd7b012f7741bb403417" compoundref="_user_8java" startline="69" endline="76">com.example.app.User.getPasswordbyuser</references>
+        <references refid="classcom_1_1example_1_1app_1_1_user_1a0bef1fc31d52d0daae0187e66f8573aa" compoundref="_user_8java" startline="60" endline="67">com.example.app.User.isAvailable</references>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" line="18" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/LoginController.java" bodystart="18" bodyend="179"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1ac8fb24dfa26d980210961e6dbdb31b72" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>ErrLabel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a27be7e5c834e79929bc3c1a10f367c87" prot="public" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>initialize</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a3739c5a1ce085169c00ee77b725f850d" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>LoginButton</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a5025d6f33c0598602420ea4bf6cbac1b" prot="protected" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>LoginButtonAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1ae1745ee3c136f5e46f8e1e1ebf0757a2" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>PasswordField</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a538a1601afa5fb8d223338a6ab79444a" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>rootPane</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a4d4abdbd7e927d4a8351f8f2b49bab87" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>setupKeyEvents</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_login_controller_1a0316d0a1ec70f50e32e81039b22d83d1" prot="private" virt="non-virtual"><scope>com::example::app::LoginController</scope><name>UsernameField</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

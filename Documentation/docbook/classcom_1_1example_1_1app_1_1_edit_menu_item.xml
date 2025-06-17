@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item" xml:lang="en-US">
+<title>com.example.app.EditMenuItem Class Reference</title>
+<indexterm><primary>com.example.app.EditMenuItem</primary></indexterm>
+Collaboration diagram for com.example.app.EditMenuItem:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_edit_menu_item__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1a023c1a77862e718e0a5739b2ec7ab690">setMenuItemRefresher</link> (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_menulist">RefreshMenulist</link> refreshMenulist)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1ad82c58ec1c3c37816f3bdd5d4eae9831">initialize</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1a4f03a5ef4573a7781f90f0ab79451aba">setBtnapply</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1acc8439078ecd6dc67aa0e75cc6fde459">OnNameSelected</link> ()  throws NullPointerException</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1aa5198ab1fe34ec3d632104c9c3be755b">CheckBoxAction</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_edit_menu_item_1ad43d3a870ec1a0a98ee530fda13855ef">setBtncancel</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1aa5198ab1fe34ec3d632104c9c3be755b"/><section>
+    <title>CheckBoxAction()</title>
+<indexterm><primary>CheckBoxAction</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>CheckBoxAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.CheckBoxAction ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1ad82c58ec1c3c37816f3bdd5d4eae9831"/><section>
+    <title>initialize()</title>
+<indexterm><primary>initialize</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>initialize</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.initialize ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_edit_menu_item_ad82c58ec1c3c37816f3bdd5d4eae9831_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1acc8439078ecd6dc67aa0e75cc6fde459"/><section>
+    <title>OnNameSelected()</title>
+<indexterm><primary>OnNameSelected</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>OnNameSelected</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.OnNameSelected ( ) throws NullPointerException</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_edit_menu_item_acc8439078ecd6dc67aa0e75cc6fde459_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1a4f03a5ef4573a7781f90f0ab79451aba"/><section>
+    <title>setBtnapply()</title>
+<indexterm><primary>setBtnapply</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>setBtnapply</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.setBtnapply ( )</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_edit_menu_item_a4f03a5ef4573a7781f90f0ab79451aba_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1ad43d3a870ec1a0a98ee530fda13855ef"/><section>
+    <title>setBtncancel()</title>
+<indexterm><primary>setBtncancel</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>setBtncancel</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.setBtncancel ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_edit_menu_item_1a023c1a77862e718e0a5739b2ec7ab690"/><section>
+    <title>setMenuItemRefresher()</title>
+<indexterm><primary>setMenuItemRefresher</primary><secondary>com.example.app.EditMenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.EditMenuItem</primary><secondary>setMenuItemRefresher</secondary></indexterm>
+<para><computeroutput>void com.example.app.EditMenuItem.setMenuItemRefresher (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_menulist">RefreshMenulist</link> refreshMenulist)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_edit_menu_item_a023c1a77862e718e0a5739b2ec7ab690_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__edit_menu_item_8java">EditMenuItem.java</link></section>
+</section>

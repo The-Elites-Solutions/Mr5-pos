@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="_refreshlist_8java" kind="file" language="Java">
+    <compoundname>Refreshlist.java</compoundname>
+    <innerclass refid="interfacecom_1_1example_1_1app_1_1_refreshlist" prot="public">com::example::app::Refreshlist</innerclass>
+    <innernamespace refid="namespacecom_1_1example_1_1app">com::example::app</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">com.example.app;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3" refid="interfacecom_1_1example_1_1app_1_1_refreshlist" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">interface<sp/></highlight><highlight class="normal"><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist" kindref="compound">Refreshlist</ref><sp/>{</highlight></codeline>
+<codeline lineno="4" refid="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6" kindref="member">refreshExpenses</ref>();</highlight></codeline>
+<codeline lineno="5"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Refreshlist.java"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,49 @@
+This is a log entry written on Wed Jun 19 03:19:11 EEST 2024
+Users loaded from the Database Wed Jun 19 03:19:11 EEST 2024
+Users loaded Wed Jun 19 03:19:11 EEST 2024
+Fonctions loaded from database Wed Jun 19 03:19:11 EEST 2024
+Fonctions loaded Wed Jun 19 03:19:11 EEST 2024
+Expenses loaded from the Database Wed Jun 19 03:19:11 EEST 2024
+Expenses loaded Wed Jun 19 03:19:11 EEST 2024
+Menu Items loaded from the Database Wed Jun 19 03:19:11 EEST 2024
+Menu items loaded Wed Jun 19 03:19:11 EEST 2024
+Categories loaded from the Database Wed Jun 19 03:19:11 EEST 2024
+Menu items loaded Wed Jun 19 03:19:11 EEST 2024
+Dollar rates loaded Wed Jun 19 03:19:11 EEST 2024
+Dollar rates loaded Wed Jun 19 03:19:11 EEST 2024
+Everything is loaded Wed Jun 19 03:19:11 EEST 2024
+Login Button Pressed Wed Jun 19 03:19:14 EEST 2024
+User Logged In: admin
+Login Successful Wed Jun 19 03:19:14 EEST 2024
+Hello admin!!!Wed Jun 19 03:19:14 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:19:14 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:19:14 EEST 2024
+New Order Button Pressed Wed Jun 19 03:19:15 EEST 2024
+New Order Screen Loaded Wed Jun 19 03:19:15 EEST 2024
+Button Pressed: Take Out Wed Jun 19 03:19:16 EEST 2024
+Button Pressed: Search Wed Jun 19 03:19:17 EEST 2024
+comboBox assigned: ComboBox@50179d0[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@26db4dc6[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@519b5479[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@20f851ce[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@2fcf640c[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@605c18bd[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@5f99a9a0[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@306a6050[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@43b08baf[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@6a6dd16c[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@4e8e0c0a[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@7640c365[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@3fe5c6d4[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@1dc515e3[styleClass=combo-box-base combo-box]
+comboBox assigned: ComboBox@2c095a98[styleClass=combo-box-base combo-box]
+Selected combo 2 address: 123 Main St, Springfield, 12345, USA
+Selected address: null
+Button Pressed: Back Wed Jun 19 03:19:22 EEST 2024
+Button Pressed: Back Wed Jun 19 03:19:22 EEST 2024
+Back Button Pressed Wed Jun 19 03:19:22 EEST 2024
+Hello admin!!!Wed Jun 19 03:19:22 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:19:23 EEST 2024
+Access Panel loaded from the Database Wed Jun 19 03:19:23 EEST 2024
+Power Off Button Pressed Wed Jun 19 03:19:23 EEST 2024
+Exit Button Pressed Wed Jun 19 03:19:24 EEST 2024

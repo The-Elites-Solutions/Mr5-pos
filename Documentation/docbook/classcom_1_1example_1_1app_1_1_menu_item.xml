@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_menu_item" xml:lang="en-US">
+<title>com.example.app.MenuItem Class Reference</title>
+<indexterm><primary>com.example.app.MenuItem</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058">MenuItem</link> (String name, String description, <link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> category, double price, ArrayList&lt; String &gt; ingredients)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a387fc5b3bca58e6c923bbda76351f644">setDescription</link> (String description)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1aa0953f10f772a4d78fba73d9ee4216d7">setPrice</link> (double price)</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1ab101a81e9fccbe2944846d0ceb355bb4">editIngredients</link> (ArrayList&lt; String &gt; ingredients)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1abe5cbe920202af96956f2a0f4b28c766">getName</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a51989df59af8f11288f4a56722adf664">getDescription</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a90a2f8c18c3152e021a07d57ee60ce57">getCategory</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a521d0679867ef5b1cb30b547dc082f4c">getPrice</link> ()</para>
+</listitem>
+            <listitem><para>ArrayList&lt; String &gt; <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1aacf1aba5228c38c396e64fc851dc777f">getIngredients</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b">setCategory</link> (String category)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link>[] <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a864d08afdbeb8e28ad380445b44feace">getAllMenuItems</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1ac5774cd512ff79c5bf1be1e1276b32fc">removeMenuItem</link> (<link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> item)</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> &gt; <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1a2af1033595e5b8d7474ef25bd7852896">getMenuItems</link> ()</para>
+</listitem>
+            <listitem><para>static <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1af70e6a0f17fb431211242885ba53b9d1">getMenuItem</link> (String name)</para>
+</listitem>
+            <listitem><para>static Boolean <link linkend="_classcom_1_1example_1_1app_1_1_menu_item_1aa93fa8684cf206a340b96d3c866303e5">MenuItemExists</link> (String name, <link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> category)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058"/><section>
+    <title>MenuItem()</title>
+<indexterm><primary>MenuItem</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>MenuItem</secondary></indexterm>
+<para><computeroutput>com.example.app.MenuItem.MenuItem (String name, String description, <link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> category, double price, ArrayList&lt; String &gt; ingredients)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_ad1b689b181369d3f0408636565582058_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1ab101a81e9fccbe2944846d0ceb355bb4"/><section>
+    <title>editIngredients()</title>
+<indexterm><primary>editIngredients</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>editIngredients</secondary></indexterm>
+<para><computeroutput>void com.example.app.MenuItem.editIngredients (ArrayList&lt; String &gt; ingredients)</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a864d08afdbeb8e28ad380445b44feace"/><section>
+    <title>getAllMenuItems()</title>
+<indexterm><primary>getAllMenuItems</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getAllMenuItems</secondary></indexterm>
+<para><computeroutput>static <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link>[] com.example.app.MenuItem.getAllMenuItems ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a90a2f8c18c3152e021a07d57ee60ce57"/><section>
+    <title>getCategory()</title>
+<indexterm><primary>getCategory</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getCategory</secondary></indexterm>
+<para><computeroutput><link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> com.example.app.MenuItem.getCategory ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a51989df59af8f11288f4a56722adf664"/><section>
+    <title>getDescription()</title>
+<indexterm><primary>getDescription</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getDescription</secondary></indexterm>
+<para><computeroutput>String com.example.app.MenuItem.getDescription ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1aacf1aba5228c38c396e64fc851dc777f"/><section>
+    <title>getIngredients()</title>
+<indexterm><primary>getIngredients</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getIngredients</secondary></indexterm>
+<para><computeroutput>ArrayList&lt; String &gt; com.example.app.MenuItem.getIngredients ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1af70e6a0f17fb431211242885ba53b9d1"/><section>
+    <title>getMenuItem()</title>
+<indexterm><primary>getMenuItem</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getMenuItem</secondary></indexterm>
+<para><computeroutput>static <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> com.example.app.MenuItem.getMenuItem (String name)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_af70e6a0f17fb431211242885ba53b9d1_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a2af1033595e5b8d7474ef25bd7852896"/><section>
+    <title>getMenuItems()</title>
+<indexterm><primary>getMenuItems</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getMenuItems</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> &gt; com.example.app.MenuItem.getMenuItems ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_a2af1033595e5b8d7474ef25bd7852896_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1abe5cbe920202af96956f2a0f4b28c766"/><section>
+    <title>getName()</title>
+<indexterm><primary>getName</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getName</secondary></indexterm>
+<para><computeroutput>String com.example.app.MenuItem.getName ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a521d0679867ef5b1cb30b547dc082f4c"/><section>
+    <title>getPrice()</title>
+<indexterm><primary>getPrice</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>getPrice</secondary></indexterm>
+<para><computeroutput>double com.example.app.MenuItem.getPrice ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1aa93fa8684cf206a340b96d3c866303e5"/><section>
+    <title>MenuItemExists()</title>
+<indexterm><primary>MenuItemExists</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>MenuItemExists</secondary></indexterm>
+<para><computeroutput>static Boolean com.example.app.MenuItem.MenuItemExists (String name, <link linkend="_classcom_1_1example_1_1app_1_1_category">Category</link> category)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_aa93fa8684cf206a340b96d3c866303e5_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1ac5774cd512ff79c5bf1be1e1276b32fc"/><section>
+    <title>removeMenuItem()</title>
+<indexterm><primary>removeMenuItem</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>removeMenuItem</secondary></indexterm>
+<para><computeroutput>static void com.example.app.MenuItem.removeMenuItem (<link linkend="_classcom_1_1example_1_1app_1_1_menu_item">MenuItem</link> item)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_ac5774cd512ff79c5bf1be1e1276b32fc_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b"/><section>
+    <title>setCategory()</title>
+<indexterm><primary>setCategory</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>setCategory</secondary></indexterm>
+<para><computeroutput>void com.example.app.MenuItem.setCategory (String category)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_a2ef038c2a229e3b7ee1c76c380406d0b_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1a387fc5b3bca58e6c923bbda76351f644"/><section>
+    <title>setDescription()</title>
+<indexterm><primary>setDescription</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>setDescription</secondary></indexterm>
+<para><computeroutput>void com.example.app.MenuItem.setDescription (String description)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_a387fc5b3bca58e6c923bbda76351f644_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_menu_item_1aa0953f10f772a4d78fba73d9ee4216d7"/><section>
+    <title>setPrice()</title>
+<indexterm><primary>setPrice</primary><secondary>com.example.app.MenuItem</secondary></indexterm>
+<indexterm><primary>com.example.app.MenuItem</primary><secondary>setPrice</secondary></indexterm>
+<para><computeroutput>void com.example.app.MenuItem.setPrice (double price)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_menu_item_aa0953f10f772a4d78fba73d9ee4216d7_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__menu_item_8java">MenuItem.java</link></section>
+</section>

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate" xml:lang="en-US">
+<title>com.example.app.DollarRate Class Reference</title>
+<indexterm><primary>com.example.app.DollarRate</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a6d2b9f523a8bdd719cf4d7f98378daea">DollarRate</link> (String currency, double dollarRate)</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a42dfd16cfe84a4cd110c9fc6eb82c391">getCurrency</link> ()</para>
+</listitem>
+            <listitem><para>double <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a4946b79a3d7e8b847a31e06728ee1f60">getDollarRate</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1ac08adfb35f16131143092ca34eb4988a">setDollarRate</link> (double dollarRate)</para>
+</listitem>
+            <listitem><para>Date <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1af61a68184aa41753b1321a5b5aa1e237">getLastUpdated</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a28250a99fb10b4820525b18d59540e18">setLastUpdated</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1ac0896b436361d8fdb2c20f067cbed144">clearDollarRates</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1ad7d1572402f78447162c7d7fc13c2218">loadDollarRates</link> ()</para>
+</listitem>
+            <listitem><para>static String <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a1c7df521fd418e52f9ab338763be0865">getCurrencies</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a39292195931ca4bd096469bab8c8c977">addDollarRate</link> (<link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate">DollarRate</link> dollarRate)</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a32b7a2e916d6d98d48452839538f3072">removeDollarRate</link> (String currency)</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate">DollarRate</link> &gt; <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1adb42a5e712557548bfd258d87d2a666f">getDollarRates</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a8c7cf2723ac217ef2c0921ccba004027">ChangeDollarRate</link> (String currency, double dollarRate)</para>
+</listitem>
+            <listitem><para>static double <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1a71e044bc8fe867f31974a8a48a0002a7">getDollarRate</link> (String currency)</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; String &gt; <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1ab14b9ce4e505273430a050014736325b">getCurrencyList</link> ()</para>
+</listitem>
+            <listitem><para>static Boolean <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate_1aed0eca7d334e53938d2e90a4c9a87cf2">isCurrency</link> (String currency)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a6d2b9f523a8bdd719cf4d7f98378daea"/><section>
+    <title>DollarRate()</title>
+<indexterm><primary>DollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>DollarRate</secondary></indexterm>
+<para><computeroutput>com.example.app.DollarRate.DollarRate (String currency, double dollarRate)</computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a6d2b9f523a8bdd719cf4d7f98378daea_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a39292195931ca4bd096469bab8c8c977"/><section>
+    <title>addDollarRate()</title>
+<indexterm><primary>addDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>addDollarRate</secondary></indexterm>
+<para><computeroutput>static void com.example.app.DollarRate.addDollarRate (<link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate">DollarRate</link> dollarRate)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a39292195931ca4bd096469bab8c8c977_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a8c7cf2723ac217ef2c0921ccba004027"/><section>
+    <title>ChangeDollarRate()</title>
+<indexterm><primary>ChangeDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>ChangeDollarRate</secondary></indexterm>
+<para><computeroutput>static void com.example.app.DollarRate.ChangeDollarRate (String currency, double dollarRate)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a8c7cf2723ac217ef2c0921ccba004027_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a8c7cf2723ac217ef2c0921ccba004027_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1ac0896b436361d8fdb2c20f067cbed144"/><section>
+    <title>clearDollarRates()</title>
+<indexterm><primary>clearDollarRates</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>clearDollarRates</secondary></indexterm>
+<para><computeroutput>static void com.example.app.DollarRate.clearDollarRates ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a1c7df521fd418e52f9ab338763be0865"/><section>
+    <title>getCurrencies()</title>
+<indexterm><primary>getCurrencies</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getCurrencies</secondary></indexterm>
+<para><computeroutput>static String com.example.app.DollarRate.getCurrencies ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a42dfd16cfe84a4cd110c9fc6eb82c391"/><section>
+    <title>getCurrency()</title>
+<indexterm><primary>getCurrency</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getCurrency</secondary></indexterm>
+<para><computeroutput>String com.example.app.DollarRate.getCurrency ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1ab14b9ce4e505273430a050014736325b"/><section>
+    <title>getCurrencyList()</title>
+<indexterm><primary>getCurrencyList</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getCurrencyList</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; String &gt; com.example.app.DollarRate.getCurrencyList ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_ab14b9ce4e505273430a050014736325b_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a4946b79a3d7e8b847a31e06728ee1f60"/><section>
+    <title>getDollarRate()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>getDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getDollarRate</secondary></indexterm>
+<para><computeroutput>double com.example.app.DollarRate.getDollarRate ( )</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a4946b79a3d7e8b847a31e06728ee1f60_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a71e044bc8fe867f31974a8a48a0002a7"/><section>
+    <title>getDollarRate()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>getDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getDollarRate</secondary></indexterm>
+<para><computeroutput>static double com.example.app.DollarRate.getDollarRate (String currency)<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1adb42a5e712557548bfd258d87d2a666f"/><section>
+    <title>getDollarRates()</title>
+<indexterm><primary>getDollarRates</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getDollarRates</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_dollar_rate">DollarRate</link> &gt; com.example.app.DollarRate.getDollarRates ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1af61a68184aa41753b1321a5b5aa1e237"/><section>
+    <title>getLastUpdated()</title>
+<indexterm><primary>getLastUpdated</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>getLastUpdated</secondary></indexterm>
+<para><computeroutput>Date com.example.app.DollarRate.getLastUpdated ( )</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_af61a68184aa41753b1321a5b5aa1e237_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1aed0eca7d334e53938d2e90a4c9a87cf2"/><section>
+    <title>isCurrency()</title>
+<indexterm><primary>isCurrency</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>isCurrency</secondary></indexterm>
+<para><computeroutput>static Boolean com.example.app.DollarRate.isCurrency (String currency)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_aed0eca7d334e53938d2e90a4c9a87cf2_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1ad7d1572402f78447162c7d7fc13c2218"/><section>
+    <title>loadDollarRates()</title>
+<indexterm><primary>loadDollarRates</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>loadDollarRates</secondary></indexterm>
+<para><computeroutput>static void com.example.app.DollarRate.loadDollarRates ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_ad7d1572402f78447162c7d7fc13c2218_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_ad7d1572402f78447162c7d7fc13c2218_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a32b7a2e916d6d98d48452839538f3072"/><section>
+    <title>removeDollarRate()</title>
+<indexterm><primary>removeDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>removeDollarRate</secondary></indexterm>
+<para><computeroutput>static void com.example.app.DollarRate.removeDollarRate (String currency)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a32b7a2e916d6d98d48452839538f3072_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a32b7a2e916d6d98d48452839538f3072_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1ac08adfb35f16131143092ca34eb4988a"/><section>
+    <title>setDollarRate()</title>
+<indexterm><primary>setDollarRate</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>setDollarRate</secondary></indexterm>
+<para><computeroutput>void com.example.app.DollarRate.setDollarRate (double dollarRate)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_ac08adfb35f16131143092ca34eb4988a_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_dollar_rate_1a28250a99fb10b4820525b18d59540e18"/><section>
+    <title>setLastUpdated()</title>
+<indexterm><primary>setLastUpdated</primary><secondary>com.example.app.DollarRate</secondary></indexterm>
+<indexterm><primary>com.example.app.DollarRate</primary><secondary>setLastUpdated</secondary></indexterm>
+<para><computeroutput>void com.example.app.DollarRate.setLastUpdated ( )</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_dollar_rate_a28250a99fb10b4820525b18d59540e18_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__dollar_rate_8java">DollarRate.java</link></section>
+</section>

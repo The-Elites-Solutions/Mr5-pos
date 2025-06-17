@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespacecom_1_1example_1_1app" kind="namespace" language="Java">
+    <compoundname>com::example::app</compoundname>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_add_expense" prot="public">com::example::app::AddExpense</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_add_menu_item" prot="public">com::example::app::AddMenuItem</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_add_rate" prot="public">com::example::app::AddRate</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_category" prot="public">com::example::app::Category</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_database_connection" prot="public">com::example::app::DatabaseConnection</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_dollar_rate" prot="public">com::example::app::DollarRate</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_edit_menu_item" prot="public">com::example::app::EditMenuItem</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_expense" prot="public">com::example::app::Expense</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_expenses" prot="public">com::example::app::Expenses</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_fonction" prot="public">com::example::app::Fonction</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_home_screen" prot="public">com::example::app::HomeScreen</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_login_controller" prot="public">com::example::app::LoginController</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_login_screen" prot="public">com::example::app::LoginScreen</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_menu_item" prot="public">com::example::app::MenuItem</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_menu_item_panel" prot="public">com::example::app::MenuItemPanel</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1new_order" prot="public">com::example::app::newOrder</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_power_off" prot="public">com::example::app::PowerOff</innerclass>
+    <innerclass refid="interfacecom_1_1example_1_1app_1_1_refreshlist" prot="public">com::example::app::Refreshlist</innerclass>
+    <innerclass refid="interfacecom_1_1example_1_1app_1_1_refresh_menulist" prot="public">com::example::app::RefreshMenulist</innerclass>
+    <innerclass refid="interfacecom_1_1example_1_1app_1_1_refresh_settings" prot="public">com::example::app::RefreshSettings</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_remove_expense" prot="public">com::example::app::RemoveExpense</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_remove_rate" prot="public">com::example::app::RemoveRate</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_reports_panel" prot="public">com::example::app::ReportsPanel</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_settings" prot="public">com::example::app::Settings</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1_user" prot="public">com::example::app::User</innerclass>
+    <innerclass refid="classcom_1_1example_1_1app_1_1view_order" prot="public">com::example::app::viewOrder</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="1" column="15"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_power_off" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::PowerOff</compoundname>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_power_off_1a624914f10dc4aa74d8dc872bb2a5b695" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.PowerOff.btnLogout</definition>
+        <argsstring></argsstring>
+        <name>btnLogout</name>
+        <qualifiedname>com.example.app.PowerOff.btnLogout</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="16" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_power_off_1ad8112f099c3d0eec1cc682b08de7a67a" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.PowerOff.btnCancel</definition>
+        <argsstring></argsstring>
+        <name>btnCancel</name>
+        <qualifiedname>com.example.app.PowerOff.btnCancel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="18" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_power_off_1ab8d909e6368f8cc8a208131859047fd9" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.PowerOff.btnExit</definition>
+        <argsstring></argsstring>
+        <name>btnExit</name>
+        <qualifiedname>com.example.app.PowerOff.btnExit</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="20" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="20" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_power_off_1ad279f922dd28c0aef06df4a71e7db786" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.PowerOff.btnLogoutAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnLogoutAction</name>
+        <qualifiedname>com.example.app.PowerOff.btnLogoutAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="23" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="23" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_power_off_1aad0d77c289a62677551010e7e1626225" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.PowerOff.btnCancelAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnCancelAction</name>
+        <qualifiedname>com.example.app.PowerOff.btnCancelAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="52" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="52" bodyend="80"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_power_off_1ac425ff9b51e4ce3ddfbfe5ecd40deaa8" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.PowerOff.btnExitAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnExitAction</name>
+        <qualifiedname>com.example.app.PowerOff.btnExitAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="83" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="83" bodyend="87"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="1">
+        <label>com.example.app.PowerOff</label>
+        <link refid="classcom_1_1example_1_1app_1_1_power_off"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>btnCancel</edgelabel>
+          <edgelabel>btnExit</edgelabel>
+          <edgelabel>btnLogout</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Button</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" line="13" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/PowerOff.java" bodystart="13" bodyend="88"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1ad8112f099c3d0eec1cc682b08de7a67a" prot="package" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnCancel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1aad0d77c289a62677551010e7e1626225" prot="protected" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnCancelAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1ab8d909e6368f8cc8a208131859047fd9" prot="package" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnExit</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1ac425ff9b51e4ce3ddfbfe5ecd40deaa8" prot="protected" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnExitAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1a624914f10dc4aa74d8dc872bb2a5b695" prot="package" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnLogout</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_power_off_1ad279f922dd28c0aef06df4a71e7db786" prot="protected" virt="non-virtual"><scope>com::example::app::PowerOff</scope><name>btnLogoutAction</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,77 @@
+This is a log entry written on Tue Jun 25 02:04:43 EEST 2024
+Users loaded from the Database Tue Jun 25 02:04:43 EEST 2024
+Users loaded Tue Jun 25 02:04:43 EEST 2024
+Fonctions loaded from database Tue Jun 25 02:04:43 EEST 2024
+Fonctions loaded Tue Jun 25 02:04:43 EEST 2024
+Expenses loaded from the Database Tue Jun 25 02:04:43 EEST 2024
+Expenses loaded Tue Jun 25 02:04:43 EEST 2024
+Menu Items loaded from the Database Tue Jun 25 02:04:43 EEST 2024
+Menu items loaded Tue Jun 25 02:04:43 EEST 2024
+Categories loaded from the Database Tue Jun 25 02:04:43 EEST 2024
+Menu items loaded Tue Jun 25 02:04:43 EEST 2024
+Dollar rates loaded Tue Jun 25 02:04:43 EEST 2024
+Dollar rates loaded Tue Jun 25 02:04:43 EEST 2024
+Everything is loaded Tue Jun 25 02:04:43 EEST 2024
+Login Button Pressed Tue Jun 25 02:04:46 EEST 2024
+User Logged In: admin
+Login Successful Tue Jun 25 02:04:46 EEST 2024
+Hello admin!!!Tue Jun 25 02:04:46 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 02:04:46 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 02:04:46 EEST 2024
+New Order Button Pressed Tue Jun 25 02:04:47 EEST 2024
+New Order Screen Loaded Tue Jun 25 02:04:47 EEST 2024
+Button Pressed: Take Out Tue Jun 25 02:04:48 EEST 2024
+Button Pressed: Skip Tue Jun 25 02:04:49 EEST 2024
+Category: BurgerLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: PizzaLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: SaladLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: TacosLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: PastaLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: DessertLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: SandwichLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: SoupLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 02:04:49 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 02:04:49 EEST 2024
+Button Pressed: Appetizer Tue Jun 25 02:04:51 EEST 2024
+Item: Mozzarella SticksLoaded Tue Jun 25 02:04:51 EEST 2024
+Item: Onion RingsLoaded Tue Jun 25 02:04:51 EEST 2024
+Item: Chicken WingsLoaded Tue Jun 25 02:04:51 EEST 2024
+Button Pressed: Chicken Wings Tue Jun 25 02:04:51 EEST 2024
+Ingredients loaded from the Database Tue Jun 25 02:04:51 EEST 2024
+Ingredient: chicken wingsLoaded Tue Jun 25 02:04:51 EEST 2024
+Ingredient: buffalo sauceLoaded Tue Jun 25 02:04:51 EEST 2024
+Ingredient: blue cheese dressingLoaded Tue Jun 25 02:04:51 EEST 2024
+Ingredient: celeryLoaded Tue Jun 25 02:04:51 EEST 2024
+Button Pressed: buffalo sauce Tue Jun 25 02:04:51 EEST 2024
+Ingredient: buffalo sauceAdded Tue Jun 25 02:04:51 EEST 2024
+Button Pressed: blue cheese dressing Tue Jun 25 02:04:52 EEST 2024
+Ingredient: blue cheese dressingAdded Tue Jun 25 02:04:52 EEST 2024
+Button Pressed: Done Tue Jun 25 02:04:54 EEST 2024
+Order Item ID: OI1719270294834
+Order ID: O1719270289872
+Database connection successful
+Order Item ID: OI1719270294840
+Order ID: O1719270289872
+Order Item ID: OI1719270294849
+Order ID: O1719270289872
+Category: BurgerLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: PizzaLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: SaladLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: TacosLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: PastaLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: DessertLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: SandwichLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: SoupLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 02:04:54 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 02:04:54 EEST 2024
+Button Pressed: Close Order Tue Jun 25 02:05:00 EEST 2024
+Back Button Pressed Tue Jun 25 02:05:00 EEST 2024
+Hello admin!!!Tue Jun 25 02:05:00 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 02:05:00 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 02:05:00 EEST 2024
+Power Off Button Pressed Tue Jun 25 02:05:00 EEST 2024
+Exit Button Pressed Tue Jun 25 02:05:01 EEST 2024

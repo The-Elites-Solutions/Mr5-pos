@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_add_expense" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::AddExpense</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a76b910ed62eac478b5b3ece59a4af4ee" prot="private" static="no" mutable="no">
+        <type><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist" kindref="compound">Refreshlist</ref></type>
+        <definition>Refreshlist com.example.app.AddExpense.expenseRefresher</definition>
+        <argsstring></argsstring>
+        <name>expenseRefresher</name>
+        <qualifiedname>com.example.app.AddExpense.expenseRefresher</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="15" column="25" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1aaef7c572bc092fb20f4207f62e3d0acf" prot="package" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddExpense.Nametf</definition>
+        <argsstring></argsstring>
+        <name>Nametf</name>
+        <qualifiedname>com.example.app.AddExpense.Nametf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="25" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a36cbceb5d21fd9aa9ea4745574c3f6af" prot="package" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddExpense.Descriptiontf</definition>
+        <argsstring></argsstring>
+        <name>Descriptiontf</name>
+        <qualifiedname>com.example.app.AddExpense.Descriptiontf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="25" column="22" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a4f00a289aa2ad8a6559624942a0935ff" prot="package" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddExpense.Costtf</definition>
+        <argsstring></argsstring>
+        <name>Costtf</name>
+        <qualifiedname>com.example.app.AddExpense.Costtf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="25" column="36" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1af8a095143f024ca6d5054b279cd7ba09" prot="package" static="no" mutable="no">
+        <type>DatePicker</type>
+        <definition>DatePicker com.example.app.AddExpense.DatePick</definition>
+        <argsstring></argsstring>
+        <name>DatePick</name>
+        <qualifiedname>com.example.app.AddExpense.DatePick</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="28" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a13e135cf2e8992e61b0a4748b5bd9c9e" prot="package" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label com.example.app.AddExpense.ErrorLabel</definition>
+        <argsstring></argsstring>
+        <name>ErrorLabel</name>
+        <qualifiedname>com.example.app.AddExpense.ErrorLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="31" column="11" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a1d8c4af69553e793bd0925a89e5c283f" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.AddExpense.btnCancelAddExpense</definition>
+        <argsstring></argsstring>
+        <name>btnCancelAddExpense</name>
+        <qualifiedname>com.example.app.AddExpense.btnCancelAddExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="34" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1a529d75252a5e889d0a982165d37d62dc" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.AddExpense.btnAddExpense</definition>
+        <argsstring></argsstring>
+        <name>btnAddExpense</name>
+        <qualifiedname>com.example.app.AddExpense.btnAddExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="34" column="32" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_expense_1ac3120fc0fea0a2301d30c2e0b0b6d853" prot="package" static="no" mutable="no">
+        <type>ComboBox&lt; String &gt;</type>
+        <definition>ComboBox&lt;String&gt; com.example.app.AddExpense.CurrencyCb</definition>
+        <argsstring></argsstring>
+        <name>CurrencyCb</name>
+        <qualifiedname>com.example.app.AddExpense.CurrencyCb</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="37" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="37" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_expense_1ae6d49a63576ddb8a96d5783130c6ef1c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.AddExpense.AddExpense</definition>
+        <argsstring>()</argsstring>
+        <name>AddExpense</name>
+        <qualifiedname>com.example.app.AddExpense.AddExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="17" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="17" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_expense_1ac5fb6e57364e3cc0133bb1e3f9c3a304" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddExpense.setExpenseRefresher</definition>
+        <argsstring>(Refreshlist expenseRefresher)</argsstring>
+        <name>setExpenseRefresher</name>
+        <qualifiedname>com.example.app.AddExpense.setExpenseRefresher</qualifiedname>
+        <param>
+          <type><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist" kindref="compound">Refreshlist</ref></type>
+          <declname>expenseRefresher</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="20" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="20" bodyend="22"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_expense_1a888ded78e37bad423c935f1195c2b7ea" compoundref="_expense_8java" startline="44" endline="62">com.example.app.Expense.addExpense</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_expense_1ad546ebc9e8164dce0bd7ae6998d4ae8e" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddExpense.initialize</definition>
+        <argsstring>()</argsstring>
+        <name>initialize</name>
+        <qualifiedname>com.example.app.AddExpense.initialize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="40" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="40" bodyend="46"/>
+        <references refid="classcom_1_1example_1_1app_1_1_dollar_rate_1ab14b9ce4e505273430a050014736325b" compoundref="_dollar_rate_8java" startline="105" endline="111">com.example.app.DollarRate.getCurrencyList</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_expense_1a91dfe29aac2edc8d72c1e56223c294cf" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddExpense.setBtnAddExpense</definition>
+        <argsstring>()</argsstring>
+        <name>setBtnAddExpense</name>
+        <qualifiedname>com.example.app.AddExpense.setBtnAddExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="49" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="49" bodyend="75"/>
+        <references refid="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6">com.example.app.Refreshlist.refreshExpenses</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_expense_1adb95a08acbdd20185722042aaf7340c8" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddExpense.CancelBtnOnAction</definition>
+        <argsstring>()</argsstring>
+        <name>CancelBtnOnAction</name>
+        <qualifiedname>com.example.app.AddExpense.CancelBtnOnAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="78" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="78" bodyend="86"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="5">
+        <label>ComboBox&lt; String &gt;</label>
+      </node>
+      <node id="1">
+        <label>com.example.app.AddExpense</label>
+        <link refid="classcom_1_1example_1_1app_1_1_add_expense"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>Costtf</edgelabel>
+          <edgelabel>Descriptiontf</edgelabel>
+          <edgelabel>Nametf</edgelabel>
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>ErrorLabel</edgelabel>
+        </childnode>
+        <childnode refid="4" relation="usage">
+          <edgelabel>btnAddExpense</edgelabel>
+          <edgelabel>btnCancelAddExpense</edgelabel>
+        </childnode>
+        <childnode refid="5" relation="usage">
+          <edgelabel>CurrencyCb</edgelabel>
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Button</label>
+      </node>
+      <node id="3">
+        <label>Label</label>
+      </node>
+      <node id="2">
+        <label>TextField</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" line="14" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddExpense.java" bodystart="14" bodyend="87"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1ae6d49a63576ddb8a96d5783130c6ef1c" prot="public" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>AddExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a529d75252a5e889d0a982165d37d62dc" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>btnAddExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a1d8c4af69553e793bd0925a89e5c283f" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>btnCancelAddExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1adb95a08acbdd20185722042aaf7340c8" prot="protected" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>CancelBtnOnAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a4f00a289aa2ad8a6559624942a0935ff" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>Costtf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1ac3120fc0fea0a2301d30c2e0b0b6d853" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>CurrencyCb</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1af8a095143f024ca6d5054b279cd7ba09" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>DatePick</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a36cbceb5d21fd9aa9ea4745574c3f6af" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>Descriptiontf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a13e135cf2e8992e61b0a4748b5bd9c9e" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>ErrorLabel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a76b910ed62eac478b5b3ece59a4af4ee" prot="private" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>expenseRefresher</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1ad546ebc9e8164dce0bd7ae6998d4ae8e" prot="protected" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>initialize</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1aaef7c572bc092fb20f4207f62e3d0acf" prot="package" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>Nametf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1a91dfe29aac2edc8d72c1e56223c294cf" prot="protected" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>setBtnAddExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_expense_1ac5fb6e57364e3cc0133bb1e3f9c3a304" prot="public" virt="non-virtual"><scope>com::example::app::AddExpense</scope><name>setExpenseRefresher</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

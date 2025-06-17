@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_user" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::User</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_user_1a7cbeb30f57f64fe4e6f42583db3ceab3" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.User.username</definition>
+        <argsstring></argsstring>
+        <name>username</name>
+        <qualifiedname>com.example.app.User.username</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="8" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_user_1a51f7501a8e9d037224750bee7a8be352" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.User.password</definition>
+        <argsstring></argsstring>
+        <name>password</name>
+        <qualifiedname>com.example.app.User.password</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="9" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_user_1af94618d02002970d55b01b7e813abcd6" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.User.fonction</definition>
+        <argsstring></argsstring>
+        <name>fonction</name>
+        <qualifiedname>com.example.app.User.fonction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="10" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_user_1abfe5a41d836e3fe117ffd8f24b3d1ed5" prot="private" static="yes" mutable="no">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_user" kindref="compound">User</ref> &gt;</type>
+        <definition>ArrayList&lt;User&gt; com.example.app.User.Userlist</definition>
+        <argsstring></argsstring>
+        <name>Userlist</name>
+        <qualifiedname>com.example.app.User.Userlist</qualifiedname>
+        <initializer>= new ArrayList&lt;<ref refid="classcom_1_1example_1_1app_1_1_user" kindref="compound">User</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="11" column="30" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a7516405c78becb286dfda83c63220878" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.User.User</definition>
+        <argsstring>()</argsstring>
+        <name>User</name>
+        <qualifiedname>com.example.app.User.User</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="13" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="13" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1aa0d0609926c8d47c920541274356d8ec" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.User.User</definition>
+        <argsstring>(String username, String password, String fonction)</argsstring>
+        <name>User</name>
+        <qualifiedname>com.example.app.User.User</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>password</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>fonction</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="17" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="17" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1adc67a5bfdbed4d3a9377cd3b0d266f10" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.User.getUsername</definition>
+        <argsstring>()</argsstring>
+        <name>getUsername</name>
+        <qualifiedname>com.example.app.User.getUsername</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="36" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="36" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a7b217ac1fa51bc3f93bc4a3cfb7c5011" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.User.getPassword</definition>
+        <argsstring>()</argsstring>
+        <name>getPassword</name>
+        <qualifiedname>com.example.app.User.getPassword</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="40" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="40" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a8017d964548d2375dbf8940568b8c56d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.User.getFonction</definition>
+        <argsstring>()</argsstring>
+        <name>getFonction</name>
+        <qualifiedname>com.example.app.User.getFonction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="44" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="44" bodyend="46"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a09b6192b91538cf0c67ba2d498662562" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.User.setUsername</definition>
+        <argsstring>(String username)</argsstring>
+        <name>setUsername</name>
+        <qualifiedname>com.example.app.User.setUsername</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="24" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="24" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1ac76baff0033699f2fb1914524914d9ef" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.User.setPassword</definition>
+        <argsstring>(String password)</argsstring>
+        <name>setPassword</name>
+        <qualifiedname>com.example.app.User.setPassword</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="28" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="28" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1acd6c0d0146d7e7f5c5c4c13f582c32a7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.User.setFonction</definition>
+        <argsstring>(String fonction)</argsstring>
+        <name>setFonction</name>
+        <qualifiedname>com.example.app.User.setFonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonction</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="32" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="32" bodyend="34"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a60cef489c3e3ed61f725b8ac77c9acae" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_user" kindref="compound">User</ref> &gt;</type>
+        <definition>static ArrayList&lt; User &gt; com.example.app.User.getUserlist</definition>
+        <argsstring>()</argsstring>
+        <name>getUserlist</name>
+        <qualifiedname>com.example.app.User.getUserlist</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="48" column="29" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="48" bodyend="50"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1ac0d92336ebec2595001ff52865b92a8d" compoundref="_settings_8java" startline="171" endline="202">com.example.app.Settings.btnaddUseronAction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a611f722ee083d21779c4933c14527ed8" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>static ArrayList&lt; String &gt; com.example.app.User.getUsernamelist</definition>
+        <argsstring>()</argsstring>
+        <name>getUsernamelist</name>
+        <qualifiedname>com.example.app.User.getUsernamelist</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="52" column="29" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="52" bodyend="58"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1ac0d92336ebec2595001ff52865b92a8d" compoundref="_settings_8java" startline="171" endline="202">com.example.app.Settings.btnaddUseronAction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a325ad7259c2f7fb78f4b5f994f8b29cb" compoundref="_settings_8java" startline="264" endline="292">com.example.app.Settings.btnChangePasswordonAction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1aa9df5a00e3d4170810e7ba00bccb9471" compoundref="_settings_8java" startline="210" endline="232">com.example.app.Settings.btnDeleteUseronAction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1aafaaa67a0c06b801cb1d47a2d41c5626" compoundref="_settings_8java" startline="41" endline="62">com.example.app.Settings.initialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a0bef1fc31d52d0daae0187e66f8573aa" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>static Boolean com.example.app.User.isAvailable</definition>
+        <argsstring>(String username)</argsstring>
+        <name>isAvailable</name>
+        <qualifiedname>com.example.app.User.isAvailable</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="60" column="27" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="60" bodyend="67"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_login_controller_1a5025d6f33c0598602420ea4bf6cbac1b" compoundref="_login_controller_8java" startline="66" endline="178">com.example.app.LoginController.LoginButtonAction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1aec2385efe843bd7b012f7741bb403417" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>static String com.example.app.User.getPasswordbyuser</definition>
+        <argsstring>(String username)</argsstring>
+        <name>getPasswordbyuser</name>
+        <qualifiedname>com.example.app.User.getPasswordbyuser</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="69" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="69" bodyend="76"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a325ad7259c2f7fb78f4b5f994f8b29cb" compoundref="_settings_8java" startline="264" endline="292">com.example.app.Settings.btnChangePasswordonAction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_login_controller_1a5025d6f33c0598602420ea4bf6cbac1b" compoundref="_login_controller_8java" startline="66" endline="178">com.example.app.LoginController.LoginButtonAction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a743922b69ac561a542fbb5c6b72bf124" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>static String com.example.app.User.getFonctionbyuser</definition>
+        <argsstring>(String username)</argsstring>
+        <name>getFonctionbyuser</name>
+        <qualifiedname>com.example.app.User.getFonctionbyuser</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="78" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="78" bodyend="85"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1afad8509fc354b9192fd9f683fa10bce7" compoundref="_settings_8java" startline="239" endline="257">com.example.app.Settings.btnChangefonction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1aae1c26023bbea325894ecb4ba27760f7" compoundref="_settings_8java" startline="299" endline="305">com.example.app.Settings.onUserfccbChanged</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a0b80bc3b888b8a8e6dad20d07395bbc2" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.User.ChangePassword</definition>
+        <argsstring>(String username, String password)</argsstring>
+        <name>ChangePassword</name>
+        <qualifiedname>com.example.app.User.ChangePassword</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="87" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="87" bodyend="94"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1af95984016afe0525cf66d1cb9b6b1024" compoundref="_database_connection_8java" startline="89" endline="94">com.example.app.DatabaseConnection.changePassword</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a325ad7259c2f7fb78f4b5f994f8b29cb" compoundref="_settings_8java" startline="264" endline="292">com.example.app.Settings.btnChangePasswordonAction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a5dbfeab11ea0980750bf44900840dbf9" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.User.ChangeFonction</definition>
+        <argsstring>(String username, String fonction)</argsstring>
+        <name>ChangeFonction</name>
+        <qualifiedname>com.example.app.User.ChangeFonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>fonction</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="96" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="96" bodyend="103"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a9e999f09adb2d32f897533d25d8ba999" compoundref="_database_connection_8java" startline="96" endline="101">com.example.app.DatabaseConnection.changeFonction</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1afad8509fc354b9192fd9f683fa10bce7" compoundref="_settings_8java" startline="239" endline="257">com.example.app.Settings.btnChangefonction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a79923fd40ac244e8f0f4d12573299549" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.User.DeleteByFonction</definition>
+        <argsstring>(String fonction)</argsstring>
+        <name>DeleteByFonction</name>
+        <qualifiedname>com.example.app.User.DeleteByFonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonction</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="105" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="105" bodyend="113"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a23bc9e7f1fe9c435c61a6f5bb5b0aad9" compoundref="_database_connection_8java" startline="103" endline="107">com.example.app.DatabaseConnection.deleteUser</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_fonction_1a71f4f6f18c998d5cab64b09cfda920b3" compoundref="_fonction_8java" startline="55" endline="59">com.example.app.Fonction.deleteFonction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1acd86e9fe29772a82285a688b8b6af392" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.User.deleteUser</definition>
+        <argsstring>(String username)</argsstring>
+        <name>deleteUser</name>
+        <qualifiedname>com.example.app.User.deleteUser</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>username</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="115" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="115" bodyend="122"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a23bc9e7f1fe9c435c61a6f5bb5b0aad9" compoundref="_database_connection_8java" startline="103" endline="107">com.example.app.DatabaseConnection.deleteUser</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1aa9df5a00e3d4170810e7ba00bccb9471" compoundref="_settings_8java" startline="210" endline="232">com.example.app.Settings.btnDeleteUseronAction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_user_1a95f92c87bacbc3a986957d9114d3ae8c" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.User.printUserList</definition>
+        <argsstring>()</argsstring>
+        <name>printUserList</name>
+        <qualifiedname>com.example.app.User.printUserList</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="124" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="124" bodyend="130"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1ac0d92336ebec2595001ff52865b92a8d" compoundref="_settings_8java" startline="171" endline="202">com.example.app.Settings.btnaddUseronAction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_login_screen_1ac6784975d16fde8a98fd5b5eb43d18c2" compoundref="_login_screen_8java" startline="35" endline="45">com.example.app.LoginScreen.main</referencedby>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" line="7" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/User.java" bodystart="7" bodyend="131"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a5dbfeab11ea0980750bf44900840dbf9" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>ChangeFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a0b80bc3b888b8a8e6dad20d07395bbc2" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>ChangePassword</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a79923fd40ac244e8f0f4d12573299549" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>DeleteByFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1acd86e9fe29772a82285a688b8b6af392" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>deleteUser</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1af94618d02002970d55b01b7e813abcd6" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>fonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a8017d964548d2375dbf8940568b8c56d" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a743922b69ac561a542fbb5c6b72bf124" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getFonctionbyuser</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a7b217ac1fa51bc3f93bc4a3cfb7c5011" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getPassword</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1aec2385efe843bd7b012f7741bb403417" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getPasswordbyuser</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a60cef489c3e3ed61f725b8ac77c9acae" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getUserlist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1adc67a5bfdbed4d3a9377cd3b0d266f10" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getUsername</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a611f722ee083d21779c4933c14527ed8" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>getUsernamelist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a0bef1fc31d52d0daae0187e66f8573aa" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>isAvailable</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a51f7501a8e9d037224750bee7a8be352" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>password</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a95f92c87bacbc3a986957d9114d3ae8c" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>printUserList</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1acd6c0d0146d7e7f5c5c4c13f582c32a7" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>setFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1ac76baff0033699f2fb1914524914d9ef" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>setPassword</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a09b6192b91538cf0c67ba2d498662562" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>setUsername</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a7516405c78becb286dfda83c63220878" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>User</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1aa0d0609926c8d47c920541274356d8ec" prot="public" virt="non-virtual"><scope>com::example::app::User</scope><name>User</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1abfe5a41d836e3fe117ffd8f24b3d1ed5" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>Userlist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_user_1a7cbeb30f57f64fe4e6f42583db3ceab3" prot="private" virt="non-virtual"><scope>com::example::app::User</scope><name>username</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

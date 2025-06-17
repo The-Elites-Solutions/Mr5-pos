@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_fonction" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::Fonction</compoundname>
+    <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1ab43c4236bf59f9cf188a7a816db04ae3" prot="private" static="yes" mutable="no">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>ArrayList&lt;String&gt; com.example.app.Fonction.Fonctionlist</definition>
+        <argsstring></argsstring>
+        <name>Fonctionlist</name>
+        <qualifiedname>com.example.app.Fonction.Fonctionlist</qualifiedname>
+        <initializer>= new ArrayList&lt;String&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="6" column="31" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="6" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1a531e92c06149f237c083f78f205214c4" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Fonction.fonctionname</definition>
+        <argsstring></argsstring>
+        <name>fonctionname</name>
+        <qualifiedname>com.example.app.Fonction.fonctionname</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="7" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1af282d461e152bd10720af1da7103b048" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.vieworderPanel</definition>
+        <argsstring></argsstring>
+        <name>vieworderPanel</name>
+        <qualifiedname>com.example.app.Fonction.vieworderPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="8" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1a6ea2e8290bb1cba4c203213f5ef5cf53" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.neworderPanel</definition>
+        <argsstring></argsstring>
+        <name>neworderPanel</name>
+        <qualifiedname>com.example.app.Fonction.neworderPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="9" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1a8b620a988335ab96e6a0df3d287d68aa" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.expensesPanel</definition>
+        <argsstring></argsstring>
+        <name>expensesPanel</name>
+        <qualifiedname>com.example.app.Fonction.expensesPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="10" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1a4696e51b6cf46a9fe398d3bcc0f3772f" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.settingsPanel</definition>
+        <argsstring></argsstring>
+        <name>settingsPanel</name>
+        <qualifiedname>com.example.app.Fonction.settingsPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="11" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1a5e8655a21ee23cde7069de3995b1d67c" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.reportsPanel</definition>
+        <argsstring></argsstring>
+        <name>reportsPanel</name>
+        <qualifiedname>com.example.app.Fonction.reportsPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="12" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_fonction_1ad36a8778c3d9295a0acb01f3d4233acf" prot="private" static="no" mutable="no">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.menuitemsPanel</definition>
+        <argsstring></argsstring>
+        <name>menuitemsPanel</name>
+        <qualifiedname>com.example.app.Fonction.menuitemsPanel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="13" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a57b5ceabe081954597fa66d1690d4bf6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.Fonction.Fonction</definition>
+        <argsstring>()</argsstring>
+        <name>Fonction</name>
+        <qualifiedname>com.example.app.Fonction.Fonction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="15" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="15" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1aea753efe34e0a572e46cf9fe0a765154" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.Fonction.Fonction</definition>
+        <argsstring>(String fonctionname, Boolean vieworderPanel, Boolean neworderPanel, Boolean expensesPanel, Boolean settingsPanel, Boolean reportsPanel, Boolean menuitemsPanel)</argsstring>
+        <name>Fonction</name>
+        <qualifiedname>com.example.app.Fonction.Fonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonctionname</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>vieworderPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>neworderPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>expensesPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>settingsPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>reportsPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>menuitemsPanel</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="18" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a6325c7b81537a7d16ad38951f80da363" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.Fonction.isEqual</definition>
+        <argsstring>(String fonctionname)</argsstring>
+        <name>isEqual</name>
+        <qualifiedname>com.example.app.Fonction.isEqual</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonctionname</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="61" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="61" bodyend="71"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a02d74a71e98c04a371a409b460fa71c7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Fonction.setPanels</definition>
+        <argsstring>(Boolean vieworderPanel, Boolean neworderPanel, Boolean expensesPanel, Boolean settingsPanel, Boolean reportsPanel, Boolean menuitemsPanel)</argsstring>
+        <name>setPanels</name>
+        <qualifiedname>com.example.app.Fonction.setPanels</qualifiedname>
+        <param>
+          <type>Boolean</type>
+          <declname>vieworderPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>neworderPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>expensesPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>settingsPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>reportsPanel</declname>
+        </param>
+        <param>
+          <type>Boolean</type>
+          <declname>menuitemsPanel</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="23" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="23" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a8aa051282010f902e3cf0d892aa1be96" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Fonction.setFonction</definition>
+        <argsstring>(String fonctionname)</argsstring>
+        <name>setFonction</name>
+        <qualifiedname>com.example.app.Fonction.setFonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonctionname</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="37" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="37" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1ad8fcbe1884201b4f2249d59b3f7ba7db" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Fonction.setFonctionname</definition>
+        <argsstring>(String fonctionname)</argsstring>
+        <name>setFonctionname</name>
+        <qualifiedname>com.example.app.Fonction.setFonctionname</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonctionname</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="42" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="42" bodyend="44"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1ae131d73debaa4433fd3f40828805a4ae" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.Fonction.loadFonction</definition>
+        <argsstring>()</argsstring>
+        <name>loadFonction</name>
+        <qualifiedname>com.example.app.Fonction.loadFonction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="32" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="32" bodyend="35"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a521cd35c1a7c56aef730ceed16e4cf1b" compoundref="_database_connection_8java" startline="73" endline="79">com.example.app.DatabaseConnection.getFonction</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_login_screen_1ac6784975d16fde8a98fd5b5eb43d18c2" compoundref="_login_screen_8java" startline="35" endline="45">com.example.app.LoginScreen.main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a50e8708f1e4805bf6c51889d932697ca" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>static ArrayList&lt; String &gt; com.example.app.Fonction.getFonctionlist</definition>
+        <argsstring>()</argsstring>
+        <name>getFonctionlist</name>
+        <qualifiedname>com.example.app.Fonction.getFonctionlist</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="47" column="29" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="47" bodyend="49"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a4314eae34f8b210745293f5ade1a8e18" compoundref="_settings_8java" startline="101" endline="135">com.example.app.Settings.btnAddFonction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1afad8509fc354b9192fd9f683fa10bce7" compoundref="_settings_8java" startline="239" endline="257">com.example.app.Settings.btnChangefonction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a0b386ef841ecacca6c0861d04c340681" compoundref="_settings_8java" startline="142" endline="164">com.example.app.Settings.btnDeleteFonction</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1aafaaa67a0c06b801cb1d47a2d41c5626" compoundref="_settings_8java" startline="41" endline="62">com.example.app.Settings.initialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a780db631b60a62ad0584b29b28937efb" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>static int com.example.app.Fonction.getFonctionlistlenght</definition>
+        <argsstring>()</argsstring>
+        <name>getFonctionlistlenght</name>
+        <qualifiedname>com.example.app.Fonction.getFonctionlistlenght</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="51" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="51" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1a71f4f6f18c998d5cab64b09cfda920b3" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.Fonction.deleteFonction</definition>
+        <argsstring>(String fonctionname)</argsstring>
+        <name>deleteFonction</name>
+        <qualifiedname>com.example.app.Fonction.deleteFonction</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>fonctionname</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="55" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="55" bodyend="59"/>
+        <references refid="classcom_1_1example_1_1app_1_1_user_1a79923fd40ac244e8f0f4d12573299549" compoundref="_user_8java" startline="105" endline="113">com.example.app.User.DeleteByFonction</references>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1ad00b30e26bc3efd18941226010d87bb1" compoundref="_database_connection_8java" startline="109" endline="113">com.example.app.DatabaseConnection.deleteFonction</references>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_settings_1a0b386ef841ecacca6c0861d04c340681" compoundref="_settings_8java" startline="142" endline="164">com.example.app.Settings.btnDeleteFonction</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_fonction_1af44f69b54c4862d7373cba85691af67b" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.Fonction.clearFonctionlist</definition>
+        <argsstring>()</argsstring>
+        <name>clearFonctionlist</name>
+        <qualifiedname>com.example.app.Fonction.clearFonctionlist</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="73" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="73" bodyend="75"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" line="5" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Fonction.java" bodystart="5" bodyend="77"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1af44f69b54c4862d7373cba85691af67b" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>clearFonctionlist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a71f4f6f18c998d5cab64b09cfda920b3" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>deleteFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a8b620a988335ab96e6a0df3d287d68aa" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>expensesPanel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a57b5ceabe081954597fa66d1690d4bf6" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>Fonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1aea753efe34e0a572e46cf9fe0a765154" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>Fonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1ab43c4236bf59f9cf188a7a816db04ae3" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>Fonctionlist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a531e92c06149f237c083f78f205214c4" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>fonctionname</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a50e8708f1e4805bf6c51889d932697ca" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>getFonctionlist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a780db631b60a62ad0584b29b28937efb" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>getFonctionlistlenght</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a6325c7b81537a7d16ad38951f80da363" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>isEqual</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1ae131d73debaa4433fd3f40828805a4ae" prot="public" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>loadFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1ad36a8778c3d9295a0acb01f3d4233acf" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>menuitemsPanel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a6ea2e8290bb1cba4c203213f5ef5cf53" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>neworderPanel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a5e8655a21ee23cde7069de3995b1d67c" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>reportsPanel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a8aa051282010f902e3cf0d892aa1be96" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>setFonction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1ad8fcbe1884201b4f2249d59b3f7ba7db" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>setFonctionname</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a02d74a71e98c04a371a409b460fa71c7" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>setPanels</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1a4696e51b6cf46a9fe398d3bcc0f3772f" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>settingsPanel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_fonction_1af282d461e152bd10720af1da7103b048" prot="private" virt="non-virtual"><scope>com::example::app::Fonction</scope><name>vieworderPanel</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

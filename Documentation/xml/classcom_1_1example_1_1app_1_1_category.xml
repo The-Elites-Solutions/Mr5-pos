@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_category" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::Category</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_category_1a0261ae8df1726daf3a2513f9e61d15de" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.Category.category</definition>
+        <argsstring></argsstring>
+        <name>category</name>
+        <qualifiedname>com.example.app.Category.category</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="7" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="7" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_category_1a657a327a91efc68f944f2aa214e8fa42" prot="private" static="yes" mutable="no">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref> &gt;</type>
+        <definition>ArrayList&lt;Category&gt; com.example.app.Category.categories</definition>
+        <argsstring></argsstring>
+        <name>categories</name>
+        <qualifiedname>com.example.app.Category.categories</qualifiedname>
+        <initializer>= new ArrayList&lt;<ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="9" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a7b826fcc69f2fcc81ad90ee4451f292d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.Category.Category</definition>
+        <argsstring>(String category)</argsstring>
+        <name>Category</name>
+        <qualifiedname>com.example.app.Category.Category</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="11" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="11" bodyend="14"/>
+        <references refid="classcom_1_1example_1_1app_1_1_category_1a473f3fe6a6bee1bd5b345afe6f5d39c6" compoundref="_category_8java" startline="55" endline="57">com.example.app.Category.setCategory</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a7915d7c7ea81020f7ef64b3606490a23" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Category.getCategory</definition>
+        <argsstring>()</argsstring>
+        <name>getCategory</name>
+        <qualifiedname>com.example.app.Category.getCategory</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="51" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="51" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a473f3fe6a6bee1bd5b345afe6f5d39c6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Category.setCategory</definition>
+        <argsstring>(String category)</argsstring>
+        <name>setCategory</name>
+        <qualifiedname>com.example.app.Category.setCategory</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="55" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="55" bodyend="57"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_category_1a7b826fcc69f2fcc81ad90ee4451f292d" compoundref="_category_8java" startline="11" endline="14">com.example.app.Category.Category</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a716732fa907a4b0c6047cf5427c0bad3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.Category.getName</definition>
+        <argsstring>()</argsstring>
+        <name>getName</name>
+        <qualifiedname>com.example.app.Category.getName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="59" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="59" bodyend="61"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a4c357bb691e0aa015412b0af698a2164" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>boolean</type>
+        <definition>static boolean com.example.app.Category.CategoryNotAvailable</definition>
+        <argsstring>(String newCategory)</argsstring>
+        <name>CategoryNotAvailable</name>
+        <qualifiedname>com.example.app.Category.CategoryNotAvailable</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>newCategory</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="16" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="16" bodyend="23"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b" compoundref="_menu_item_8java" startline="113" endline="119">com.example.app.MenuItem.setCategory</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a50db1e546d28339384c7b85186c34f02" compoundref="_add_menu_item_8java" startline="127" endline="152">com.example.app.AddMenuItem.setCategorycb</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a24ae619f4964ddae562581e9f40f3318" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+        <definition>static Category com.example.app.Category.getCategory</definition>
+        <argsstring>(String category)</argsstring>
+        <name>getCategory</name>
+        <qualifiedname>com.example.app.Category.getCategory</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="25" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="25" bodyend="32"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b" compoundref="_menu_item_8java" startline="113" endline="119">com.example.app.MenuItem.setCategory</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1ad8d1d001a51918f452df42405a5516f7" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>static ArrayList&lt; String &gt; com.example.app.Category.getCategories</definition>
+        <argsstring>()</argsstring>
+        <name>getCategories</name>
+        <qualifiedname>com.example.app.Category.getCategories</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="43" column="25" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="43" bodyend="49"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3" compoundref="_add_menu_item_8java" startline="38" endline="44">com.example.app.AddMenuItem.initialize</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_edit_menu_item_1ad82c58ec1c3c37816f3bdd5d4eae9831" compoundref="_edit_menu_item_8java" startline="49" endline="65">com.example.app.EditMenuItem.initialize</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_category_1a789d184eb5201af4099afc4ae02041fe" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Category.AddCategory</definition>
+        <argsstring>(String category)</argsstring>
+        <name>AddCategory</name>
+        <qualifiedname>com.example.app.Category.AddCategory</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="34" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="34" bodyend="41"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" line="5" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Category.java" bodystart="5" bodyend="62"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a789d184eb5201af4099afc4ae02041fe" prot="private" virt="non-virtual"><scope>com::example::app::Category</scope><name>AddCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a657a327a91efc68f944f2aa214e8fa42" prot="private" virt="non-virtual"><scope>com::example::app::Category</scope><name>categories</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a0261ae8df1726daf3a2513f9e61d15de" prot="private" virt="non-virtual"><scope>com::example::app::Category</scope><name>category</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a7b826fcc69f2fcc81ad90ee4451f292d" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>Category</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a4c357bb691e0aa015412b0af698a2164" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>CategoryNotAvailable</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1ad8d1d001a51918f452df42405a5516f7" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>getCategories</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a24ae619f4964ddae562581e9f40f3318" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>getCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a7915d7c7ea81020f7ef64b3606490a23" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>getCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a716732fa907a4b0c6047cf5427c0bad3" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>getName</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_category_1a473f3fe6a6bee1bd5b345afe6f5d39c6" prot="public" virt="non-virtual"><scope>com::example::app::Category</scope><name>setCategory</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_add_menu_item" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::AddMenuItem</compoundname>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a40b9fa21d3db30d46f11ac269a078dc0" prot="package" static="no" mutable="no">
+        <type><ref refid="interfacecom_1_1example_1_1app_1_1_refresh_menulist" kindref="compound">RefreshMenulist</ref></type>
+        <definition>RefreshMenulist com.example.app.AddMenuItem.refreshMenulist</definition>
+        <argsstring></argsstring>
+        <name>refreshMenulist</name>
+        <qualifiedname>com.example.app.AddMenuItem.refreshMenulist</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="12" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="12" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1ac53eabd13642781b5912575dc8ef039c" prot="private" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddMenuItem.nametf</definition>
+        <argsstring></argsstring>
+        <name>nametf</name>
+        <qualifiedname>com.example.app.AddMenuItem.nametf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="15" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a0626707309e7616a50ef8a6a98bec2c7" prot="private" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddMenuItem.pricetf</definition>
+        <argsstring></argsstring>
+        <name>pricetf</name>
+        <qualifiedname>com.example.app.AddMenuItem.pricetf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="15" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a2cc961c6c1c3a8e70ef2d127e8e977a4" prot="private" static="no" mutable="no">
+        <type>TextField</type>
+        <definition>TextField com.example.app.AddMenuItem.Ingredientstf</definition>
+        <argsstring></argsstring>
+        <name>Ingredientstf</name>
+        <qualifiedname>com.example.app.AddMenuItem.Ingredientstf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="15" column="34" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1ab6ca7cadefd25382d818cf65dba0e9c4" prot="private" static="no" mutable="no">
+        <type>ComboBox&lt; String &gt;</type>
+        <definition>ComboBox&lt;String&gt; com.example.app.AddMenuItem.categorycb</definition>
+        <argsstring></argsstring>
+        <name>categorycb</name>
+        <qualifiedname>com.example.app.AddMenuItem.categorycb</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="18" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a44ba90e361fa0582c64cd065c9fccdc2" prot="private" static="no" mutable="no">
+        <type>TextArea</type>
+        <definition>TextArea com.example.app.AddMenuItem.descriptiontf</definition>
+        <argsstring></argsstring>
+        <name>descriptiontf</name>
+        <qualifiedname>com.example.app.AddMenuItem.descriptiontf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="21" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="21" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1aa1c853988cd7d0719a5f436cfc16eb3b" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label com.example.app.AddMenuItem.ErrorLabel</definition>
+        <argsstring></argsstring>
+        <name>ErrorLabel</name>
+        <qualifiedname>com.example.app.AddMenuItem.ErrorLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="24" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a50c1920f3ec5d5089f7715528a7a7a53" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.AddMenuItem.btncancel</definition>
+        <argsstring></argsstring>
+        <name>btncancel</name>
+        <qualifiedname>com.example.app.AddMenuItem.btncancel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="27" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a3561ad17d86e3cc8a4b6f0536b42c937" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.AddMenuItem.btnapply</definition>
+        <argsstring></argsstring>
+        <name>btnapply</name>
+        <qualifiedname>com.example.app.AddMenuItem.btnapply</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="27" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a58d2a7ac8d7242210b6131caab710777" prot="private" static="no" mutable="no">
+        <type>TableColumn&lt; String, String &gt;</type>
+        <definition>TableColumn&lt;String, String&gt; com.example.app.AddMenuItem.ingredientsClmn</definition>
+        <argsstring></argsstring>
+        <name>ingredientsClmn</name>
+        <qualifiedname>com.example.app.AddMenuItem.ingredientsClmn</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="30" column="21" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a6f33dcf1557bf1aeacc04506ec13d649" prot="private" static="no" mutable="no">
+        <type>TableView&lt; String &gt;</type>
+        <definition>TableView&lt;String&gt; com.example.app.AddMenuItem.Ingredientstv</definition>
+        <argsstring></argsstring>
+        <name>Ingredientstv</name>
+        <qualifiedname>com.example.app.AddMenuItem.Ingredientstv</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="33" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="33" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7" prot="public" static="no" mutable="no">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>ArrayList&lt;String&gt; com.example.app.AddMenuItem.ingredients</definition>
+        <argsstring></argsstring>
+        <name>ingredients</name>
+        <qualifiedname>com.example.app.AddMenuItem.ingredients</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="35" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="35" bodyend="-1"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9" compoundref="_add_menu_item_8java" startline="48" endline="84">com.example.app.AddMenuItem.btnaddMenuItem</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3" compoundref="_add_menu_item_8java" startline="38" endline="44">com.example.app.AddMenuItem.initialize</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a9ea991367f74cd23d22cf3ad3a0c99f2" compoundref="_add_menu_item_8java" startline="98" endline="124">com.example.app.AddMenuItem.setBtnaddingredient</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.initialize</definition>
+        <argsstring>()</argsstring>
+        <name>initialize</name>
+        <qualifiedname>com.example.app.AddMenuItem.initialize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="38" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="38" bodyend="44"/>
+        <references refid="classcom_1_1example_1_1app_1_1_category_1ad8d1d001a51918f452df42405a5516f7" compoundref="_category_8java" startline="43" endline="49">com.example.app.Category.getCategories</references>
+        <references refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7" compoundref="_add_menu_item_8java" startline="35">com.example.app.AddMenuItem.ingredients</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.btnaddMenuItem</definition>
+        <argsstring>()</argsstring>
+        <name>btnaddMenuItem</name>
+        <qualifiedname>com.example.app.AddMenuItem.btnaddMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="48" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="48" bodyend="84"/>
+        <references refid="classcom_1_1example_1_1app_1_1_database_connection_1a255a9d41d7d29615c83b3becedee45a4" compoundref="_database_connection_8java" startline="213" endline="226">com.example.app.DatabaseConnection.addMenuItem</references>
+        <references refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7" compoundref="_add_menu_item_8java" startline="35">com.example.app.AddMenuItem.ingredients</references>
+        <references refid="classcom_1_1example_1_1app_1_1_menu_item_1aa93fa8684cf206a340b96d3c866303e5" compoundref="_menu_item_8java" startline="104" endline="111">com.example.app.MenuItem.MenuItemExists</references>
+        <references refid="interfacecom_1_1example_1_1app_1_1_refresh_menulist_1a7243b59261e817a64a3f12a879b35db5">com.example.app.RefreshMenulist.refreshMenuList</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a5f8630e4c056fc4288dc5d00b518559f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.setBtncancel</definition>
+        <argsstring>()</argsstring>
+        <name>setBtncancel</name>
+        <qualifiedname>com.example.app.AddMenuItem.setBtncancel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="87" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="87" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a9ea991367f74cd23d22cf3ad3a0c99f2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.setBtnaddingredient</definition>
+        <argsstring>()</argsstring>
+        <name>setBtnaddingredient</name>
+        <qualifiedname>com.example.app.AddMenuItem.setBtnaddingredient</qualifiedname>
+        <exceptions> throws Exception </exceptions>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="98" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="98" bodyend="124"/>
+        <references refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7" compoundref="_add_menu_item_8java" startline="35">com.example.app.AddMenuItem.ingredients</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a50db1e546d28339384c7b85186c34f02" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.setCategorycb</definition>
+        <argsstring>()</argsstring>
+        <name>setCategorycb</name>
+        <qualifiedname>com.example.app.AddMenuItem.setCategorycb</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="127" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="127" bodyend="152"/>
+        <references refid="classcom_1_1example_1_1app_1_1_category_1a4c357bb691e0aa015412b0af698a2164" compoundref="_category_8java" startline="16" endline="23">com.example.app.Category.CategoryNotAvailable</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1a8d4b2026d0b5e43b9d9fe771113b7f63" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.AddMenuItem.setMenuItemRefresher</definition>
+        <argsstring>(RefreshMenulist refreshMenulist)</argsstring>
+        <name>setMenuItemRefresher</name>
+        <qualifiedname>com.example.app.AddMenuItem.setMenuItemRefresher</qualifiedname>
+        <param>
+          <type><ref refid="interfacecom_1_1example_1_1app_1_1_refresh_menulist" kindref="compound">RefreshMenulist</ref></type>
+          <declname>refreshMenulist</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="154" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="154" bodyend="156"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_panel_1a8a936e40fb1b34e1fd67e837ebfa1a94" compoundref="_menu_item_panel_8java" startline="150" endline="169">com.example.app.MenuItemPanel.setBtnadd</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_add_menu_item_1ae476646ac16d17f517a007178bf3547b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>Boolean com.example.app.AddMenuItem.IngredientNotAvailable</definition>
+        <argsstring>()</argsstring>
+        <name>IngredientNotAvailable</name>
+        <qualifiedname>com.example.app.AddMenuItem.IngredientNotAvailable</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="159" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="159" bodyend="168"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="3">
+        <label>ArrayList&lt; String &gt;</label>
+      </node>
+      <node id="1">
+        <label>com.example.app.AddMenuItem</label>
+        <link refid="classcom_1_1example_1_1app_1_1_add_menu_item"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>refreshMenulist</edgelabel>
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>ingredients</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>com.example.app.RefreshMenulist</label>
+        <link refid="interfacecom_1_1example_1_1app_1_1_refresh_menulist"/>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" line="11" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/AddMenuItem.java" bodystart="11" bodyend="169"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>btnaddMenuItem</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a3561ad17d86e3cc8a4b6f0536b42c937" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>btnapply</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a50c1920f3ec5d5089f7715528a7a7a53" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>btncancel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1ab6ca7cadefd25382d818cf65dba0e9c4" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>categorycb</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a44ba90e361fa0582c64cd065c9fccdc2" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>descriptiontf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1aa1c853988cd7d0719a5f436cfc16eb3b" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>ErrorLabel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1ae476646ac16d17f517a007178bf3547b" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>IngredientNotAvailable</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a462a60b5d013041b560b4e3dcc9ff4c7" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>ingredients</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a58d2a7ac8d7242210b6131caab710777" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>ingredientsClmn</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a2cc961c6c1c3a8e70ef2d127e8e977a4" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>Ingredientstf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a6f33dcf1557bf1aeacc04506ec13d649" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>Ingredientstv</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a6af72958ca746fefccbc170788a7dce3" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>initialize</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1ac53eabd13642781b5912575dc8ef039c" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>nametf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a0626707309e7616a50ef8a6a98bec2c7" prot="private" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>pricetf</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a40b9fa21d3db30d46f11ac269a078dc0" prot="package" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>refreshMenulist</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a9ea991367f74cd23d22cf3ad3a0c99f2" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>setBtnaddingredient</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a5f8630e4c056fc4288dc5d00b518559f" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>setBtncancel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a50db1e546d28339384c7b85186c34f02" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>setCategorycb</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_add_menu_item_1a8d4b2026d0b5e43b9d9fe771113b7f63" prot="public" virt="non-virtual"><scope>com::example::app::AddMenuItem</scope><name>setMenuItemRefresher</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

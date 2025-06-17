@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_fonction" xml:lang="en-US">
+<title>com.example.app.Fonction Class Reference</title>
+<indexterm><primary>com.example.app.Fonction</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_fonction_1a57b5ceabe081954597fa66d1690d4bf6">Fonction</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_fonction_1aea753efe34e0a572e46cf9fe0a765154">Fonction</link> (String fonctionname, Boolean vieworderPanel, Boolean neworderPanel, Boolean expensesPanel, Boolean settingsPanel, Boolean reportsPanel, Boolean menuitemsPanel)</para>
+</listitem>
+            <listitem><para>Boolean <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1a6325c7b81537a7d16ad38951f80da363">isEqual</link> (String fonctionname)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1ae131d73debaa4433fd3f40828805a4ae">loadFonction</link> ()</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; String &gt; <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1a50e8708f1e4805bf6c51889d932697ca">getFonctionlist</link> ()</para>
+</listitem>
+            <listitem><para>static int <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1a780db631b60a62ad0584b29b28937efb">getFonctionlistlenght</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1a71f4f6f18c998d5cab64b09cfda920b3">deleteFonction</link> (String fonctionname)</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_fonction_1af44f69b54c4862d7373cba85691af67b">clearFonctionlist</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1a57b5ceabe081954597fa66d1690d4bf6"/><section>
+    <title>Fonction()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>Fonction</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>Fonction</secondary></indexterm>
+<para><computeroutput>com.example.app.Fonction.Fonction ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1aea753efe34e0a572e46cf9fe0a765154"/><section>
+    <title>Fonction()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>Fonction</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>Fonction</secondary></indexterm>
+<para><computeroutput>com.example.app.Fonction.Fonction (String fonctionname, Boolean vieworderPanel, Boolean neworderPanel, Boolean expensesPanel, Boolean settingsPanel, Boolean reportsPanel, Boolean menuitemsPanel)</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1af44f69b54c4862d7373cba85691af67b"/><section>
+    <title>clearFonctionlist()</title>
+<indexterm><primary>clearFonctionlist</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>clearFonctionlist</secondary></indexterm>
+<para><computeroutput>static void com.example.app.Fonction.clearFonctionlist ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1a71f4f6f18c998d5cab64b09cfda920b3"/><section>
+    <title>deleteFonction()</title>
+<indexterm><primary>deleteFonction</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>deleteFonction</secondary></indexterm>
+<para><computeroutput>static void com.example.app.Fonction.deleteFonction (String fonctionname)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_fonction_a71f4f6f18c998d5cab64b09cfda920b3_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_fonction_a71f4f6f18c998d5cab64b09cfda920b3_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1a50e8708f1e4805bf6c51889d932697ca"/><section>
+    <title>getFonctionlist()</title>
+<indexterm><primary>getFonctionlist</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>getFonctionlist</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; String &gt; com.example.app.Fonction.getFonctionlist ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_fonction_a50e8708f1e4805bf6c51889d932697ca_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1a780db631b60a62ad0584b29b28937efb"/><section>
+    <title>getFonctionlistlenght()</title>
+<indexterm><primary>getFonctionlistlenght</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>getFonctionlistlenght</secondary></indexterm>
+<para><computeroutput>static int com.example.app.Fonction.getFonctionlistlenght ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1a6325c7b81537a7d16ad38951f80da363"/><section>
+    <title>isEqual()</title>
+<indexterm><primary>isEqual</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>isEqual</secondary></indexterm>
+<para><computeroutput>Boolean com.example.app.Fonction.isEqual (String fonctionname)</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_fonction_1ae131d73debaa4433fd3f40828805a4ae"/><section>
+    <title>loadFonction()</title>
+<indexterm><primary>loadFonction</primary><secondary>com.example.app.Fonction</secondary></indexterm>
+<indexterm><primary>com.example.app.Fonction</primary><secondary>loadFonction</secondary></indexterm>
+<para><computeroutput>static void com.example.app.Fonction.loadFonction ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_fonction_ae131d73debaa4433fd3f40828805a4ae_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_fonction_ae131d73debaa4433fd3f40828805a4ae_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__fonction_8java">Fonction.java</link></section>
+</section>

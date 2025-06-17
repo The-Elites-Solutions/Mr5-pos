@@ -1,0 +1,35 @@
+This is a log entry written on Sun Jun 23 19:01:06 EEST 2024
+Users loaded from the Database Sun Jun 23 19:01:06 EEST 2024
+Users loaded Sun Jun 23 19:01:06 EEST 2024
+Fonctions loaded from database Sun Jun 23 19:01:06 EEST 2024
+Fonctions loaded Sun Jun 23 19:01:06 EEST 2024
+Expenses loaded from the Database Sun Jun 23 19:01:06 EEST 2024
+Expenses loaded Sun Jun 23 19:01:06 EEST 2024
+Menu Items loaded from the Database Sun Jun 23 19:01:06 EEST 2024
+Menu items loaded Sun Jun 23 19:01:06 EEST 2024
+Categories loaded from the Database Sun Jun 23 19:01:06 EEST 2024
+Menu items loaded Sun Jun 23 19:01:06 EEST 2024
+Dollar rates loaded Sun Jun 23 19:01:06 EEST 2024
+Dollar rates loaded Sun Jun 23 19:01:06 EEST 2024
+Everything is loaded Sun Jun 23 19:01:06 EEST 2024
+Login Button Pressed Sun Jun 23 19:01:11 EEST 2024
+User Logged In: admin
+Login Successful Sun Jun 23 19:01:11 EEST 2024
+Hello admin!!!Sun Jun 23 19:01:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:01:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:01:11 EEST 2024
+New Order Button Pressed Sun Jun 23 19:01:12 EEST 2024
+New Order Screen Loaded Sun Jun 23 19:01:12 EEST 2024
+Button Pressed: Take Out Sun Jun 23 19:01:13 EEST 2024
+Button Pressed: Add Client Sun Jun 23 19:01:14 EEST 2024
+No VPN connection detected.
+LebanonSun Jun 23 19:01:15 EEST 2024
+Button Pressed: Cancel Sun Jun 23 19:01:38 EEST 2024
+Button Pressed: Back Sun Jun 23 19:01:39 EEST 2024
+Button Pressed: Back Sun Jun 23 19:01:40 EEST 2024
+Back Button Pressed Sun Jun 23 19:01:40 EEST 2024
+Hello admin!!!Sun Jun 23 19:01:40 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:01:40 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:01:40 EEST 2024
+Power Off Button Pressed Sun Jun 23 19:01:40 EEST 2024
+Exit Button Pressed Sun Jun 23 19:01:41 EEST 2024

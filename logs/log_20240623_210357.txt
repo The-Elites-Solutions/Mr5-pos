@@ -1,0 +1,59 @@
+This is a log entry written on Sun Jun 23 21:03:57 EEST 2024
+Users loaded from the Database Sun Jun 23 21:03:58 EEST 2024
+Users loaded Sun Jun 23 21:03:58 EEST 2024
+Fonctions loaded from database Sun Jun 23 21:03:58 EEST 2024
+Fonctions loaded Sun Jun 23 21:03:58 EEST 2024
+Expenses loaded from the Database Sun Jun 23 21:03:58 EEST 2024
+Expenses loaded Sun Jun 23 21:03:58 EEST 2024
+Menu Items loaded from the Database Sun Jun 23 21:03:58 EEST 2024
+Menu items loaded Sun Jun 23 21:03:58 EEST 2024
+Categories loaded from the Database Sun Jun 23 21:03:58 EEST 2024
+Menu items loaded Sun Jun 23 21:03:58 EEST 2024
+Dollar rates loaded Sun Jun 23 21:03:58 EEST 2024
+Dollar rates loaded Sun Jun 23 21:03:58 EEST 2024
+Everything is loaded Sun Jun 23 21:03:58 EEST 2024
+Login Button Pressed Sun Jun 23 21:04:01 EEST 2024
+User Logged In: admin
+Login Successful Sun Jun 23 21:04:01 EEST 2024
+Hello admin!!!Sun Jun 23 21:04:01 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:01 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:01 EEST 2024
+Reports Button Pressed Sun Jun 23 21:04:03 EEST 2024
+Back Button Pressed
+Hello admin!!!Sun Jun 23 21:04:04 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:04 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:04 EEST 2024
+Menu Items Button Pressed Sun Jun 23 21:04:04 EEST 2024
+Refreshing Menu List 2024-06-23T21:04:05.389623500
+Back Button Pressed 2024-06-23T21:04:11.409325500
+Hello admin!!!Sun Jun 23 21:04:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:04:11 EEST 2024
+Settings Button Pressed Sun Jun 23 21:04:12 EEST 2024
+Fonction Added!
+Fonction added to the Database Sun Jun 23 21:04:27 EEST 2024
+[Admin, waiter]
+User Added!
+User added to the Database Sun Jun 23 21:04:50 EEST 2024
+{Username:admin; Password:admin; Fonction:Admin}
+{Username:johnny; Password:jneid; Fonction:waiter}
+User Added!
+User added to the Database Sun Jun 23 21:05:08 EEST 2024
+{Username:admin; Password:admin; Fonction:Admin}
+{Username:johnny; Password:jneid; Fonction:waiter}
+{Username:tatiana ; Password:chdid; Fonction:waiter}
+Fonction Deleted!
+User deleted from the Database Sun Jun 23 21:05:30 EEST 2024
+User deleted from the Database Sun Jun 23 21:05:30 EEST 2024
+Fonction deleted from the Database Sun Jun 23 21:05:30 EEST 2024
+Back Button Pressed
+Hello admin!!!Sun Jun 23 21:05:35 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:05:35 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:05:35 EEST 2024
+Settings Button Pressed Sun Jun 23 21:05:38 EEST 2024
+Back Button Pressed
+Hello admin!!!Sun Jun 23 21:05:44 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:05:44 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 21:05:44 EEST 2024
+Power Off Button Pressed Sun Jun 23 21:05:45 EEST 2024
+Exit Button Pressed Sun Jun 23 21:05:45 EEST 2024

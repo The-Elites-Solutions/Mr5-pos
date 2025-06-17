@@ -1,0 +1,33 @@
+This is a log entry written on Sat Jun 22 13:56:35 EEST 2024
+Users loaded from the Database Sat Jun 22 13:56:35 EEST 2024
+Users loaded Sat Jun 22 13:56:35 EEST 2024
+Fonctions loaded from database Sat Jun 22 13:56:35 EEST 2024
+Fonctions loaded Sat Jun 22 13:56:35 EEST 2024
+Expenses loaded from the Database Sat Jun 22 13:56:35 EEST 2024
+Expenses loaded Sat Jun 22 13:56:35 EEST 2024
+Menu Items loaded from the Database Sat Jun 22 13:56:35 EEST 2024
+Menu items loaded Sat Jun 22 13:56:35 EEST 2024
+Categories loaded from the Database Sat Jun 22 13:56:35 EEST 2024
+Menu items loaded Sat Jun 22 13:56:35 EEST 2024
+Dollar rates loaded Sat Jun 22 13:56:35 EEST 2024
+Dollar rates loaded Sat Jun 22 13:56:35 EEST 2024
+Everything is loaded Sat Jun 22 13:56:35 EEST 2024
+Login Button Pressed Sat Jun 22 13:56:38 EEST 2024
+User Logged In: admin
+Login Successful Sat Jun 22 13:56:38 EEST 2024
+Hello admin!!!Sat Jun 22 13:56:38 EEST 2024
+Access Panel loaded from the Database Sat Jun 22 13:56:38 EEST 2024
+Access Panel loaded from the Database Sat Jun 22 13:56:38 EEST 2024
+New Order Button Pressed Sat Jun 22 13:56:39 EEST 2024
+New Order Screen Loaded Sat Jun 22 13:56:39 EEST 2024
+Button Pressed: Delivery Sat Jun 22 13:56:40 EEST 2024
+Button Pressed: Add Client Sat Jun 22 13:56:40 EEST 2024
+Button Pressed: Cancel Sat Jun 22 13:56:47 EEST 2024
+Button Pressed: Back Sat Jun 22 13:56:48 EEST 2024
+Button Pressed: Back Sat Jun 22 13:56:49 EEST 2024
+Back Button Pressed Sat Jun 22 13:56:49 EEST 2024
+Hello admin!!!Sat Jun 22 13:56:49 EEST 2024
+Access Panel loaded from the Database Sat Jun 22 13:56:49 EEST 2024
+Access Panel loaded from the Database Sat Jun 22 13:56:49 EEST 2024
+Power Off Button Pressed Sat Jun 22 13:56:50 EEST 2024
+Exit Button Pressed Sat Jun 22 13:56:50 EEST 2024

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="interfacecom_1_1example_1_1app_1_1_refreshlist" kind="interface" language="Java" prot="public">
+    <compoundname>com::example::app::Refreshlist</compoundname>
+    <derivedcompoundref refid="classcom_1_1example_1_1app_1_1_expense" prot="public" virt="non-virtual">com.example.app.Expense</derivedcompoundref>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.Refreshlist.refreshExpenses</definition>
+        <argsstring>()</argsstring>
+        <name>refreshExpenses</name>
+        <qualifiedname>com.example.app.Refreshlist.refreshExpenses</qualifiedname>
+        <reimplementedby refid="classcom_1_1example_1_1app_1_1_expense_1af85aa8b2bd97355dc3e2cbd0dfe90ddd">refreshExpenses</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Refreshlist.java" line="4" column="17"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_remove_expense_1a7f7344061b10f587d8519f468aa71a41" compoundref="_remove_expense_8java" startline="32" endline="51">com.example.app.RemoveExpense.btnRemoveExpenseActionPerformed</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_expense_1a91dfe29aac2edc8d72c1e56223c294cf" compoundref="_add_expense_8java" startline="49" endline="75">com.example.app.AddExpense.setBtnAddExpense</referencedby>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>com.example.app.Refreshlist</label>
+        <link refid="interfacecom_1_1example_1_1app_1_1_refreshlist"/>
+      </node>
+      <node id="2">
+        <label>com.example.app.Expense</label>
+        <link refid="classcom_1_1example_1_1app_1_1_expense"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Refreshlist.java" line="3" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/Refreshlist.java" bodystart="3" bodyend="5"/>
+    <listofallmembers>
+      <member refid="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6" prot="public" virt="non-virtual"><scope>com::example::app::Refreshlist</scope><name>refreshExpenses</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_power_off" xml:lang="en-US">
+<title>com.example.app.PowerOff Class Reference</title>
+<indexterm><primary>com.example.app.PowerOff</primary></indexterm>
+Collaboration diagram for com.example.app.PowerOff:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_power_off__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_power_off_1ad279f922dd28c0aef06df4a71e7db786">btnLogoutAction</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_power_off_1aad0d77c289a62677551010e7e1626225">btnCancelAction</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_power_off_1ac425ff9b51e4ce3ddfbfe5ecd40deaa8">btnExitAction</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_power_off_1aad0d77c289a62677551010e7e1626225"/><section>
+    <title>btnCancelAction()</title>
+<indexterm><primary>btnCancelAction</primary><secondary>com.example.app.PowerOff</secondary></indexterm>
+<indexterm><primary>com.example.app.PowerOff</primary><secondary>btnCancelAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.PowerOff.btnCancelAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_power_off_1ac425ff9b51e4ce3ddfbfe5ecd40deaa8"/><section>
+    <title>btnExitAction()</title>
+<indexterm><primary>btnExitAction</primary><secondary>com.example.app.PowerOff</secondary></indexterm>
+<indexterm><primary>com.example.app.PowerOff</primary><secondary>btnExitAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.PowerOff.btnExitAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_power_off_1ad279f922dd28c0aef06df4a71e7db786"/><section>
+    <title>btnLogoutAction()</title>
+<indexterm><primary>btnLogoutAction</primary><secondary>com.example.app.PowerOff</secondary></indexterm>
+<indexterm><primary>com.example.app.PowerOff</primary><secondary>btnLogoutAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.PowerOff.btnLogoutAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__power_off_8java">PowerOff.java</link></section>
+</section>

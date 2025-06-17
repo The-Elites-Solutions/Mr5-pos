@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_menu_item" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::MenuItem</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1a8a4ebb988ba02edc97e11a5a937c1e59" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.MenuItem.name</definition>
+        <argsstring></argsstring>
+        <name>name</name>
+        <qualifiedname>com.example.app.MenuItem.name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="7" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1a38172e7e4423afadc505820463d59e6a" prot="private" static="no" mutable="no">
+        <type>String</type>
+        <definition>String com.example.app.MenuItem.description</definition>
+        <argsstring></argsstring>
+        <name>description</name>
+        <qualifiedname>com.example.app.MenuItem.description</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="8" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1a1d6a5e6a373a0e1301720464acebaab8" prot="private" static="no" mutable="no">
+        <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+        <definition>Category com.example.app.MenuItem.category</definition>
+        <argsstring></argsstring>
+        <name>category</name>
+        <qualifiedname>com.example.app.MenuItem.category</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="9" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1a162b95c2b307cfe6c1bab8e741e60666" prot="private" static="no" mutable="no">
+        <type>double</type>
+        <definition>double com.example.app.MenuItem.price</definition>
+        <argsstring></argsstring>
+        <name>price</name>
+        <qualifiedname>com.example.app.MenuItem.price</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="10" column="16" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1adca9c26b441e58514b3f59a2191dda18" prot="private" static="no" mutable="no">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>ArrayList&lt;String&gt; com.example.app.MenuItem.ingredients</definition>
+        <argsstring></argsstring>
+        <name>ingredients</name>
+        <qualifiedname>com.example.app.MenuItem.ingredients</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="11" column="19" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="11" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_menu_item_1a1ca1025b2129786037cdaa266d66a10e" prot="private" static="yes" mutable="no">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref> &gt;</type>
+        <definition>ArrayList&lt;MenuItem&gt; com.example.app.MenuItem.menuItems</definition>
+        <argsstring></argsstring>
+        <name>menuItems</name>
+        <qualifiedname>com.example.app.MenuItem.menuItems</qualifiedname>
+        <initializer>= new ArrayList&lt;<ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref>&gt;()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="13" column="26" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.MenuItem.MenuItem</definition>
+        <argsstring>(String name, String description, Category category, double price, ArrayList&lt; String &gt; ingredients)</argsstring>
+        <name>MenuItem</name>
+        <qualifiedname>com.example.app.MenuItem.MenuItem</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type>String</type>
+          <declname>description</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+          <declname>category</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>price</declname>
+        </param>
+        <param>
+          <type>ArrayList&lt; String &gt;</type>
+          <declname>ingredients</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="15" column="8" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="15" bodyend="22"/>
+        <references refid="classcom_1_1example_1_1app_1_1_menu_item_1a387fc5b3bca58e6c923bbda76351f644" compoundref="_menu_item_8java" startline="41" endline="43">com.example.app.MenuItem.setDescription</references>
+        <references refid="classcom_1_1example_1_1app_1_1_menu_item_1aa0953f10f772a4d78fba73d9ee4216d7" compoundref="_menu_item_8java" startline="49" endline="51">com.example.app.MenuItem.setPrice</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a387fc5b3bca58e6c923bbda76351f644" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setDescription</definition>
+        <argsstring>(String description)</argsstring>
+        <name>setDescription</name>
+        <qualifiedname>com.example.app.MenuItem.setDescription</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>description</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="41" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="41" bodyend="43"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058" compoundref="_menu_item_8java" startline="15" endline="22">com.example.app.MenuItem.MenuItem</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1aa0953f10f772a4d78fba73d9ee4216d7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setPrice</definition>
+        <argsstring>(double price)</argsstring>
+        <name>setPrice</name>
+        <qualifiedname>com.example.app.MenuItem.setPrice</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>price</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="49" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="49" bodyend="51"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058" compoundref="_menu_item_8java" startline="15" endline="22">com.example.app.MenuItem.MenuItem</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1ab101a81e9fccbe2944846d0ceb355bb4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.editIngredients</definition>
+        <argsstring>(ArrayList&lt; String &gt; ingredients)</argsstring>
+        <name>editIngredients</name>
+        <qualifiedname>com.example.app.MenuItem.editIngredients</qualifiedname>
+        <param>
+          <type>ArrayList&lt; String &gt;</type>
+          <declname>ingredients</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="55" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="55" bodyend="58"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1abe5cbe920202af96956f2a0f4b28c766" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.MenuItem.getName</definition>
+        <argsstring>()</argsstring>
+        <name>getName</name>
+        <qualifiedname>com.example.app.MenuItem.getName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="71" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="71" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a51989df59af8f11288f4a56722adf664" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>String</type>
+        <definition>String com.example.app.MenuItem.getDescription</definition>
+        <argsstring>()</argsstring>
+        <name>getDescription</name>
+        <qualifiedname>com.example.app.MenuItem.getDescription</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="75" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="75" bodyend="77"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a90a2f8c18c3152e021a07d57ee60ce57" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+        <definition>Category com.example.app.MenuItem.getCategory</definition>
+        <argsstring>()</argsstring>
+        <name>getCategory</name>
+        <qualifiedname>com.example.app.MenuItem.getCategory</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="79" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="79" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a521d0679867ef5b1cb30b547dc082f4c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>double</type>
+        <definition>double com.example.app.MenuItem.getPrice</definition>
+        <argsstring>()</argsstring>
+        <name>getPrice</name>
+        <qualifiedname>com.example.app.MenuItem.getPrice</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="83" column="15" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="83" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1aacf1aba5228c38c396e64fc851dc777f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; String &gt;</type>
+        <definition>ArrayList&lt; String &gt; com.example.app.MenuItem.getIngredients</definition>
+        <argsstring>()</argsstring>
+        <name>getIngredients</name>
+        <qualifiedname>com.example.app.MenuItem.getIngredients</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="87" column="18" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="87" bodyend="89"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setCategory</definition>
+        <argsstring>(String category)</argsstring>
+        <name>setCategory</name>
+        <qualifiedname>com.example.app.MenuItem.setCategory</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="113" column="13" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="113" bodyend="119"/>
+        <references refid="classcom_1_1example_1_1app_1_1_category_1a4c357bb691e0aa015412b0af698a2164" compoundref="_category_8java" startline="16" endline="23">com.example.app.Category.CategoryNotAvailable</references>
+        <references refid="classcom_1_1example_1_1app_1_1_category_1a24ae619f4964ddae562581e9f40f3318" compoundref="_category_8java" startline="25" endline="32">com.example.app.Category.getCategory</references>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a864d08afdbeb8e28ad380445b44feace" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref>[]</type>
+        <definition>static MenuItem[] com.example.app.MenuItem.getAllMenuItems</definition>
+        <argsstring>()</argsstring>
+        <name>getAllMenuItems</name>
+        <qualifiedname>com.example.app.MenuItem.getAllMenuItems</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="24" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="24" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1ac5774cd512ff79c5bf1be1e1276b32fc" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void com.example.app.MenuItem.removeMenuItem</definition>
+        <argsstring>(MenuItem item)</argsstring>
+        <name>removeMenuItem</name>
+        <qualifiedname>com.example.app.MenuItem.removeMenuItem</qualifiedname>
+        <param>
+          <type><ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref></type>
+          <declname>item</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="32" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="32" bodyend="35"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_panel_1a0c73ac0ce9d106ceb31d4844649a0380" compoundref="_menu_item_panel_8java" startline="46" endline="112">com.example.app.MenuItemPanel.initialize</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a2af1033595e5b8d7474ef25bd7852896" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>ArrayList&lt; <ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref> &gt;</type>
+        <definition>static ArrayList&lt; MenuItem &gt; com.example.app.MenuItem.getMenuItems</definition>
+        <argsstring>()</argsstring>
+        <name>getMenuItems</name>
+        <qualifiedname>com.example.app.MenuItem.getMenuItems</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="91" column="25" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="91" bodyend="93"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_menu_item_panel_1aee3c43c1e4b21d2c8bf885384a67c82b" compoundref="_menu_item_panel_8java" startline="114" endline="118">com.example.app.MenuItemPanel.refreshMenuList</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1af70e6a0f17fb431211242885ba53b9d1" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref></type>
+        <definition>static MenuItem com.example.app.MenuItem.getMenuItem</definition>
+        <argsstring>(String name)</argsstring>
+        <name>getMenuItem</name>
+        <qualifiedname>com.example.app.MenuItem.getMenuItem</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="95" column="24" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="95" bodyend="102"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_edit_menu_item_1acc8439078ecd6dc67aa0e75cc6fde459" compoundref="_edit_menu_item_8java" startline="92" endline="109">com.example.app.EditMenuItem.OnNameSelected</referencedby>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_edit_menu_item_1a4f03a5ef4573a7781f90f0ab79451aba" compoundref="_edit_menu_item_8java" startline="68" endline="89">com.example.app.EditMenuItem.setBtnapply</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1aa93fa8684cf206a340b96d3c866303e5" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Boolean</type>
+        <definition>static Boolean com.example.app.MenuItem.MenuItemExists</definition>
+        <argsstring>(String name, Category category)</argsstring>
+        <name>MenuItemExists</name>
+        <qualifiedname>com.example.app.MenuItem.MenuItemExists</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="104" column="23" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="104" bodyend="111"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_add_menu_item_1af7d22e686e05193bebfb7266d30932e9" compoundref="_add_menu_item_8java" startline="48" endline="84">com.example.app.AddMenuItem.btnaddMenuItem</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1aa69950eec2285e49a9ee7f92d7a83c0c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setName</definition>
+        <argsstring>(String name)</argsstring>
+        <name>setName</name>
+        <qualifiedname>com.example.app.MenuItem.setName</qualifiedname>
+        <param>
+          <type>String</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="37" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="37" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1a1d03c2bd2177848fe5f73eda32e57a3f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setCategory</definition>
+        <argsstring>(Category category)</argsstring>
+        <name>setCategory</name>
+        <qualifiedname>com.example.app.MenuItem.setCategory</qualifiedname>
+        <param>
+          <type><ref refid="classcom_1_1example_1_1app_1_1_category" kindref="compound">Category</ref></type>
+          <declname>category</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="45" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="45" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1af3b45743dc3e13f7464e8c0b6fd2ae17" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.setIngredients</definition>
+        <argsstring>(ArrayList&lt; String &gt; ingredients)</argsstring>
+        <name>setIngredients</name>
+        <qualifiedname>com.example.app.MenuItem.setIngredients</qualifiedname>
+        <param>
+          <type>ArrayList&lt; String &gt;</type>
+          <declname>ingredients</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="53" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="53" bodyend="53"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_menu_item_1acd519ffdadf21a035e079b66b59d7ce4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.MenuItem.addMenuItem</definition>
+        <argsstring>(MenuItem menuItem)</argsstring>
+        <name>addMenuItem</name>
+        <qualifiedname>com.example.app.MenuItem.addMenuItem</qualifiedname>
+        <param>
+          <type><ref refid="classcom_1_1example_1_1app_1_1_menu_item" kindref="compound">MenuItem</ref></type>
+          <declname>menuItem</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="60" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="60" bodyend="68"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" line="5" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/MenuItem.java" bodystart="5" bodyend="120"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1acd519ffdadf21a035e079b66b59d7ce4" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>addMenuItem</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a1d6a5e6a373a0e1301720464acebaab8" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>category</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a38172e7e4423afadc505820463d59e6a" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>description</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1ab101a81e9fccbe2944846d0ceb355bb4" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>editIngredients</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a864d08afdbeb8e28ad380445b44feace" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getAllMenuItems</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a90a2f8c18c3152e021a07d57ee60ce57" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a51989df59af8f11288f4a56722adf664" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getDescription</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1aacf1aba5228c38c396e64fc851dc777f" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getIngredients</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1af70e6a0f17fb431211242885ba53b9d1" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getMenuItem</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a2af1033595e5b8d7474ef25bd7852896" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getMenuItems</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1abe5cbe920202af96956f2a0f4b28c766" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getName</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a521d0679867ef5b1cb30b547dc082f4c" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>getPrice</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1adca9c26b441e58514b3f59a2191dda18" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>ingredients</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1ad1b689b181369d3f0408636565582058" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>MenuItem</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1aa93fa8684cf206a340b96d3c866303e5" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>MenuItemExists</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a1ca1025b2129786037cdaa266d66a10e" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>menuItems</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a8a4ebb988ba02edc97e11a5a937c1e59" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>name</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a162b95c2b307cfe6c1bab8e741e60666" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>price</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1ac5774cd512ff79c5bf1be1e1276b32fc" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>removeMenuItem</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a1d03c2bd2177848fe5f73eda32e57a3f" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a2ef038c2a229e3b7ee1c76c380406d0b" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setCategory</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1a387fc5b3bca58e6c923bbda76351f644" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setDescription</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1af3b45743dc3e13f7464e8c0b6fd2ae17" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setIngredients</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1aa69950eec2285e49a9ee7f92d7a83c0c" prot="private" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setName</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_menu_item_1aa0953f10f772a4d78fba73d9ee4216d7" prot="public" virt="non-virtual"><scope>com::example::app::MenuItem</scope><name>setPrice</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1view_order" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::viewOrder</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1view_order_1a56da3f055fe94d31991184a230e31aec" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.viewOrder.PrintReceipt</definition>
+        <argsstring></argsstring>
+        <name>PrintReceipt</name>
+        <qualifiedname>com.example.app.viewOrder.PrintReceipt</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" line="13" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1view_order_1a35b08591cc30e1559289e4aad4cff5f8" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.viewOrder.initialize</definition>
+        <argsstring>()</argsstring>
+        <name>initialize</name>
+        <qualifiedname>com.example.app.viewOrder.initialize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" line="16" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" bodystart="16" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1view_order_1a854e6e9665c05952ebfed92a74dc54cd" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.viewOrder.btnBackOnAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnBackOnAction</name>
+        <qualifiedname>com.example.app.viewOrder.btnBackOnAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" line="21" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" bodystart="21" bodyend="46"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" line="11" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/viewOrder.java" bodystart="11" bodyend="47"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1view_order_1a854e6e9665c05952ebfed92a74dc54cd" prot="protected" virt="non-virtual"><scope>com::example::app::viewOrder</scope><name>btnBackOnAction</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1view_order_1a35b08591cc30e1559289e4aad4cff5f8" prot="protected" virt="non-virtual"><scope>com::example::app::viewOrder</scope><name>initialize</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1view_order_1a56da3f055fe94d31991184a230e31aec" prot="private" virt="non-virtual"><scope>com::example::app::viewOrder</scope><name>PrintReceipt</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

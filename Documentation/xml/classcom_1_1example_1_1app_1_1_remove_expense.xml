@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_remove_expense" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::RemoveExpense</compoundname>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_remove_expense_1aa538f8d9d267726290d29dd9aa485a78" prot="private" static="no" mutable="no">
+        <type><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist" kindref="compound">Refreshlist</ref></type>
+        <definition>Refreshlist com.example.app.RemoveExpense.expenseRefresher</definition>
+        <argsstring></argsstring>
+        <name>expenseRefresher</name>
+        <qualifiedname>com.example.app.RemoveExpense.expenseRefresher</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="9" column="25" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="9" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_remove_expense_1a73799198be5a97583073dacf532f567a" prot="package" static="no" mutable="no">
+        <type>ComboBox&lt; String &gt;</type>
+        <definition>ComboBox&lt;String&gt; com.example.app.RemoveExpense.Expensescb</definition>
+        <argsstring></argsstring>
+        <name>Expensescb</name>
+        <qualifiedname>com.example.app.RemoveExpense.Expensescb</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="19" column="14" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_remove_expense_1a01f455aad3c7f52a0d0361ca5b9a8e78" prot="package" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label com.example.app.RemoveExpense.ErrorLabel</definition>
+        <argsstring></argsstring>
+        <name>ErrorLabel</name>
+        <qualifiedname>com.example.app.RemoveExpense.ErrorLabel</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="21" column="11" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="21" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_remove_expense_1af5f3e0a9c6b4c22a19d338ecb900c7fa" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>com.example.app.RemoveExpense.RemoveExpense</definition>
+        <argsstring>()</argsstring>
+        <name>RemoveExpense</name>
+        <qualifiedname>com.example.app.RemoveExpense.RemoveExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="11" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="11" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_remove_expense_1a35fd7a378e237fa9a168094dae2b8103" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.RemoveExpense.setExpenseRefresher</definition>
+        <argsstring>(Refreshlist expenseRefresher)</argsstring>
+        <name>setExpenseRefresher</name>
+        <qualifiedname>com.example.app.RemoveExpense.setExpenseRefresher</qualifiedname>
+        <param>
+          <type><ref refid="interfacecom_1_1example_1_1app_1_1_refreshlist" kindref="compound">Refreshlist</ref></type>
+          <declname>expenseRefresher</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="14" column="17" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="14" bodyend="16"/>
+        <referencedby refid="classcom_1_1example_1_1app_1_1_expense_1abbef728f58e6447bce89f79dc4d8c1c6" compoundref="_expense_8java" startline="65" endline="82">com.example.app.Expense.btnRemoveExpenseActionPerformed</referencedby>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_remove_expense_1ac66d559d7927ded32a65a52db668056d" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.RemoveExpense.initialize</definition>
+        <argsstring>()</argsstring>
+        <name>initialize</name>
+        <qualifiedname>com.example.app.RemoveExpense.initialize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="24" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="24" bodyend="29"/>
+        <references refid="classcom_1_1example_1_1app_1_1_expenses_1ad4457bf7ac31d57e1bfc10c0c16909be" compoundref="_expenses_8java" startline="97" endline="103">com.example.app.Expenses.getAllExpensesNames</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_remove_expense_1a7f7344061b10f587d8519f468aa71a41" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.RemoveExpense.btnRemoveExpenseActionPerformed</definition>
+        <argsstring>()</argsstring>
+        <name>btnRemoveExpenseActionPerformed</name>
+        <qualifiedname>com.example.app.RemoveExpense.btnRemoveExpenseActionPerformed</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="32" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="32" bodyend="51"/>
+        <references refid="interfacecom_1_1example_1_1app_1_1_refreshlist_1a039bd22ec937a8ee84055fc7561e30e6">com.example.app.Refreshlist.refreshExpenses</references>
+        <references refid="classcom_1_1example_1_1app_1_1_expenses_1aa24b6eac5f0a9766f81ab7e7a07c55df" compoundref="_expenses_8java" startline="104" endline="114">com.example.app.Expenses.removeExpense</references>
+      </memberdef>
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_remove_expense_1aff089b278ccedd0aa35b7482751015b0" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.RemoveExpense.btnCancelRemoveExpense</definition>
+        <argsstring>()</argsstring>
+        <name>btnCancelRemoveExpense</name>
+        <qualifiedname>com.example.app.RemoveExpense.btnCancelRemoveExpense</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="54" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="54" bodyend="62"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="2">
+        <label>ComboBox&lt; String &gt;</label>
+      </node>
+      <node id="1">
+        <label>com.example.app.RemoveExpense</label>
+        <link refid="classcom_1_1example_1_1app_1_1_remove_expense"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>Expensescb</edgelabel>
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>ErrorLabel</edgelabel>
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Label</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" line="8" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/RemoveExpense.java" bodystart="8" bodyend="63"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1aff089b278ccedd0aa35b7482751015b0" prot="protected" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>btnCancelRemoveExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1a7f7344061b10f587d8519f468aa71a41" prot="protected" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>btnRemoveExpenseActionPerformed</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1a01f455aad3c7f52a0d0361ca5b9a8e78" prot="package" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>ErrorLabel</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1aa538f8d9d267726290d29dd9aa485a78" prot="private" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>expenseRefresher</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1a73799198be5a97583073dacf532f567a" prot="package" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>Expensescb</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1ac66d559d7927ded32a65a52db668056d" prot="protected" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>initialize</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1af5f3e0a9c6b4c22a19d338ecb900c7fa" prot="public" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>RemoveExpense</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_remove_expense_1a35fd7a378e237fa9a168094dae2b8103" prot="public" virt="non-virtual"><scope>com::example::app::RemoveExpense</scope><name>setExpenseRefresher</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

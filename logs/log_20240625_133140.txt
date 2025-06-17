@@ -1,0 +1,101 @@
+This is a log entry written on Tue Jun 25 13:31:40 EEST 2024
+13:31:40.729 [main] INFO org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+13:31:40.746 [main] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+13:31:40.766 [main] INFO org.mongodb.driver.cluster - Cluster description not yet available. Waiting for 30000 ms before timing out
+13:31:40.779 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:1}] to localhost:27017
+13:31:40.789 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] DEBUG org.mongodb.driver.cluster - Checking status of localhost:27017
+13:31:40.792 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "ismaster" : 1, "$db" : "admin" }' with request id 4 to database admin on connection [connectionId{localValue:1}] to server localhost:27017
+13:31:40.795 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 4 completed successfully in 2.20 ms on connection [connectionId{localValue:1}] to server localhost:27017
+13:31:40.795 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] INFO org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[7, 0, 8]}, minWireVersion=0, maxWireVersion=21, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4591900}
+13:31:40.795 [cluster-ClusterId{value='667a9c8c6d5bb453289c5acf', description='null'}-localhost:27017] DEBUG org.mongodb.driver.cluster - Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=4.6 ms, state=CONNECTED}]
+13:31:40.801 [main] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:2}] to localhost:27017
+13:31:40.805 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 8 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.806 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 8 completed successfully in 0.99 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Users loaded from the Database Tue Jun 25 13:31:40 EEST 2024
+Users loaded Tue Jun 25 13:31:40 EEST 2024
+13:31:40.808 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 9 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.809 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 9 completed successfully in 0.90 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Fonctions loaded from database Tue Jun 25 13:31:40 EEST 2024
+Fonctions loaded Tue Jun 25 13:31:40 EEST 2024
+13:31:40.815 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "expenses", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 10 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.816 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 10 completed successfully in 1.00 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Expenses loaded from the Database Tue Jun 25 13:31:40 EEST 2024
+Expenses loaded Tue Jun 25 13:31:40 EEST 2024
+13:31:40.816 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "menuitems", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 11 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.817 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 11 completed successfully in 0.98 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Menu Items loaded from the Database Tue Jun 25 13:31:40 EEST 2024
+Menu items loaded Tue Jun 25 13:31:40 EEST 2024
+13:31:40.820 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "categories", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 12 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.821 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 12 completed successfully in 0.82 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Categories loaded from the Database Tue Jun 25 13:31:40 EEST 2024
+Menu items loaded Tue Jun 25 13:31:40 EEST 2024
+13:31:40.822 [main] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "currency", "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 13 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:40.823 [main] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 13 completed successfully in 0.84 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Dollar rates loaded Tue Jun 25 13:31:40 EEST 2024
+Dollar rates loaded Tue Jun 25 13:31:40 EEST 2024
+Everything is loaded Tue Jun 25 13:31:40 EEST 2024
+Login Button Pressed Tue Jun 25 13:31:43 EEST 2024
+User Logged In: admin
+Login Successful Tue Jun 25 13:31:43 EEST 2024
+Hello admin!!!Tue Jun 25 13:31:43 EEST 2024
+13:31:43.667 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "filter" : { "username" : "admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 14 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.668 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 14 completed successfully in 1.03 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.668 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "filter" : { "username" : "admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 15 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.668 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 15 completed successfully in 0.53 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.669 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "filter" : { "fonction" : "Admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 16 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.669 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 16 completed successfully in 0.42 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.669 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "filter" : { "fonction" : "Admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 17 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:43.671 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 17 completed successfully in 0.51 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Access Panel loaded from the Database Tue Jun 25 13:31:43 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 13:31:43 EEST 2024
+New Order Button Pressed Tue Jun 25 13:31:44 EEST 2024
+New Order Screen Loaded Tue Jun 25 13:31:44 EEST 2024
+13:31:44.646 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "Tax", "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 18 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:44.647 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 18 completed successfully in 0.91 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Scene is null in initialize method
+Button Pressed: Take Out Tue Jun 25 13:31:46 EEST 2024
+Button Pressed: Skip Tue Jun 25 13:31:46 EEST 2024
+13:31:46.812 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "Tax", "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 19 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.813 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 19 completed successfully in 0.79 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.823 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "insert" : "Orders", "ordered" : true, "$db" : "TSFPos", "documents" : [{ "_id" : { "$oid" : "667a9c926d5bb453289c5ad0" }, "OrderId" : "O1719311506810", "CustomerId" : "", "EmployeeId" : "A1693059731230", "DateOrdered" : { "$date" : "2024-06-25T10:31:46.812Z" }, "OrderStatus" : true, "OrderItems" : [], "Total" : 0.0, "isPaid" : false, "PaymentMethodId" : "", "DateCompleted" : null, "Discount" : 0.0, "Tax" : 2.5, "OrderType" : "Takeaway", "LoyaltyPoints" : 0.0, "SpecialRequest" : "", "UsedCurrency" : [] }] }' with request id 20 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.824 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 20 completed successfully in 6.86 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.825 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "Tax", "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 21 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.826 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 21 completed successfully in 0.64 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.826 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "Tax", "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 22 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.826 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 22 completed successfully in 0.40 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.827 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "Tax", "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 23 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:46.827 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 23 completed successfully in 0.43 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Category: BurgerLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: PizzaLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: SaladLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: TacosLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: PastaLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: DessertLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: SandwichLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: SoupLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 13:31:46 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 13:31:46 EEST 2024
+Button Pressed: Close Order Tue Jun 25 13:31:48 EEST 2024
+13:31:48.271 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "OrderItems", "filter" : { "orderId" : "O1719311506810" }, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 24 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:48.271 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 24 completed successfully in 0.91 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:48.274 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "update" : "Orders", "ordered" : true, "$db" : "TSFPos", "updates" : [{ "q" : { "OrderId" : "O1719311506810" }, "u" : { "$set" : { "OrderItems" : [] } } }] }' with request id 25 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:48.274 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 25 completed successfully in 0.90 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:48.275 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "delete" : "Orders", "ordered" : true, "$db" : "TSFPos", "deletes" : [{ "q" : { "OrderId" : "O1719311506810" }, "limit" : 1 }] }' with request id 26 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:48.276 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 26 completed successfully in 0.69 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Button Pressed: Back Tue Jun 25 13:31:49 EEST 2024
+Back Button Pressed Tue Jun 25 13:31:49 EEST 2024
+Hello admin!!!Tue Jun 25 13:31:49 EEST 2024
+13:31:49.147 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "filter" : { "username" : "admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 27 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.148 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 27 completed successfully in 0.96 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.148 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "users", "filter" : { "username" : "admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 28 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.149 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 28 completed successfully in 0.62 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.150 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "filter" : { "fonction" : "Admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 29 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.150 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 29 completed successfully in 0.67 ms on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.151 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Sending command '{ "find" : "fonction", "filter" : { "fonction" : "Admin" }, "limit" : 1, "singleBatch" : true, "$db" : "TSFPos", "$readPreference" : { "mode" : "primaryPreferred" } }' with request id 30 to database TSFPos on connection [connectionId{localValue:2}] to server localhost:27017
+13:31:49.151 [JavaFX Application Thread] DEBUG org.mongodb.driver.protocol.command - Execution of command with request id 30 completed successfully in 0.56 ms on connection [connectionId{localValue:2}] to server localhost:27017
+Access Panel loaded from the Database Tue Jun 25 13:31:49 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 13:31:49 EEST 2024
+Power Off Button Pressed Tue Jun 25 13:31:49 EEST 2024
+Exit Button Pressed Tue Jun 25 13:31:50 EEST 2024

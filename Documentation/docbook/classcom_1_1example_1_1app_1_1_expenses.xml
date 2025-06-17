@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_expenses" xml:lang="en-US">
+<title>com.example.app.Expenses Class Reference</title>
+<indexterm><primary>com.example.app.Expenses</primary></indexterm>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_expenses_1aa876fa74d3e9f5bf32d051e0318ff256">Expenses</link> ()</para>
+</listitem>
+            <listitem><para><link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a1c57db11bbb70382f98776fc4c060693">Expenses</link> (String name, String description, int amount, Date date, String currency)</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a526cc5696effd06f7e6b3d4f1c37e481">getAmount</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1af290cca3a359f5941d24e0ec04d11141">getDescription</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a5be2fec2c6aa58d2e57920cbc7c754ee">getName</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1abedc643f4c18671ac7fc112d2f9fc4df">getId</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1ad3279f8e89faf0dc7d7f3be18df2753b">getCurrency</link> ()</para>
+</listitem>
+            <listitem><para>String <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a4f5b355d8574af02d53c67eee78dc1bd">getDate</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static int <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a7b5f4a8bb54eb5da7b37c5dff4e32516">getTotalExpenses</link> ()</para>
+</listitem>
+            <listitem><para>static int <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a0e3d36b3a38952b80c2c091ad60accfc">getTotalAmount</link> ()</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_expenses">Expenses</link> &gt; <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a3782fac40a53099b0dd0eecb6b50a081">getAllExpenses</link> ()</para>
+</listitem>
+            <listitem><para>static ArrayList&lt; String &gt; <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1ad4457bf7ac31d57e1bfc10c0c16909be">getAllExpensesNames</link> ()</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1aa24b6eac5f0a9766f81ab7e7a07c55df">removeExpense</link> (String name)</para>
+</listitem>
+            <listitem><para>static Boolean <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a681092368522b2dd026c593c13973e08">checkExpense</link> (String name)</para>
+</listitem>
+            <listitem><para>static void <link linkend="_classcom_1_1example_1_1app_1_1_expenses_1a19493a89e2a56567363bb1215dfbfce2">removeAllExpenses</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1aa876fa74d3e9f5bf32d051e0318ff256"/><section>
+    <title>Expenses()<computeroutput>[1/2]</computeroutput></title>
+<indexterm><primary>Expenses</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>Expenses</secondary></indexterm>
+<para><computeroutput>com.example.app.Expenses.Expenses ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a1c57db11bbb70382f98776fc4c060693"/><section>
+    <title>Expenses()<computeroutput>[2/2]</computeroutput></title>
+<indexterm><primary>Expenses</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>Expenses</secondary></indexterm>
+<para><computeroutput>com.example.app.Expenses.Expenses (String name, String description, int amount, Date date, String currency)</computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a681092368522b2dd026c593c13973e08"/><section>
+    <title>checkExpense()</title>
+<indexterm><primary>checkExpense</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>checkExpense</secondary></indexterm>
+<para><computeroutput>static Boolean com.example.app.Expenses.checkExpense (String name)<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a3782fac40a53099b0dd0eecb6b50a081"/><section>
+    <title>getAllExpenses()</title>
+<indexterm><primary>getAllExpenses</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getAllExpenses</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; <link linkend="_classcom_1_1example_1_1app_1_1_expenses">Expenses</link> &gt; com.example.app.Expenses.getAllExpenses ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expenses_a3782fac40a53099b0dd0eecb6b50a081_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1ad4457bf7ac31d57e1bfc10c0c16909be"/><section>
+    <title>getAllExpensesNames()</title>
+<indexterm><primary>getAllExpensesNames</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getAllExpensesNames</secondary></indexterm>
+<para><computeroutput>static ArrayList&lt; String &gt; com.example.app.Expenses.getAllExpensesNames ( )<computeroutput>[static]</computeroutput></computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expenses_ad4457bf7ac31d57e1bfc10c0c16909be_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a526cc5696effd06f7e6b3d4f1c37e481"/><section>
+    <title>getAmount()</title>
+<indexterm><primary>getAmount</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getAmount</secondary></indexterm>
+<para><computeroutput>int com.example.app.Expenses.getAmount ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1ad3279f8e89faf0dc7d7f3be18df2753b"/><section>
+    <title>getCurrency()</title>
+<indexterm><primary>getCurrency</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getCurrency</secondary></indexterm>
+<para><computeroutput>String com.example.app.Expenses.getCurrency ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a4f5b355d8574af02d53c67eee78dc1bd"/><section>
+    <title>getDate()</title>
+<indexterm><primary>getDate</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getDate</secondary></indexterm>
+<para><computeroutput>String com.example.app.Expenses.getDate ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1af290cca3a359f5941d24e0ec04d11141"/><section>
+    <title>getDescription()</title>
+<indexterm><primary>getDescription</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getDescription</secondary></indexterm>
+<para><computeroutput>String com.example.app.Expenses.getDescription ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1abedc643f4c18671ac7fc112d2f9fc4df"/><section>
+    <title>getId()</title>
+<indexterm><primary>getId</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getId</secondary></indexterm>
+<para><computeroutput>int com.example.app.Expenses.getId ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a5be2fec2c6aa58d2e57920cbc7c754ee"/><section>
+    <title>getName()</title>
+<indexterm><primary>getName</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getName</secondary></indexterm>
+<para><computeroutput>String com.example.app.Expenses.getName ( )</computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a0e3d36b3a38952b80c2c091ad60accfc"/><section>
+    <title>getTotalAmount()</title>
+<indexterm><primary>getTotalAmount</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getTotalAmount</secondary></indexterm>
+<para><computeroutput>static int com.example.app.Expenses.getTotalAmount ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a7b5f4a8bb54eb5da7b37c5dff4e32516"/><section>
+    <title>getTotalExpenses()</title>
+<indexterm><primary>getTotalExpenses</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>getTotalExpenses</secondary></indexterm>
+<para><computeroutput>static int com.example.app.Expenses.getTotalExpenses ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1a19493a89e2a56567363bb1215dfbfce2"/><section>
+    <title>removeAllExpenses()</title>
+<indexterm><primary>removeAllExpenses</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>removeAllExpenses</secondary></indexterm>
+<para><computeroutput>static void com.example.app.Expenses.removeAllExpenses ( )<computeroutput>[static]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_expenses_1aa24b6eac5f0a9766f81ab7e7a07c55df"/><section>
+    <title>removeExpense()</title>
+<indexterm><primary>removeExpense</primary><secondary>com.example.app.Expenses</secondary></indexterm>
+<indexterm><primary>com.example.app.Expenses</primary><secondary>removeExpense</secondary></indexterm>
+<para><computeroutput>static void com.example.app.Expenses.removeExpense (String name)<computeroutput>[static]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expenses_aa24b6eac5f0a9766f81ab7e7a07c55df_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_expenses_aa24b6eac5f0a9766f81ab7e7a07c55df_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__expenses_8java">Expenses.java</link></section>
+</section>

@@ -1,0 +1,39 @@
+This is a log entry written on Sun Jun 23 13:48:06 EEST 2024
+Users loaded from the Database Sun Jun 23 13:48:06 EEST 2024
+Users loaded Sun Jun 23 13:48:06 EEST 2024
+Fonctions loaded from database Sun Jun 23 13:48:06 EEST 2024
+Fonctions loaded Sun Jun 23 13:48:06 EEST 2024
+Expenses loaded from the Database Sun Jun 23 13:48:07 EEST 2024
+Expenses loaded Sun Jun 23 13:48:07 EEST 2024
+Menu Items loaded from the Database Sun Jun 23 13:48:07 EEST 2024
+Menu items loaded Sun Jun 23 13:48:07 EEST 2024
+Categories loaded from the Database Sun Jun 23 13:48:07 EEST 2024
+Menu items loaded Sun Jun 23 13:48:07 EEST 2024
+Dollar rates loaded Sun Jun 23 13:48:07 EEST 2024
+Dollar rates loaded Sun Jun 23 13:48:07 EEST 2024
+Everything is loaded Sun Jun 23 13:48:07 EEST 2024
+Login Button Pressed Sun Jun 23 13:53:14 EEST 2024
+User Logged In: admin
+Login Successful Sun Jun 23 13:53:14 EEST 2024
+Hello admin!!!Sun Jun 23 13:53:14 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 13:53:14 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 13:53:14 EEST 2024
+New Order Button Pressed Sun Jun 23 13:53:15 EEST 2024
+New Order Screen Loaded Sun Jun 23 13:53:15 EEST 2024
+Button Pressed: Delivery Sun Jun 23 13:55:44 EEST 2024
+Button Pressed: Add Client Sun Jun 23 13:55:45 EEST 2024
+Button Pressed: Add Address Sun Jun 23 13:55:48 EEST 2024
+No VPN connection detected.
+LebanonSun Jun 23 13:55:49 EEST 2024
+No VPN connection detected.
+LebanonSun Jun 23 13:55:51 EEST 2024
+Button Pressed: Cancel Sun Jun 23 13:56:23 EEST 2024
+Button Pressed: Cancel Sun Jun 23 13:56:33 EEST 2024
+Button Pressed: Back Sun Jun 23 13:56:35 EEST 2024
+Button Pressed: Back Sun Jun 23 13:56:36 EEST 2024
+Back Button Pressed Sun Jun 23 13:56:36 EEST 2024
+Hello admin!!!Sun Jun 23 13:56:36 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 13:56:36 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 13:56:36 EEST 2024
+Power Off Button Pressed Sun Jun 23 13:56:37 EEST 2024
+Exit Button Pressed Sun Jun 23 13:56:37 EEST 2024

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Point3D?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="480.0" prefWidth="720.0" style="-fx-background-color: #252525;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.app.screens.HomeScreen">
+   <children>
+      <GridPane fx:id="gridPane" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="460.0" prefWidth="700.0" style="-fx-background-color: #fcfcfc;">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="175.0" minWidth="10.0" prefWidth="140.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="175.0" minWidth="10.0" prefWidth="140.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="175.0" minWidth="10.0" prefWidth="140.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="175.0" minWidth="10.0" prefWidth="140.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="140.0" minWidth="140.0" prefWidth="140.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="153.0" minHeight="153.0" prefHeight="153.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="153.0" minHeight="153.0" prefHeight="153.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="153.0" minHeight="153.0" prefHeight="153.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Pane fx:id="PowerOffPane" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="4" GridPane.rowIndex="2">
+               <children>
+                  <ImageView fx:id="powerOffIcon" fitHeight="87.0" fitWidth="87.0" layoutX="27.0" layoutY="33.0" onMouseClicked="#btnPowerOffAction" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Logo/PowerOff.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+         </children>
+         <rotationAxis>
+            <Point3D />
+         </rotationAxis>
+      </GridPane>
+   </children>
+</AnchorPane>

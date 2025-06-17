@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="204.0" prefWidth="314.0" style="-fx-background-color: #252525;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.app.PowerOff">
+   <children>
+      <Pane layoutX="7.0" layoutY="7.0" prefHeight="191.0" prefWidth="300.0" style="-fx-background-color: #fcfcfc;">
+         <children>
+            <ImageView fx:id="imageView" fitHeight="119.0" fitWidth="134.0" layoutX="85.0" layoutY="14.0">
+               <image>
+                  <Image url="@Logo/Logo.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="btnLogout" layoutX="17.0" layoutY="147.0" mnemonicParsing="false" onAction="#btnLogoutAction" prefHeight="25.0" prefWidth="83.0" style="-fx-background-color: #989898;" text="Logout" textFill="#fcfcfc">
+               <font>
+                  <Font name="Times New Roman Bold Italic" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnExit" layoutX="201.0" layoutY="147.0" mnemonicParsing="false" onAction="#btnExitAction" prefHeight="25.0" prefWidth="83.0" style="-fx-background-color: #989898;" text="Exit" textFill="#fcfcfc">
+               <font>
+                  <Font name="Times New Roman Bold Italic" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="btnCancel" layoutX="110.0" layoutY="147.0" mnemonicParsing="false" onAction="#btnCancelAction" prefHeight="25.0" prefWidth="83.0" style="-fx-background-color: #989898;" text="cancel" textFill="#fcfcfc">
+               <font>
+                  <Font name="Times New Roman Bold Italic" size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+      <Label fx:id="ErrLabel" layoutX="384.0" layoutY="224.0" prefHeight="17.0" prefWidth="207.0" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="12.0" />
+         </font></Label>
+   </children>
+</Pane>

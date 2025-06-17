@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_classcom_1_1example_1_1app_1_1_remove_rate" xml:lang="en-US">
+<title>com.example.app.RemoveRate Class Reference</title>
+<indexterm><primary>com.example.app.RemoveRate</primary></indexterm>
+Collaboration diagram for com.example.app.RemoveRate:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_remove_rate__coll__graph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_remove_rate_1a60024ae78ccf657773aea78df8a50d7e">setRateRefresher</link> (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_settings">RefreshSettings</link> rateRefresher)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_remove_rate_1afe18cba78bf093caae9a14446ca62863">initialize</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_remove_rate_1a41bf99707049c878d3fb611159b9a421">DeleteRateOnAction</link> ()</para>
+</listitem>
+            <listitem><para>void <link linkend="_classcom_1_1example_1_1app_1_1_remove_rate_1a8902b4aeb8e17de8ad60a52bfd667c04">cancelbtnOnAction</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_remove_rate_1a8902b4aeb8e17de8ad60a52bfd667c04"/><section>
+    <title>cancelbtnOnAction()</title>
+<indexterm><primary>cancelbtnOnAction</primary><secondary>com.example.app.RemoveRate</secondary></indexterm>
+<indexterm><primary>com.example.app.RemoveRate</primary><secondary>cancelbtnOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.RemoveRate.cancelbtnOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para></section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_remove_rate_1a41bf99707049c878d3fb611159b9a421"/><section>
+    <title>DeleteRateOnAction()</title>
+<indexterm><primary>DeleteRateOnAction</primary><secondary>com.example.app.RemoveRate</secondary></indexterm>
+<indexterm><primary>com.example.app.RemoveRate</primary><secondary>DeleteRateOnAction</secondary></indexterm>
+<para><computeroutput>void com.example.app.RemoveRate.DeleteRateOnAction ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_remove_rate_a41bf99707049c878d3fb611159b9a421_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_remove_rate_1afe18cba78bf093caae9a14446ca62863"/><section>
+    <title>initialize()</title>
+<indexterm><primary>initialize</primary><secondary>com.example.app.RemoveRate</secondary></indexterm>
+<indexterm><primary>com.example.app.RemoveRate</primary><secondary>initialize</secondary></indexterm>
+<para><computeroutput>void com.example.app.RemoveRate.initialize ( )<computeroutput>[protected]</computeroutput></computeroutput></para>Here is the call graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_remove_rate_afe18cba78bf093caae9a14446ca62863_cgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<anchor xml:id="_classcom_1_1example_1_1app_1_1_remove_rate_1a60024ae78ccf657773aea78df8a50d7e"/><section>
+    <title>setRateRefresher()</title>
+<indexterm><primary>setRateRefresher</primary><secondary>com.example.app.RemoveRate</secondary></indexterm>
+<indexterm><primary>com.example.app.RemoveRate</primary><secondary>setRateRefresher</secondary></indexterm>
+<para><computeroutput>void com.example.app.RemoveRate.setRateRefresher (<link linkend="_interfacecom_1_1example_1_1app_1_1_refresh_settings">RefreshSettings</link> rateRefresher)</computeroutput></para>Here is the caller graph for this function:<para>
+    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="classcom_1_1example_1_1app_1_1_remove_rate_a60024ae78ccf657773aea78df8a50d7e_icgraph.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/<link linkend="__remove_rate_8java">RemoveRate.java</link></section>
+</section>

@@ -1,0 +1,54 @@
+This is a log entry written on Tue Jun 25 01:16:00 EEST 2024
+Users loaded from the Database Tue Jun 25 01:16:00 EEST 2024
+Users loaded Tue Jun 25 01:16:00 EEST 2024
+Fonctions loaded from database Tue Jun 25 01:16:00 EEST 2024
+Fonctions loaded Tue Jun 25 01:16:00 EEST 2024
+Expenses loaded from the Database Tue Jun 25 01:16:00 EEST 2024
+Expenses loaded Tue Jun 25 01:16:00 EEST 2024
+Menu Items loaded from the Database Tue Jun 25 01:16:00 EEST 2024
+Menu items loaded Tue Jun 25 01:16:00 EEST 2024
+Categories loaded from the Database Tue Jun 25 01:16:00 EEST 2024
+Menu items loaded Tue Jun 25 01:16:00 EEST 2024
+Dollar rates loaded Tue Jun 25 01:16:00 EEST 2024
+Dollar rates loaded Tue Jun 25 01:16:00 EEST 2024
+Everything is loaded Tue Jun 25 01:16:00 EEST 2024
+Login Button Pressed Tue Jun 25 01:16:05 EEST 2024
+User Logged In: admin
+Login Successful Tue Jun 25 01:16:05 EEST 2024
+Hello admin!!!Tue Jun 25 01:16:05 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:05 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:05 EEST 2024
+New Order Button Pressed Tue Jun 25 01:16:06 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:16:06 EEST 2024
+Button Pressed: Delivery Tue Jun 25 01:16:07 EEST 2024
+Button Pressed: Add Client Tue Jun 25 01:16:08 EEST 2024
+No VPN connection detected.
+LebanonTue Jun 25 01:16:09 EEST 2024
+Button Pressed: Cancel Tue Jun 25 01:16:10 EEST 2024
+Button Pressed: Back Tue Jun 25 01:16:11 EEST 2024
+Button Pressed: Back Tue Jun 25 01:16:12 EEST 2024
+Back Button Pressed Tue Jun 25 01:16:12 EEST 2024
+Hello admin!!!Tue Jun 25 01:16:12 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:12 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:12 EEST 2024
+New Order Button Pressed Tue Jun 25 01:16:13 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:16:13 EEST 2024
+Button Pressed: Back Tue Jun 25 01:16:14 EEST 2024
+Back Button Pressed Tue Jun 25 01:16:14 EEST 2024
+Hello admin!!!Tue Jun 25 01:16:14 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:14 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:14 EEST 2024
+Power Off Button Pressed Tue Jun 25 01:16:15 EEST 2024
+Logout Button Pressed Tue Jun 25 01:16:16 EEST 2024
+Login Button Pressed Tue Jun 25 01:16:21 EEST 2024
+User Logged In: ziad
+Login Successful Tue Jun 25 01:16:21 EEST 2024
+Hello ziad!!!Tue Jun 25 01:16:21 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:21 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:16:21 EEST 2024
+New Order Button Pressed Tue Jun 25 01:16:21 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:16:21 EEST 2024
+New Order Button Pressed Tue Jun 25 01:16:23 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:16:23 EEST 2024
+Power Off Button Pressed Tue Jun 25 01:22:55 EEST 2024
+Exit Button Pressed Tue Jun 25 01:22:55 EEST 2024

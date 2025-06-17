@@ -1,0 +1,30 @@
+This is a log entry written on Sun Jun 23 19:06:03 EEST 2024
+Users loaded from the Database Sun Jun 23 19:06:03 EEST 2024
+Users loaded Sun Jun 23 19:06:03 EEST 2024
+Fonctions loaded from database Sun Jun 23 19:06:03 EEST 2024
+Fonctions loaded Sun Jun 23 19:06:03 EEST 2024
+Expenses loaded from the Database Sun Jun 23 19:06:03 EEST 2024
+Expenses loaded Sun Jun 23 19:06:03 EEST 2024
+Menu Items loaded from the Database Sun Jun 23 19:06:03 EEST 2024
+Menu items loaded Sun Jun 23 19:06:03 EEST 2024
+Categories loaded from the Database Sun Jun 23 19:06:03 EEST 2024
+Menu items loaded Sun Jun 23 19:06:03 EEST 2024
+Dollar rates loaded Sun Jun 23 19:06:03 EEST 2024
+Dollar rates loaded Sun Jun 23 19:06:03 EEST 2024
+Everything is loaded Sun Jun 23 19:06:03 EEST 2024
+Login Button Pressed Sun Jun 23 19:06:06 EEST 2024
+Login Failed Sun Jun 23 19:06:06 EEST 2024
+Login Button Pressed Sun Jun 23 19:06:10 EEST 2024
+Login Failed Sun Jun 23 19:06:10 EEST 2024
+Login Button Pressed Sun Jun 23 19:06:11 EEST 2024
+User Logged In: admin
+Login Successful Sun Jun 23 19:06:11 EEST 2024
+Hello admin!!!Sun Jun 23 19:06:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:06:11 EEST 2024
+Access Panel loaded from the Database Sun Jun 23 19:06:11 EEST 2024
+New Order Button Pressed Sun Jun 23 19:06:13 EEST 2024
+New Order Screen Loaded Sun Jun 23 19:06:13 EEST 2024
+Button Pressed: Delivery Sun Jun 23 19:06:13 EEST 2024
+Button Pressed: Search Sun Jun 23 19:06:14 EEST 2024
+Database connection successful
+Database connection successful

@@ -1,0 +1,177 @@
+This is a log entry written on Tue Jun 25 01:39:17 EEST 2024
+Users loaded from the Database Tue Jun 25 01:39:18 EEST 2024
+Users loaded Tue Jun 25 01:39:18 EEST 2024
+Fonctions loaded from database Tue Jun 25 01:39:18 EEST 2024
+Fonctions loaded Tue Jun 25 01:39:18 EEST 2024
+Expenses loaded from the Database Tue Jun 25 01:39:18 EEST 2024
+Expenses loaded Tue Jun 25 01:39:18 EEST 2024
+Menu Items loaded from the Database Tue Jun 25 01:39:18 EEST 2024
+Menu items loaded Tue Jun 25 01:39:18 EEST 2024
+Categories loaded from the Database Tue Jun 25 01:39:18 EEST 2024
+Menu items loaded Tue Jun 25 01:39:18 EEST 2024
+Dollar rates loaded Tue Jun 25 01:39:18 EEST 2024
+Dollar rates loaded Tue Jun 25 01:39:18 EEST 2024
+Everything is loaded Tue Jun 25 01:39:18 EEST 2024
+Login Button Pressed Tue Jun 25 01:39:21 EEST 2024
+User Logged In: admin
+Login Successful Tue Jun 25 01:39:21 EEST 2024
+Hello admin!!!Tue Jun 25 01:39:21 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:39:21 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:39:21 EEST 2024
+New Order Button Pressed Tue Jun 25 01:39:23 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:39:23 EEST 2024
+Button Pressed: Take Out Tue Jun 25 01:39:25 EEST 2024
+Button Pressed: Search Tue Jun 25 01:39:26 EEST 2024
+Button Pressed: Choose Address Tue Jun 25 01:39:30 EEST 2024
+main street, haref ardeh, 00000, Lebanon
+Address ID: L1719268583340
+Category: BurgerLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: PizzaLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: SaladLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: TacosLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: PastaLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: DessertLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: SandwichLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: SoupLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 01:39:30 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 01:39:30 EEST 2024
+Button Pressed: Soup Tue Jun 25 01:39:33 EEST 2024
+Category: BurgerLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: PizzaLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: SaladLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: TacosLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: PastaLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: DessertLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: SandwichLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: SoupLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 01:39:34 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 01:39:34 EEST 2024
+Button Pressed: Burger Tue Jun 25 01:39:34 EEST 2024
+Item: Double CheeseburgerLoaded Tue Jun 25 01:39:34 EEST 2024
+Item: Bacon BurgerLoaded Tue Jun 25 01:39:34 EEST 2024
+Item: Mushroom Swiss BurgerLoaded Tue Jun 25 01:39:34 EEST 2024
+Button Pressed: Bacon Burger Tue Jun 25 01:39:35 EEST 2024
+Ingredients loaded from the Database Tue Jun 25 01:39:35 EEST 2024
+Ingredient: beef pattyLoaded Tue Jun 25 01:39:35 EEST 2024
+Ingredient: baconLoaded Tue Jun 25 01:39:35 EEST 2024
+Ingredient: lettuceLoaded Tue Jun 25 01:39:35 EEST 2024
+Ingredient: tomatoLoaded Tue Jun 25 01:39:35 EEST 2024
+Ingredient: cheddar cheeseLoaded Tue Jun 25 01:39:35 EEST 2024
+Ingredient: BBQ sauceLoaded Tue Jun 25 01:39:35 EEST 2024
+Button Pressed: lettuce Tue Jun 25 01:39:35 EEST 2024
+Ingredient: lettuceAdded Tue Jun 25 01:39:35 EEST 2024
+Button Pressed: tomato Tue Jun 25 01:39:35 EEST 2024
+Ingredient: tomatoAdded Tue Jun 25 01:39:35 EEST 2024
+Button Pressed: Done Tue Jun 25 01:39:36 EEST 2024
+Order Item ID: OI1719268776259
+Order ID: O1719268770017
+Database connection successful
+Order Item ID: OI1719268776263
+Order ID: O1719268770017
+Database connection successful
+Order Item ID: OI1719268776268
+Order ID: O1719268770017
+Database connection successful
+Category: BurgerLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: PizzaLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: SaladLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: TacosLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: PastaLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: DessertLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: SandwichLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: SoupLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 01:39:36 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 01:39:36 EEST 2024
+Button Pressed: Close Order Tue Jun 25 01:39:37 EEST 2024
+Back Button Pressed Tue Jun 25 01:39:37 EEST 2024
+Hello admin!!!Tue Jun 25 01:39:37 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:39:37 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:39:37 EEST 2024
+New Order Button Pressed Tue Jun 25 01:40:02 EEST 2024
+New Order Screen Loaded Tue Jun 25 01:40:02 EEST 2024
+Button Pressed: Delivery Tue Jun 25 01:40:03 EEST 2024
+Button Pressed: Back Tue Jun 25 01:40:04 EEST 2024
+Button Pressed: Dine In Tue Jun 25 01:40:05 EEST 2024
+Table is occupied
+Table is available
+Table: 2Loaded Tue Jun 25 01:40:05 EEST 2024
+Table is occupied
+Table is available
+Table: 4Loaded Tue Jun 25 01:40:05 EEST 2024
+Table is occupied
+Table is available
+Table: 6Loaded Tue Jun 25 01:40:05 EEST 2024
+Table is occupied
+Table is available
+Table: 8Loaded Tue Jun 25 01:40:05 EEST 2024
+Table is occupied
+Table is available
+Table: 10Loaded Tue Jun 25 01:40:05 EEST 2024
+Button Pressed: Table 6 Tue Jun 25 01:40:05 EEST 2024
+Button Pressed: Skip Tue Jun 25 01:40:06 EEST 2024
+Category: BurgerLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: PizzaLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: SaladLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: TacosLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: PastaLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: DessertLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: SandwichLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: SoupLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 01:40:06 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 01:40:06 EEST 2024
+Button Pressed: Salad Tue Jun 25 01:40:07 EEST 2024
+Item: Cobb SaladLoaded Tue Jun 25 01:40:07 EEST 2024
+Item: Greek SaladLoaded Tue Jun 25 01:40:07 EEST 2024
+Item: Caesar SaladLoaded Tue Jun 25 01:40:07 EEST 2024
+Button Pressed: Cobb Salad Tue Jun 25 01:40:07 EEST 2024
+Ingredients loaded from the Database Tue Jun 25 01:40:07 EEST 2024
+Ingredient: romaine lettuceLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: chickenLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: baconLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: avocadoLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: blue cheeseLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: tomatoLoaded Tue Jun 25 01:40:07 EEST 2024
+Ingredient: eggLoaded Tue Jun 25 01:40:07 EEST 2024
+Button Pressed: chicken Tue Jun 25 01:40:08 EEST 2024
+Ingredient: chickenAdded Tue Jun 25 01:40:08 EEST 2024
+Button Pressed: bacon Tue Jun 25 01:40:08 EEST 2024
+Ingredient: baconAdded Tue Jun 25 01:40:08 EEST 2024
+Button Pressed: avocado Tue Jun 25 01:40:08 EEST 2024
+Ingredient: avocadoAdded Tue Jun 25 01:40:08 EEST 2024
+Button Pressed: Done Tue Jun 25 01:40:09 EEST 2024
+Order Item ID: OI1719268809194
+Order ID: O1719268806895
+Database connection successful
+Order Item ID: OI1719268809197
+Order ID: O1719268806895
+Database connection successful
+Order Item ID: OI1719268809199
+Order ID: O1719268806895
+Database connection successful
+Category: BurgerLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: PizzaLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: SaladLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: TacosLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: AppetizerLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: PastaLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: DessertLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: BeveragesLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: SandwichLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: SoupLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: SeafoodLoaded Tue Jun 25 01:40:09 EEST 2024
+Category: BreakfastLoaded Tue Jun 25 01:40:09 EEST 2024
+Button Pressed: Close Order Tue Jun 25 01:40:10 EEST 2024
+Back Button Pressed Tue Jun 25 01:40:10 EEST 2024
+Hello admin!!!Tue Jun 25 01:40:10 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:40:10 EEST 2024
+Access Panel loaded from the Database Tue Jun 25 01:40:10 EEST 2024
+Power Off Button Pressed Tue Jun 25 01:40:41 EEST 2024
+Exit Button Pressed Tue Jun 25 01:40:42 EEST 2024

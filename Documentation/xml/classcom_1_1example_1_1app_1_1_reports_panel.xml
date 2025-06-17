@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="classcom_1_1example_1_1app_1_1_reports_panel" kind="class" language="Java" prot="public">
+    <compoundname>com::example::app::ReportsPanel</compoundname>
+    <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="classcom_1_1example_1_1app_1_1_reports_panel_1aba5ead7e97de80347eb49d6d1d22994d" prot="package" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button com.example.app.ReportsPanel.btnBack</definition>
+        <argsstring></argsstring>
+        <name>btnBack</name>
+        <qualifiedname>com.example.app.ReportsPanel.btnBack</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" line="13" column="12" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" bodystart="13" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classcom_1_1example_1_1app_1_1_reports_panel_1ad7e82bcb69e8e5d98870b00fb722db20" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void com.example.app.ReportsPanel.btnBackOnAction</definition>
+        <argsstring>()</argsstring>
+        <name>btnBackOnAction</name>
+        <qualifiedname>com.example.app.ReportsPanel.btnBackOnAction</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" line="16" column="20" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" bodystart="16" bodyend="37"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="1">
+        <label>com.example.app.ReportsPanel</label>
+        <link refid="classcom_1_1example_1_1app_1_1_reports_panel"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>btnBack</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Button</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" line="11" column="7" bodyfile="C:/Users/johnn/Documents/Universal Script/Teams/TSF/POS/TSFApp/App/src/main/java/com/example/app/ReportsPanel.java" bodystart="11" bodyend="38"/>
+    <listofallmembers>
+      <member refid="classcom_1_1example_1_1app_1_1_reports_panel_1aba5ead7e97de80347eb49d6d1d22994d" prot="package" virt="non-virtual"><scope>com::example::app::ReportsPanel</scope><name>btnBack</name></member>
+      <member refid="classcom_1_1example_1_1app_1_1_reports_panel_1ad7e82bcb69e8e5d98870b00fb722db20" prot="protected" virt="non-virtual"><scope>com::example::app::ReportsPanel</scope><name>btnBackOnAction</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
