@@ -18,7 +18,6 @@
     import src.models.MenuItem;
     import src.services.AddressService;
     import src.services.CustomerService;
-    import src.utils.LocationFinder;
 
     import java.time.Instant;
     import java.util.ArrayList;
@@ -970,7 +969,7 @@
                     "United States", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City",
                     "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
             );
-            Country.setValue(LocationFinder.checkLocation());
+//            Country.setValue(LocationFinder.checkLocation());
 
             AddCustomer.setOnAction(e -> {
                 System.out.println("Button Pressed: Add Customer " + Date.from(Instant.now()));
